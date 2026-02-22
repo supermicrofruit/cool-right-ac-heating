@@ -1,0 +1,63 @@
+{
+  "categories": [
+    {
+      "name": "Electrical Safety",
+      "slug": "electrical-safety"
+    },
+    {
+      "name": "EV Charging",
+      "slug": "ev-charging"
+    },
+    {
+      "name": "Seasonal Tips",
+      "slug": "seasonal-tips"
+    }
+  ],
+  "posts": [
+    {
+      "slug": "signs-you-need-panel-upgrade",
+      "title": "5 Signs Your Electrical Panel Needs an Upgrade",
+      "excerpt": "An outdated electrical panel can be a safety hazard. Learn when it's time for an upgrade.",
+      "content": "Your electrical panel is the heart of your home's electrical system. Here are signs it needs attention:\n\n## 1. Frequent Breaker Trips\nIf breakers trip regularly, your panel may be overloaded.\n\n## 2. Flickering Lights\nLights dimming when appliances turn on indicates insufficient capacity.\n\n## 3. Burning Smell or Scorch Marks\nThis is an emergency — call an electrician immediately.\n\n## 4. You Still Have a Fuse Box\nFuse boxes should be upgraded to modern breaker panels for safety.\n\n## 5. Planning Home Additions\nNew rooms, EV chargers, or hot tubs require additional capacity.\n\nBright Spark Electric offers free panel inspections for Denver homeowners.",
+      "authorId": "electrical-team",
+      "date": "2024-03-15",
+      "category": {
+        "name": "Electrical Safety",
+        "slug": "electrical-safety"
+      },
+      "metaTitle": "5 Signs Your Electrical Panel Needs an Upgrade",
+      "metaDescription": "An outdated electrical panel can be a safety hazard. Learn when it's time for an upgrade.",
+      "readTime": "4 min read"
+    },
+    {
+      "slug": "ev-charger-home-guide",
+      "title": "The Complete Guide to Home EV Charger Installation",
+      "excerpt": "Everything you need to know about installing an electric vehicle charger at your Denver home.",
+      "content": "Thinking about a home EV charger? Here's what to know:\n\n## Level 1 vs Level 2\n- Level 1: Standard outlet, 3-5 miles/hour charge\n- Level 2: 240V dedicated circuit, 25-30 miles/hour charge\n\n## What You'll Need\n- 240V dedicated circuit (40-60 amps)\n- Possible panel upgrade if capacity is limited\n- Permit and inspection (we handle this)\n\n## Popular Chargers\n- Tesla Wall Connector\n- ChargePoint Home Flex\n- Emporia Level 2\n\n## Cost Factors\n- Distance from panel to garage\n- Panel upgrade needed?\n- Conduit routing\n\nContact Bright Spark Electric for a free EV charger installation estimate.",
+      "authorId": "electrical-team",
+      "date": "2024-02-20",
+      "category": {
+        "name": "EV Charging",
+        "slug": "ev-charging"
+      },
+      "metaTitle": "The Complete Guide to Home EV Charger Installation",
+      "metaDescription": "Everything you need to know about installing an electric vehicle charger at your Denver home.",
+      "readTime": "5 min read"
+    },
+    {
+      "slug": "monsoon-electrical-safety",
+      "title": "Monsoon Season Electrical Safety Tips for Denver Homes",
+      "excerpt": "Protect your home and family during Arizona's monsoon season with these electrical safety tips.",
+      "content": "Denver's monsoon season brings lightning, wind, and flooding — all threats to your electrical system:\n\n## Before Monsoon Season\n- Install whole-home surge protection\n- Trim trees near power lines\n- Check outdoor outlets have GFCI protection\n- Test backup generators\n\n## During Storms\n- Unplug sensitive electronics\n- Stay away from downed power lines\n- Don't use electrical appliances during active lightning\n\n## After Storms\n- Check for water intrusion near electrical panels\n- Test GFCI outlets\n- Look for damage to outdoor wiring\n\nBright Spark Electric offers pre-monsoon electrical inspections to keep your home safe.",
+      "authorId": "electrical-team",
+      "date": "2024-01-10",
+      "category": {
+        "name": "Seasonal Tips",
+        "slug": "seasonal-tips"
+      },
+      "metaTitle": "Monsoon Season Electrical Safety Tips for Denver Homes",
+      "metaDescription": "Protect your home and family during Arizona's monsoon season with these electrical safety tips.",
+      "readTime": "4 min read"
+    }
+  ]
+}

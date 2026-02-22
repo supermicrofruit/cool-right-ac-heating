@@ -1,0 +1,121 @@
+{
+  "hero": {
+    "headline": "Roofing Built",
+    "headlineAccent": "To Last",
+    "description": "Licensed roofing contractors serving {{city}} with expert repairs, replacements, and new installations. {{businessName}} protects what matters most — your home and family."
+  },
+  "trustSection": {
+    "items": [
+      {
+        "icon": "Shield",
+        "label": "Licensed & Insured",
+        "value": "Fully licensed roofing contractors with comprehensive liability coverage."
+      },
+      {
+        "icon": "Award",
+        "label": "Manufacturer Certified",
+        "value": "Certified installers for top shingle and roofing brands."
+      },
+      {
+        "icon": "DollarSign",
+        "label": "Free Inspections",
+        "value": "Honest roof assessments with no obligation — ever."
+      },
+      {
+        "icon": "FileCheck",
+        "label": "Insurance Claims Help",
+        "value": "We work directly with your insurance to simplify the process."
+      }
+    ]
+  },
+  "mediaBar": {
+    "tagline": "Serving {{city}} since {{establishedYear}} — {{rating}}★ rated with {{reviewCount}}+ reviews"
+  },
+  "processSection": {
+    "headline": "How It Works",
+    "description": "Getting professional roofing service in {{city}} is straightforward.",
+    "steps": [
+      {
+        "title": "Call or Book Online",
+        "description": "Tell us about your roofing concern and we'll schedule a free inspection.",
+        "icon": "PhoneCall"
+      },
+      {
+        "title": "Free Roof Inspection",
+        "description": "Our certified roofer thoroughly inspects your roof and documents any damage.",
+        "icon": "ClipboardCheck"
+      },
+      {
+        "title": "Expert Installation",
+        "description": "Our crew completes the work with quality materials and attention to detail.",
+        "icon": "Wrench"
+      },
+      {
+        "title": "Final Walk-Through",
+        "description": "We inspect every detail and clean up completely, backed by our {{warrantyYears}}-year warranty.",
+        "icon": "ThumbsUp"
+      }
+    ]
+  },
+  "aboutSection": {
+    "description": "{{businessName}} has been serving {{city}} and the {{region}} since {{establishedYear}}. With {{reviewCount}}+ five-star reviews and a team of manufacturer-certified roofing professionals, we handle everything from storm damage repairs to complete roof replacements. Our commitment to quality materials, skilled craftsmanship, and honest communication has made us one of {{city}}'s most trusted roofing companies.",
+    "mission": "To protect {{city}} homes with durable, quality roofing installed by certified professionals who stand behind their work.",
+    "values": [
+      {
+        "title": "Built to Last",
+        "description": "Premium materials and expert installation that withstands the elements for decades.",
+        "icon": "Award"
+      },
+      {
+        "title": "Honest Assessments",
+        "description": "We tell you what your roof actually needs — repair when possible, replace when necessary.",
+        "icon": "ShieldCheck"
+      },
+      {
+        "title": "Complete Protection",
+        "description": "Manufacturer warranties plus our workmanship guarantee for total peace of mind.",
+        "icon": "Heart"
+      }
+    ]
+  },
+  "ctaBanner": {
+    "headline": "Ready to Get Started?",
+    "description": "Contact {{businessName}} today for a free roof inspection and estimate.",
+    "buttonText": "Call Now",
+    "buttonHref": "tel:{{phoneRaw}}"
+  },
+  "pages": {
+    "services": {
+      "headline": "Our Services",
+      "description": "Complete roofing services for {{city}} — repairs, replacements, and new construction."
+    },
+    "about": {
+      "headline": "About {{businessName}}",
+      "description": "Meet {{city}}'s trusted roofing team — {{yearsInBusiness}} years of protecting homes."
+    },
+    "contact": {
+      "headline": "Contact Us",
+      "description": "Reach {{businessName}} for a free roof inspection in {{city}}."
+    },
+    "areas": {
+      "headline": "Service Areas",
+      "description": "{{businessName}} serves {{city}} and surrounding {{region}} communities."
+    },
+    "blog": {
+      "headline": "Roofing Tips & Guides",
+      "description": "Expert roofing advice and maintenance tips from {{businessName}}."
+    },
+    "works": {
+      "headline": "Our Work",
+      "description": "Browse recent roof installations and repairs across {{city}}."
+    },
+    "financing": {
+      "headline": "Financing Options",
+      "description": "Flexible payment plans for roof replacements and major roofing projects."
+    },
+    "emergencyTips": {
+      "headline": "Emergency Tips",
+      "description": "What to do after storm damage or a roof leak before help arrives."
+    }
+  }
+}

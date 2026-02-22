@@ -1,0 +1,102 @@
+{
+  "primaryServiceArea": "Austin Area",
+  "serviceRadius": "We serve Austin and surrounding communities within 25 miles",
+  "areas": [
+    {
+      "slug": "austin",
+      "name": "Austin",
+      "state": "TX",
+      "population": "960,000+",
+      "coordinates": { "lat": 30.2672, "lng": -97.7431 },
+      "description": "{{businessName}} is based in {{city}} and serves homeowners and businesses across the metro. From bungalows in Travis Heights to high-rises downtown, we handle every plumbing challenge Austin throws at us.",
+      "neighborhoods": ["Travis Heights", "Barton Hills", "Tarrytown", "Hyde Park", "Mueller", "East Austin"],
+      "landmarks": ["Barton Springs Pool", "The University of Texas at Austin", "Sixth Street", "Zilker Park"],
+      "localChallenges": "Austin sits on the Balcones Escarpment where limestone bedrock is just inches below the surface. Slab foundations are the norm, and the city's notoriously hard water — rated very hard at 200+ ppm — builds up in pipes, fixtures, and water heaters far faster than most cities. Winter freezes (like the 2021 storm) expose undersized or uninsulated supply lines.",
+      "serviceHighlights": [
+        "Slab leak detection and repair with minimal disruption",
+        "Hard water treatment and whole-home filtration systems",
+        "Freeze damage repair and pipe winterization"
+      ]
+    },
+    {
+      "slug": "round-rock",
+      "name": "Round Rock",
+      "state": "TX",
+      "population": "130,000+",
+      "coordinates": { "lat": 30.5083, "lng": -97.6789 },
+      "description": "{{businessName}} serves Round Rock's fast-growing neighborhoods with reliable plumbing you can count on. From the established subdivisions near Dell Diamond to newer developments off 45, we know Round Rock plumbing inside and out.",
+      "neighborhoods": ["Teravista", "Forest Creek", "Old Town Round Rock", "Brushy Creek", "Highlands at Mayfield Ranch", "Walsh Ranch"],
+      "landmarks": ["Dell Diamond", "Round Rock Premium Outlets", "Old Settlers Park", "Brushy Creek Lake Park"],
+      "localChallenges": "Round Rock's explosive growth means a wide range of home ages and plumbing systems side by side. Limestone soil causes pipe settlement that leads to slab cracks and leaks in older homes. Hard water from the Brushy Creek watershed accelerates scale buildup in tankless water heaters and supply lines throughout the city.",
+      "serviceHighlights": [
+        "Slab leak detection using electronic listening equipment",
+        "Tankless water heater descaling and maintenance",
+        "Whole-home repiping for aging polybutylene lines"
+      ]
+    },
+    {
+      "slug": "cedar-park",
+      "name": "Cedar Park",
+      "state": "TX",
+      "population": "85,000+",
+      "coordinates": { "lat": 30.5052, "lng": -97.8203 },
+      "description": "Cedar Park families trust {{businessName}} for fast, fair plumbing service. Whether it's a burst pipe in a 1990s tract home or a remodel in a newer subdivision, our team arrives on time and gets the job done right.",
+      "neighborhoods": ["Ranch at Brushy Creek", "Buttercup Creek", "Twin Creeks", "Anderson Mill West", "Forest Oaks", "Spillman Ranch"],
+      "landmarks": ["H-E-B Center at Cedar Park", "Brushy Creek Regional Trail", "Cedar Park Town Center", "Milburn Park"],
+      "localChallenges": "Cedar Park's predominantly slab-on-grade construction means plumbing runs beneath concrete floors, making leaks expensive to ignore. The area's hard water consistently ranks among the worst in the Austin metro, shortening water heater life and clogging fixtures. Rapid growth has also put pressure on aging infrastructure in the city's older western neighborhoods.",
+      "serviceHighlights": [
+        "Electronic slab leak detection — no unnecessary jackhammering",
+        "Water softener installation and hard water treatment",
+        "Water heater replacement and same-day installation"
+      ]
+    },
+    {
+      "slug": "georgetown",
+      "name": "Georgetown",
+      "state": "TX",
+      "population": "80,000+",
+      "coordinates": { "lat": 30.6328, "lng": -97.6772 },
+      "description": "Georgetown's beautiful historic square and booming master-planned communities both depend on reliable plumbing. {{businessName}} proudly serves Georgetown homeowners with the same attention to detail we bring to every job.",
+      "neighborhoods": ["Sun City", "Wolf Ranch", "Teravista", "Berry Creek", "Georgetown Village", "Historic Downtown"],
+      "landmarks": ["Georgetown Square", "Inner Space Cavern", "Lake Georgetown", "Georgetown Courthouse"],
+      "localChallenges": "Georgetown sits directly on the Edwards Aquifer recharge zone, where the karst limestone geology creates shifting soil conditions that stress underground pipes. Sun City's large retiree population means aging supply lines and fixtures that benefit from proactive maintenance. The area's water is among the hardest in Central Texas, accelerating scale buildup in every water-using appliance.",
+      "serviceHighlights": [
+        "Underground pipe inspection with video camera diagnostics",
+        "Whole-home repiping for older Georgetown residences",
+        "Water softener and filtration system installation"
+      ]
+    },
+    {
+      "slug": "pflugerville",
+      "name": "Pflugerville",
+      "state": "TX",
+      "population": "75,000+",
+      "coordinates": { "lat": 30.4394, "lng": -97.6200 },
+      "description": "Pflugerville has transformed from a small farming town into a thriving suburban community. {{businessName}} serves Pflugerville homeowners with honest, straightforward plumbing repairs and installations.",
+      "neighborhoods": ["Blackhawk", "Falcon Pointe", "Springbrook", "Wells Branch", "Dessau", "Windermere"],
+      "landmarks": ["Pflugerville Lake", "Lake Pflugerville Park", "Stone Hill Town Center", "Old Settlers Park"],
+      "localChallenges": "Pflugerville's clay-rich soil — common on the east side of Austin — expands and contracts with moisture changes, putting significant stress on underground plumbing and slab foundations. Many 1990s-era neighborhoods still have original galvanized steel supply lines that are long past their service life. Hard water is a persistent issue throughout the area.",
+      "serviceHighlights": [
+        "Galvanized and polybutylene pipe replacement",
+        "Slab leak repair with tunneling and spot-repair options",
+        "Gas line inspection and repair for outdoor kitchens and grills"
+      ]
+    },
+    {
+      "slug": "lakeway",
+      "name": "Lakeway",
+      "state": "TX",
+      "population": "18,000+",
+      "coordinates": { "lat": 30.3577, "lng": -97.9717 },
+      "description": "Lakeway's lakeside estates and hill country custom homes require a plumber who respects the property and the craft. {{businessName}} brings the same professionalism to Lakeway that our customers across the Austin area have come to expect.",
+      "neighborhoods": ["Lakeway Proper", "Rough Hollow", "Flintrock Falls", "The Hills of Lakeway", "Lohmans Crossing", "Serene Hills"],
+      "landmarks": ["Lake Travis", "Lakeway Marina", "City Park Beach", "World of Tennis at Lakeway"],
+      "localChallenges": "Lakeway's hill country topography means many homes sit on significant grades with long supply line runs prone to pressure fluctuations. The area's rocky limestone substrate complicates any underground work, and elevated homes sometimes have complex two-story plumbing configurations. Lake Travis water quality — when on well or lake systems — varies seasonally and requires proper filtration.",
+      "serviceHighlights": [
+        "Whole-home repiping for large custom and estate homes",
+        "Pressure regulation and booster pump installation",
+        "Whole-home water filtration and reverse osmosis systems"
+      ]
+    }
+  ]
+}

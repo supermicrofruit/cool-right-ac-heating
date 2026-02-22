@@ -1,0 +1,58 @@
+{
+  "summary": {
+    "averageRating": 4.7,
+    "totalReviews": 312
+  },
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Angela R.",
+      "rating": 5,
+      "text": "Bright Spark Electric rewired our entire 1960s home. They were meticulous about everything — clean work, labeled breakers, and passed inspection first try.",
+      "service": "Whole Home Rewiring",
+      "location": "Denver, CO",
+      "date": "2024-11-18",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "name": "Steven C.",
+      "rating": 5,
+      "text": "Had a circuit breaker that kept tripping. Bright Spark Electric found the root cause — an overloaded circuit from a bad renovation. Fixed it properly and explained everything.",
+      "service": "Panel Upgrade",
+      "location": "Denver, CO",
+      "date": "2024-10-22",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "name": "Diana F.",
+      "rating": 5,
+      "text": "Installed landscape lighting and outdoor outlets for our patio remodel. The design was beautiful and everything works perfectly. Very detail-oriented team.",
+      "service": "Outdoor Lighting",
+      "location": "Denver, CO",
+      "date": "2024-09-15",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "name": "Ray T.",
+      "rating": 5,
+      "text": "Power went out in half the house during a monsoon. Bright Spark Electric came out same day, found a damaged breaker, and had us back up in no time.",
+      "service": "Emergency Service",
+      "location": "Denver, CO",
+      "date": "2024-08-20",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "name": "Linda S.",
+      "rating": 5,
+      "text": "Installed a Tesla Wall Connector and upgraded our panel to handle it. Bright Spark Electric handled the permit, install, and inspection. Seamless experience.",
+      "service": "EV Charger Install",
+      "location": "Denver, CO",
+      "date": "2024-07-10",
+      "verified": true
+    }
+  ]
+}

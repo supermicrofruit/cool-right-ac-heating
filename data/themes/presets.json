@@ -1,0 +1,437 @@
+{
+  "$schema": "Theme Presets Library",
+  "version": "1.0.0",
+
+  "presets": [
+    {
+      "id": "professional-blue",
+      "name": "Professional Blue",
+      "category": "professional",
+      "description": "Clean, trustworthy blue theme perfect for service businesses",
+      "industries": ["hvac", "plumbing", "electrical", "all"],
+      "colors": {
+        "primary": "#0066cc",
+        "primaryHover": "#0052a3",
+        "primaryLight": "#e6f0fa",
+        "secondary": "#10b981",
+        "background": "#ffffff",
+        "surface": "#f8fafc",
+        "text": "#0f172a",
+        "muted": "#64748b",
+        "border": "#e2e8f0"
+      },
+      "fonts": {
+        "heading": "Inter",
+        "body": "Inter"
+      },
+      "style": {
+        "borderRadius": "lg",
+        "shadows": "subtle",
+        "spacing": "normal"
+      }
+    },
+
+    {
+      "id": "bold-orange",
+      "name": "Bold Orange",
+      "category": "bold",
+      "description": "High-energy orange theme that demands attention",
+      "industries": ["hvac", "roofing", "construction"],
+      "colors": {
+        "primary": "#ea580c",
+        "primaryHover": "#c2410c",
+        "primaryLight": "#fff7ed",
+        "secondary": "#0284c7",
+        "background": "#ffffff",
+        "surface": "#fafaf9",
+        "text": "#1c1917",
+        "muted": "#78716c",
+        "border": "#e7e5e4"
+      },
+      "fonts": {
+        "heading": "Poppins",
+        "body": "Inter"
+      },
+      "style": {
+        "borderRadius": "md",
+        "shadows": "medium",
+        "spacing": "normal"
+      }
+    },
+
+    {
+      "id": "modern-teal",
+      "name": "Modern Teal",
+      "category": "modern",
+      "description": "Fresh, modern teal with clean lines",
+      "industries": ["plumbing", "landscaping", "cleaning"],
+      "colors": {
+        "primary": "#0d9488",
+        "primaryHover": "#0f766e",
+        "primaryLight": "#f0fdfa",
+        "secondary": "#6366f1",
+        "background": "#ffffff",
+        "surface": "#f9fafb",
+        "text": "#111827",
+        "muted": "#6b7280",
+        "border": "#e5e7eb"
+      },
+      "fonts": {
+        "heading": "Plus Jakarta Sans",
+        "body": "Inter"
+      },
+      "style": {
+        "borderRadius": "xl",
+        "shadows": "subtle",
+        "spacing": "spacious"
+      }
+    },
+
+    {
+      "id": "classic-navy",
+      "name": "Classic Navy",
+      "category": "classic",
+      "description": "Timeless navy blue, traditional and trustworthy",
+      "industries": ["plumbing", "electrical", "all"],
+      "colors": {
+        "primary": "#1e3a5f",
+        "primaryHover": "#152a45",
+        "primaryLight": "#e8eef4",
+        "secondary": "#b45309",
+        "background": "#ffffff",
+        "surface": "#f5f7fa",
+        "text": "#1a202c",
+        "muted": "#718096",
+        "border": "#e2e8f0"
+      },
+      "fonts": {
+        "heading": "Merriweather",
+        "body": "Source Sans Pro"
+      },
+      "style": {
+        "borderRadius": "sm",
+        "shadows": "medium",
+        "spacing": "normal"
+      }
+    },
+
+    {
+      "id": "minimal-slate",
+      "name": "Minimal Slate",
+      "category": "minimal",
+      "description": "Ultra-clean minimal design with slate accents",
+      "industries": ["all"],
+      "colors": {
+        "primary": "#475569",
+        "primaryHover": "#334155",
+        "primaryLight": "#f1f5f9",
+        "secondary": "#06b6d4",
+        "background": "#ffffff",
+        "surface": "#ffffff",
+        "text": "#0f172a",
+        "muted": "#94a3b8",
+        "border": "#f1f5f9"
+      },
+      "fonts": {
+        "heading": "Inter",
+        "body": "Inter"
+      },
+      "style": {
+        "borderRadius": "none",
+        "shadows": "none",
+        "spacing": "spacious"
+      }
+    },
+
+    {
+      "id": "luxury-gold",
+      "name": "Luxury Gold",
+      "category": "luxury",
+      "description": "Premium dark theme with gold accents",
+      "industries": ["hvac", "electrical", "all"],
+      "colors": {
+        "primary": "#d97706",
+        "primaryHover": "#b45309",
+        "primaryLight": "#fef3c7",
+        "secondary": "#1f2937",
+        "background": "#111827",
+        "surface": "#1f2937",
+        "text": "#f9fafb",
+        "muted": "#9ca3af",
+        "border": "#374151"
+      },
+      "fonts": {
+        "heading": "Playfair Display",
+        "body": "Lato"
+      },
+      "style": {
+        "borderRadius": "sm",
+        "shadows": "bold",
+        "spacing": "spacious"
+      }
+    },
+
+    {
+      "id": "desert-red",
+      "name": "Desert Red",
+      "category": "bold",
+      "description": "Warm desert-inspired theme with terracotta red",
+      "industries": ["hvac", "roofing", "landscaping"],
+      "colors": {
+        "primary": "#b91c1c",
+        "primaryHover": "#991b1b",
+        "primaryLight": "#fef2f2",
+        "secondary": "#0369a1",
+        "background": "#fffbeb",
+        "surface": "#ffffff",
+        "text": "#1c1917",
+        "muted": "#78716c",
+        "border": "#e7e5e4"
+      },
+      "fonts": {
+        "heading": "Oswald",
+        "body": "Open Sans"
+      },
+      "style": {
+        "borderRadius": "md",
+        "shadows": "medium",
+        "spacing": "normal"
+      }
+    },
+
+    {
+      "id": "fresh-green",
+      "name": "Fresh Green",
+      "category": "modern",
+      "description": "Eco-friendly green theme, natural and fresh",
+      "industries": ["landscaping", "plumbing", "cleaning"],
+      "colors": {
+        "primary": "#16a34a",
+        "primaryHover": "#15803d",
+        "primaryLight": "#f0fdf4",
+        "secondary": "#ca8a04",
+        "background": "#ffffff",
+        "surface": "#f9fafb",
+        "text": "#14532d",
+        "muted": "#6b7280",
+        "border": "#e5e7eb"
+      },
+      "fonts": {
+        "heading": "Nunito",
+        "body": "Nunito"
+      },
+      "style": {
+        "borderRadius": "full",
+        "shadows": "subtle",
+        "spacing": "normal"
+      }
+    },
+
+    {
+      "id": "electric-purple",
+      "name": "Electric Purple",
+      "category": "modern",
+      "description": "Modern purple theme with electric energy",
+      "industries": ["electrical", "all"],
+      "colors": {
+        "primary": "#7c3aed",
+        "primaryHover": "#6d28d9",
+        "primaryLight": "#f5f3ff",
+        "secondary": "#f59e0b",
+        "background": "#ffffff",
+        "surface": "#fafaf9",
+        "text": "#1e1b4b",
+        "muted": "#6b7280",
+        "border": "#e5e7eb"
+      },
+      "fonts": {
+        "heading": "Space Grotesk",
+        "body": "Inter"
+      },
+      "style": {
+        "borderRadius": "lg",
+        "shadows": "medium",
+        "spacing": "normal"
+      }
+    },
+
+    {
+      "id": "trust-blue-light",
+      "name": "Trust Blue Light",
+      "category": "professional",
+      "description": "Light, airy blue theme that builds trust",
+      "industries": ["plumbing", "hvac", "electrical", "all"],
+      "colors": {
+        "primary": "#2563eb",
+        "primaryHover": "#1d4ed8",
+        "primaryLight": "#eff6ff",
+        "secondary": "#059669",
+        "background": "#f8fafc",
+        "surface": "#ffffff",
+        "text": "#1e293b",
+        "muted": "#64748b",
+        "border": "#e2e8f0"
+      },
+      "fonts": {
+        "heading": "DM Sans",
+        "body": "DM Sans"
+      },
+      "style": {
+        "borderRadius": "lg",
+        "shadows": "subtle",
+        "spacing": "normal"
+      }
+    },
+
+    {
+      "id": "contractor-dark",
+      "name": "Contractor Dark",
+      "category": "bold",
+      "description": "Dark, rugged theme for construction and trades",
+      "industries": ["roofing", "construction", "electrical"],
+      "colors": {
+        "primary": "#f59e0b",
+        "primaryHover": "#d97706",
+        "primaryLight": "#fef3c7",
+        "secondary": "#ef4444",
+        "background": "#18181b",
+        "surface": "#27272a",
+        "text": "#fafafa",
+        "muted": "#a1a1aa",
+        "border": "#3f3f46"
+      },
+      "fonts": {
+        "heading": "Bebas Neue",
+        "body": "Roboto"
+      },
+      "style": {
+        "borderRadius": "none",
+        "shadows": "bold",
+        "spacing": "compact"
+      }
+    },
+
+    {
+      "id": "soft-coral",
+      "name": "Soft Coral",
+      "category": "modern",
+      "description": "Warm, inviting coral theme with soft edges",
+      "industries": ["cleaning", "landscaping", "all"],
+      "colors": {
+        "primary": "#f43f5e",
+        "primaryHover": "#e11d48",
+        "primaryLight": "#fff1f2",
+        "secondary": "#0891b2",
+        "background": "#ffffff",
+        "surface": "#fafafa",
+        "text": "#18181b",
+        "muted": "#71717a",
+        "border": "#e4e4e7"
+      },
+      "fonts": {
+        "heading": "Quicksand",
+        "body": "Quicksand"
+      },
+      "style": {
+        "borderRadius": "full",
+        "shadows": "subtle",
+        "spacing": "spacious"
+      }
+    }
+  ],
+
+  "fontPairings": [
+    {
+      "id": "inter-system",
+      "name": "Inter (Modern Default)",
+      "heading": "Inter",
+      "body": "Inter",
+      "weights": [400, 500, 600, 700],
+      "style": "modern"
+    },
+    {
+      "id": "poppins-inter",
+      "name": "Poppins + Inter",
+      "heading": "Poppins",
+      "body": "Inter",
+      "weights": [400, 500, 600, 700],
+      "style": "friendly"
+    },
+    {
+      "id": "playfair-lato",
+      "name": "Playfair + Lato",
+      "heading": "Playfair Display",
+      "body": "Lato",
+      "weights": [400, 700],
+      "style": "elegant"
+    },
+    {
+      "id": "oswald-opensans",
+      "name": "Oswald + Open Sans",
+      "heading": "Oswald",
+      "body": "Open Sans",
+      "weights": [400, 500, 600, 700],
+      "style": "bold"
+    },
+    {
+      "id": "merriweather-source",
+      "name": "Merriweather + Source Sans",
+      "heading": "Merriweather",
+      "body": "Source Sans Pro",
+      "weights": [400, 600, 700],
+      "style": "classic"
+    },
+    {
+      "id": "dm-sans",
+      "name": "DM Sans (Clean)",
+      "heading": "DM Sans",
+      "body": "DM Sans",
+      "weights": [400, 500, 700],
+      "style": "clean"
+    },
+    {
+      "id": "space-grotesk",
+      "name": "Space Grotesk + Inter",
+      "heading": "Space Grotesk",
+      "body": "Inter",
+      "weights": [400, 500, 700],
+      "style": "tech"
+    },
+    {
+      "id": "bebas-roboto",
+      "name": "Bebas Neue + Roboto",
+      "heading": "Bebas Neue",
+      "body": "Roboto",
+      "weights": [400, 700],
+      "style": "industrial"
+    }
+  ],
+
+  "colorPalettes": [
+    {
+      "id": "blues",
+      "name": "Blues",
+      "colors": ["#0066cc", "#0284c7", "#2563eb", "#1e3a5f", "#1e40af"]
+    },
+    {
+      "id": "greens",
+      "name": "Greens",
+      "colors": ["#16a34a", "#059669", "#0d9488", "#15803d", "#166534"]
+    },
+    {
+      "id": "oranges",
+      "name": "Oranges & Reds",
+      "colors": ["#ea580c", "#f59e0b", "#d97706", "#b91c1c", "#dc2626"]
+    },
+    {
+      "id": "purples",
+      "name": "Purples",
+      "colors": ["#7c3aed", "#6366f1", "#8b5cf6", "#a855f7", "#9333ea"]
+    },
+    {
+      "id": "neutrals",
+      "name": "Neutrals",
+      "colors": ["#475569", "#1f2937", "#374151", "#4b5563", "#6b7280"]
+    }
+  ]
+}

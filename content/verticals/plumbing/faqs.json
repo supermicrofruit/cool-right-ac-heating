@@ -1,0 +1,67 @@
+{
+  "vertical": "plumbing",
+  "general": [
+    {
+      "question": "How fast can you get here?",
+      "answer": "For {{city}} and surrounding areas, we typically arrive within {{responseTime}}. For emergencies like burst pipes or major leaks, we prioritize and aim to be there within 1 hour."
+    },
+    {
+      "question": "Do you charge for estimates?",
+      "answer": "Estimates for larger jobs like repiping or water heater replacement are free. For service calls, we charge a diagnostic fee that's applied to the repair if you proceed."
+    },
+    {
+      "question": "Are your plumbers licensed?",
+      "answer": "Yes, {{businessName}} is fully licensed ({{licenseNumber}}) and insured. Every plumber on our team is licensed, background-checked, and continuously trained."
+    },
+    {
+      "question": "Do you guarantee your work?",
+      "answer": "Absolutely. All repairs come with a {{warrantyYears}}-year labor warranty. If something we fixed fails within that period, we'll fix it again at no charge."
+    },
+    {
+      "question": "Do you offer financing?",
+      "answer": "Yes, we offer financing for larger projects like repiping, water heater replacement, and sewer line work. Ask about our low-interest and 0% options."
+    },
+    {
+      "question": "Will you leave a mess?",
+      "answer": "Never. Our plumbers wear shoe covers, use drop cloths, and clean up thoroughly. Your home will be as clean as when we arrived—maybe cleaner."
+    }
+  ],
+  "drains": [
+    {
+      "question": "Why does my drain keep clogging?",
+      "answer": "Recurring clogs usually indicate a deeper issue: buildup in the line, root intrusion, or a bellied pipe. A camera inspection can identify the root cause so we can fix it permanently."
+    },
+    {
+      "question": "Is drain cleaner safe to use?",
+      "answer": "Chemical drain cleaners can damage pipes and are often ineffective on serious clogs. They're also hazardous. Professional cleaning is safer and more effective."
+    },
+    {
+      "question": "What's hydro jetting?",
+      "answer": "Hydro jetting uses high-pressure water to thoroughly clean pipes, removing buildup, grease, and even tree roots. It's the most effective drain cleaning method available."
+    }
+  ],
+  "water-heaters": [
+    {
+      "question": "How long should a water heater last?",
+      "answer": "Traditional tank water heaters typically last 8-12 years. Tankless models can last 20+ years with proper maintenance. Age and condition affect repair vs. replace decisions."
+    },
+    {
+      "question": "Should I get a tankless water heater?",
+      "answer": "Tankless heaters cost more upfront but save energy and last longer. They're ideal if you need unlimited hot water or want to save space. We can help you decide what's best."
+    },
+    {
+      "question": "Why is my water heater making noise?",
+      "answer": "Popping or rumbling sounds usually indicate sediment buildup. Flushing the tank can help. If the noise continues, there may be a more serious issue."
+    }
+  ],
+  "leaks": [
+    {
+      "question": "How do I know if I have a hidden leak?",
+      "answer": "Signs include unexpectedly high water bills, musty smells, damp spots on walls or floors, or the sound of running water when nothing's on. We use electronic detection to find hidden leaks."
+    },
+    {
+      "question": "What's a slab leak?",
+      "answer": "A slab leak is a leak in the pipes beneath your home's concrete foundation. Signs include warm spots on floors, foundation cracks, or high water bills. We specialize in slab leak detection and repair."
+    }
+  ]
+}

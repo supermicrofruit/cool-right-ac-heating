@@ -1,0 +1,121 @@
+{
+  "hero": {
+    "headline": "Home Comfort",
+    "headlineAccent": "Guaranteed",
+    "description": "Licensed HVAC technicians serving {{city}} with expert heating and cooling solutions. From AC repair to furnace installation, {{businessName}} keeps your home comfortable year-round."
+  },
+  "trustSection": {
+    "items": [
+      {
+        "icon": "Thermometer",
+        "label": "NATE Certified",
+        "value": "Factory-trained technicians with NATE certification."
+      },
+      {
+        "icon": "Shield",
+        "label": "EPA Compliant",
+        "value": "EPA-certified refrigerant handling for safe, legal service."
+      },
+      {
+        "icon": "DollarSign",
+        "label": "Upfront Pricing",
+        "value": "Know the cost before any work begins — no surprises."
+      },
+      {
+        "icon": "Clock",
+        "label": "Same-Day Service",
+        "value": "Fast response when your comfort can't wait."
+      }
+    ]
+  },
+  "mediaBar": {
+    "tagline": "Serving {{city}} since {{establishedYear}} — {{rating}}★ rated with {{reviewCount}}+ reviews"
+  },
+  "processSection": {
+    "headline": "How It Works",
+    "description": "Getting professional HVAC service in {{city}} is easy.",
+    "steps": [
+      {
+        "title": "Call or Book Online",
+        "description": "Tell us about your heating or cooling issue. We respond quickly.",
+        "icon": "PhoneCall"
+      },
+      {
+        "title": "Diagnostic Visit",
+        "description": "A certified technician inspects your system and explains your options.",
+        "icon": "ClipboardCheck"
+      },
+      {
+        "title": "Expert Repair",
+        "description": "We fix it right the first time with upfront pricing and quality parts.",
+        "icon": "Wrench"
+      },
+      {
+        "title": "Comfort Restored",
+        "description": "Enjoy reliable heating and cooling backed by our {{warrantyYears}}-year warranty.",
+        "icon": "ThumbsUp"
+      }
+    ]
+  },
+  "aboutSection": {
+    "description": "{{businessName}} has been serving {{city}} and the {{region}} since {{establishedYear}}. With {{reviewCount}}+ five-star reviews and a team of NATE-certified professionals, we deliver heating and cooling services you can count on. Our commitment to quality workmanship, honest pricing, and exceptional customer service has made us one of {{city}}'s most trusted HVAC companies.",
+    "mission": "To keep {{city}} homes comfortable year-round with honest, reliable heating and cooling services.",
+    "values": [
+      {
+        "title": "Certified Expertise",
+        "description": "NATE-certified technicians who stay current on the latest HVAC technology.",
+        "icon": "Award"
+      },
+      {
+        "title": "Honest Pricing",
+        "description": "Upfront quotes with no hidden fees or surprise charges.",
+        "icon": "ShieldCheck"
+      },
+      {
+        "title": "Customer Comfort",
+        "description": "Your comfort and satisfaction are our top priority, backed by our guarantee.",
+        "icon": "Heart"
+      }
+    ]
+  },
+  "ctaBanner": {
+    "headline": "Ready to Get Started?",
+    "description": "Contact {{businessName}} today for a free estimate on heating and cooling services.",
+    "buttonText": "Call Now",
+    "buttonHref": "tel:{{phoneRaw}}"
+  },
+  "pages": {
+    "services": {
+      "headline": "Our Services",
+      "description": "Professional heating, cooling, and indoor air quality services for {{city}} homes and businesses."
+    },
+    "about": {
+      "headline": "About {{businessName}}",
+      "description": "Learn about {{city}}'s trusted HVAC team — {{yearsInBusiness}} years of keeping homes comfortable."
+    },
+    "contact": {
+      "headline": "Contact Us",
+      "description": "Get in touch with {{businessName}}. We're here to help with all your heating and cooling needs."
+    },
+    "areas": {
+      "headline": "Service Areas",
+      "description": "{{businessName}} serves {{city}} and surrounding {{region}} communities."
+    },
+    "blog": {
+      "headline": "HVAC Tips & Insights",
+      "description": "Expert heating and cooling advice from the {{businessName}} team."
+    },
+    "works": {
+      "headline": "Our Work",
+      "description": "See our recent HVAC installations and repairs across {{city}}."
+    },
+    "financing": {
+      "headline": "Financing Options",
+      "description": "Flexible payment plans for AC units, furnaces, and complete HVAC systems."
+    },
+    "emergencyTips": {
+      "headline": "Emergency Tips",
+      "description": "What to do when your heating or cooling fails before help arrives."
+    }
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "vertical": "cleaning",
+  "services": [
+    {
+      "slug": "house-cleaning",
+      "image": "https://images.pexels.com/photos/4440541/pexels-photo-4440541.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "House Cleaning",
+      "shortDescription": "Regular house cleaning to keep your home fresh and comfortable.",
+      "longDescription": "{{businessName}} provides reliable, recurring house cleaning for {{city}} homeowners. Our trained teams follow detailed checklists to ensure every room is spotless. Choose weekly, biweekly, or monthly service tailored to your needs.",
+      "icon": "Home",
+      "category": "residential",
+      "emergency": false,
+      "features": [
+        "Customized cleaning plans",
+        "Detailed room-by-room checklists",
+        "Consistent assigned teams",
+        "Eco-friendly products available",
+        "All supplies and equipment included",
+        "Flexible scheduling"
+      ],
+      "benefits": [
+        "More free time for family",
+        "Consistently clean home",
+        "Healthier living environment",
+        "Reduced allergens and dust"
+      ],
+      "meta": {
+        "title": "House Cleaning {{city}} | Recurring Maid Service | {{businessName}}",
+        "description": "Professional house cleaning in {{city}}. {{businessName}} offers weekly, biweekly & monthly cleaning. {{rating}}★ rated. Book today — call {{phone}}."
+      }
+    },
+    {
+      "slug": "deep-cleaning",
+      "image": "https://images.pexels.com/photos/3990359/pexels-photo-3990359.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Deep Cleaning",
+      "shortDescription": "Thorough deep cleaning that reaches every corner of your home.",
+      "longDescription": "Our deep cleaning service goes beyond the surface. {{businessName}}'s team tackles baseboards, behind appliances, inside cabinets, light fixtures, and more. Perfect as a first-time clean or seasonal refresh for your {{city}} home.",
+      "icon": "Sparkles",
+      "category": "residential",
+      "emergency": false,
+      "features": [
+        "Inside appliance cleaning",
+        "Baseboard and trim detailing",
+        "Light fixture and fan cleaning",
+        "Cabinet interior wipe-down",
+        "Window sill and track cleaning",
+        "Grout and tile scrubbing"
+      ],
+      "benefits": [
+        "Reset your home to spotless",
+        "Remove built-up grime",
+        "Healthier indoor air",
+        "Great first impression"
+      ],
+      "meta": {
+        "title": "Deep Cleaning {{city}} | Detailed House Cleaning | {{businessName}}",
+        "description": "Deep cleaning services in {{city}}. Every corner, every surface. {{businessName}} — {{rating}}★ rated. Call {{phone}} to schedule."
+      }
+    },
+    {
+      "slug": "move-in-out-cleaning",
+      "image": "https://images.pexels.com/photos/7031599/pexels-photo-7031599.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Move-In/Move-Out Cleaning",
+      "shortDescription": "Start fresh or leave it spotless with our move-day cleaning.",
+      "longDescription": "Moving is stressful enough. Let {{businessName}} handle the cleaning. Our move-in/move-out service ensures the property is spotless for the next occupant or ready for you to settle into. We clean everything from cabinets to closets to appliances.",
+      "icon": "Truck",
+      "category": "specialty",
+      "emergency": false,
+      "features": [
+        "Full property deep clean",
+        "Inside all cabinets and closets",
+        "Appliance interior cleaning",
+        "Wall spot cleaning",
+        "Garage sweeping available",
+        "Same-day availability"
+      ],
+      "benefits": [
+        "Get your security deposit back",
+        "Move into a fresh space",
+        "One less thing to worry about",
+        "Landlord-approved results"
+      ],
+      "meta": {
+        "title": "Move-In Move-Out Cleaning {{city}} | {{businessName}}",
+        "description": "Move-in/move-out cleaning in {{city}}. Get your deposit back or start fresh. {{businessName}} — trusted by {{reviewCount}}+ customers. Call {{phone}}."
+      }
+    },
+    {
+      "slug": "office-cleaning",
+      "image": "https://images.pexels.com/photos/1957477/pexels-photo-1957477.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Office Cleaning",
+      "shortDescription": "Professional office and commercial cleaning for a productive workspace.",
+      "longDescription": "A clean office makes a great impression and keeps your team healthy. {{businessName}} offers daily, weekly, or custom commercial cleaning plans for offices, retail spaces, and small businesses in {{city}}.",
+      "icon": "Building",
+      "category": "commercial",
+      "emergency": false,
+      "features": [
+        "Flexible evening/weekend scheduling",
+        "Restroom sanitization",
+        "Break room and kitchen cleaning",
+        "Trash removal and recycling",
+        "Floor care and vacuuming",
+        "Surface disinfection"
+      ],
+      "benefits": [
+        "Professional first impression",
+        "Healthier employees",
+        "Reduced sick days",
+        "Customized to your needs"
+      ],
+      "meta": {
+        "title": "Office Cleaning {{city}} | Commercial Cleaning Service | {{businessName}}",
+        "description": "Professional office cleaning in {{city}}. Daily, weekly, or custom schedules. {{businessName}} — {{rating}}★ rated. Call {{phone}}."
+      }
+    },
+    {
+      "slug": "carpet-cleaning",
+      "image": "https://images.pexels.com/photos/3616735/pexels-photo-3616735.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Carpet Cleaning",
+      "shortDescription": "Professional carpet cleaning that removes stains, odors, and allergens.",
+      "longDescription": "Restore your carpets to like-new condition with {{businessName}}'s professional carpet cleaning. We use hot-water extraction and eco-friendly solutions to remove deep-set dirt, stains, and allergens from your {{city}} home's carpets.",
+      "icon": "Waves",
+      "category": "specialty",
+      "emergency": false,
+      "features": [
+        "Hot-water extraction cleaning",
+        "Stain pre-treatment",
+        "Eco-friendly solutions",
+        "Fast drying times",
+        "Deodorizing treatment",
+        "Furniture moving included"
+      ],
+      "benefits": [
+        "Remove tough stains",
+        "Eliminate odors",
+        "Extend carpet life",
+        "Healthier indoor air"
+      ],
+      "meta": {
+        "title": "Carpet Cleaning {{city}} | Professional Carpet Care | {{businessName}}",
+        "description": "Professional carpet cleaning in {{city}}. Stain removal, deodorizing, fast dry times. {{businessName}} — call {{phone}} to book."
+      }
+    },
+    {
+      "slug": "window-cleaning",
+      "image": "https://images.pexels.com/photos/7513104/pexels-photo-7513104.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Window Cleaning",
+      "shortDescription": "Streak-free window cleaning for a brighter, cleaner home.",
+      "longDescription": "Let the light in with {{businessName}}'s professional window cleaning service. We clean interior and exterior windows, screens, and tracks. Serving {{city}} homes and businesses with reliable, streak-free results.",
+      "icon": "Sun",
+      "category": "specialty",
+      "emergency": false,
+      "features": [
+        "Interior and exterior cleaning",
+        "Screen and track cleaning",
+        "Streak-free guarantee",
+        "Second-story capability",
+        "Storm window cleaning",
+        "Seasonal scheduling"
+      ],
+      "benefits": [
+        "More natural light",
+        "Better curb appeal",
+        "Extended window life",
+        "Crystal clear views"
+      ],
+      "meta": {
+        "title": "Window Cleaning {{city}} | Professional Window Washing | {{businessName}}",
+        "description": "Professional window cleaning in {{city}}. Interior, exterior, screens & tracks. Streak-free guarantee. {{businessName}} — call {{phone}}."
+      }
+    },
+    {
+      "slug": "post-construction-cleaning",
+      "image": "https://images.pexels.com/photos/3177257/pexels-photo-3177257.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Post-Construction Cleaning",
+      "shortDescription": "Thorough cleanup after renovations or new construction.",
+      "longDescription": "After the contractors leave, {{businessName}} comes in to remove dust, debris, and construction residue. Our post-construction cleaning makes your newly built or renovated {{city}} space move-in ready.",
+      "icon": "HardHat",
+      "category": "specialty",
+      "emergency": false,
+      "features": [
+        "Dust and debris removal",
+        "Surface and fixture cleaning",
+        "Window and glass cleaning",
+        "Floor scrubbing and polishing",
+        "HVAC vent cleaning",
+        "Final detail inspection"
+      ],
+      "benefits": [
+        "Move-in ready results",
+        "Safe, dust-free environment",
+        "Professional-grade equipment",
+        "Saves you time and hassle"
+      ],
+      "meta": {
+        "title": "Post-Construction Cleaning {{city}} | After-Build Cleanup | {{businessName}}",
+        "description": "Post-construction cleaning in {{city}}. Dust, debris, and detail cleaning. {{businessName}} — call {{phone}} to schedule."
+      }
+    }
+  ],
+  "categories": [
+    {
+      "slug": "residential",
+      "name": "Residential Cleaning",
+      "description": "Keep your home clean and comfortable with regular professional service.",
+      "icon": "Home"
+    },
+    {
+      "slug": "commercial",
+      "name": "Commercial Cleaning",
+      "description": "Professional cleaning for offices and businesses.",
+      "icon": "Building"
+    },
+    {
+      "slug": "specialty",
+      "name": "Specialty Cleaning",
+      "description": "Targeted cleaning services for specific needs.",
+      "icon": "Star"
+    }
+  ]
+}

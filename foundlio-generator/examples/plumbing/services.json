@@ -1,0 +1,185 @@
+{
+  "services": [
+    {
+      "slug": "drain-cleaning",
+      "name": "Drain Cleaning",
+      "shortDescription": "Professional drain cleaning services to clear clogs and restore proper flow throughout your home.",
+      "longDescription": "Slow drains and recurring clogs are more than just an annoyance—they can lead to serious plumbing problems if left untreated. Our professional drain cleaning services use advanced hydro jetting and cable techniques to completely clear your pipes, not just punch through the clog. We handle kitchen sinks, bathroom drains, floor drains, and main sewer lines with the same attention to detail.",
+      "features": [
+        "Hydro jetting available",
+        "Camera inspection included",
+        "All drain types serviced",
+        "Same-day service",
+        "Preventive maintenance options",
+        "Root removal for sewer lines"
+      ],
+      "benefits": [
+        "Restore proper drainage",
+        "Prevent backups and flooding",
+        "Eliminate foul odors",
+        "Long-lasting results"
+      ],
+      "icon": "Droplet",
+      "category": "drains",
+      "emergency": true,
+      "metaTitle": "Drain Cleaning Mesa | Professional Clog Removal Service",
+      "metaDescription": "Fast, effective drain cleaning in Mesa, AZ. Hydro jetting, camera inspection, all drains. Call Valley Plumbing Pros for same-day service."
+    },
+    {
+      "slug": "water-heater-repair",
+      "name": "Water Heater Repair",
+      "shortDescription": "Expert water heater repair to restore your hot water quickly and reliably.",
+      "longDescription": "No hot water? Strange noises from your water heater? Leaks around the tank? Our certified technicians diagnose and repair all types of water heaters—tank, tankless, gas, and electric. We arrive with fully-stocked trucks to handle most repairs on the spot, getting your hot water back fast.",
+      "features": [
+        "Tank and tankless expertise",
+        "Gas and electric systems",
+        "Same-day service available",
+        "All major brands",
+        "Diagnostic fee waived with repair",
+        "90-day repair warranty"
+      ],
+      "benefits": [
+        "Restore hot water fast",
+        "Extend equipment life",
+        "Improve efficiency",
+        "Prevent water damage"
+      ],
+      "icon": "Flame",
+      "category": "water-heaters",
+      "emergency": true,
+      "metaTitle": "Water Heater Repair Mesa | Same-Day Hot Water Service",
+      "metaDescription": "Fast water heater repair in Mesa. Tank, tankless, gas, electric. Same-day service from Valley Plumbing Pros."
+    },
+    {
+      "slug": "water-heater-installation",
+      "name": "Water Heater Installation",
+      "shortDescription": "Professional water heater installation for reliable hot water and energy savings.",
+      "longDescription": "Whether you're replacing an old water heater or upgrading to a new high-efficiency model, proper installation is crucial for performance and longevity. We'll help you choose the right size and type for your household's hot water needs, then install it to code with all necessary permits.",
+      "features": [
+        "Tank and tankless options",
+        "Energy-efficient models",
+        "Proper sizing consultation",
+        "Code compliant installation",
+        "Manufacturer warranties",
+        "Old unit disposal included"
+      ],
+      "benefits": [
+        "Reliable hot water",
+        "Lower energy bills",
+        "Increased capacity options",
+        "Modern safety features"
+      ],
+      "icon": "Home",
+      "category": "water-heaters",
+      "emergency": false,
+      "metaTitle": "Water Heater Installation Mesa | Tank & Tankless Options",
+      "metaDescription": "Professional water heater installation in Mesa. Tank, tankless, energy-efficient options. Free estimates from Valley Plumbing Pros."
+    },
+    {
+      "slug": "leak-detection-repair",
+      "name": "Leak Detection & Repair",
+      "shortDescription": "Fast leak detection and repair to protect your home from water damage.",
+      "longDescription": "Water leaks can cause thousands of dollars in damage if not caught quickly. Our leak detection specialists use electronic equipment to pinpoint hidden leaks in walls, slabs, and underground pipes without destructive exploration. Once found, we repair the leak properly to prevent future problems.",
+      "features": [
+        "Electronic leak detection",
+        "Slab leak specialists",
+        "Non-invasive methods",
+        "24/7 emergency service",
+        "Insurance documentation",
+        "Complete repair solutions"
+      ],
+      "benefits": [
+        "Stop water damage fast",
+        "Protect your home's foundation",
+        "Reduce water bills",
+        "Peace of mind"
+      ],
+      "icon": "AlertCircle",
+      "category": "repairs",
+      "emergency": true,
+      "metaTitle": "Leak Detection Mesa | Find & Fix Hidden Water Leaks",
+      "metaDescription": "Expert leak detection in Mesa. Electronic detection, slab leaks, 24/7 emergency service. Call Valley Plumbing Pros."
+    },
+    {
+      "slug": "sewer-line-service",
+      "name": "Sewer Line Service",
+      "shortDescription": "Complete sewer line repair, replacement, and cleaning services.",
+      "longDescription": "Sewer line problems can cause major disruption and health hazards. We provide comprehensive sewer services from camera inspections to identify problems, to cleaning, repair, and full replacement when necessary. Our trenchless repair options minimize yard damage and disruption.",
+      "features": [
+        "Camera inspection",
+        "Trenchless repair options",
+        "Root removal",
+        "Complete replacement",
+        "Permit handling",
+        "Video documentation"
+      ],
+      "benefits": [
+        "Restore proper function",
+        "Prevent sewage backups",
+        "Protect your property",
+        "Long-term solutions"
+      ],
+      "icon": "Wrench",
+      "category": "drains",
+      "emergency": false,
+      "metaTitle": "Sewer Line Service Mesa | Repair, Cleaning & Replacement",
+      "metaDescription": "Professional sewer line service in Mesa. Camera inspection, trenchless repair, root removal. Valley Plumbing Pros."
+    },
+    {
+      "slug": "repiping",
+      "name": "Whole House Repiping",
+      "shortDescription": "Complete repiping services to upgrade your home's plumbing system.",
+      "longDescription": "If you have galvanized steel, polybutylene, or corroded copper pipes, repiping can dramatically improve your water quality, pressure, and peace of mind. We use quality copper or PEX piping with minimal wall damage, and coordinate the project to minimize disruption to your household.",
+      "features": [
+        "Copper and PEX options",
+        "Polybutylene replacement",
+        "Minimal wall damage",
+        "Complete system upgrade",
+        "All permits included",
+        "Lifetime warranty available"
+      ],
+      "benefits": [
+        "Better water pressure",
+        "Improved water quality",
+        "Prevent future leaks",
+        "Increase home value"
+      ],
+      "icon": "Home",
+      "category": "repairs",
+      "emergency": false,
+      "metaTitle": "Repiping Services Mesa | Whole House Pipe Replacement",
+      "metaDescription": "Professional repiping in Mesa. Copper, PEX, polybutylene replacement. Free estimates from Valley Plumbing Pros."
+    },
+    {
+      "slug": "emergency-plumbing",
+      "name": "Emergency Plumbing",
+      "shortDescription": "24/7 emergency plumbing service when you need it most.",
+      "longDescription": "Plumbing emergencies don't wait for business hours, and neither do we. Whether it's a burst pipe at 2 AM, a sewage backup on a holiday, or a water heater failure on a weekend, our emergency team is ready to respond. We'll stop the damage, make repairs, and restore your plumbing as quickly as possible.",
+      "features": [
+        "24/7 availability",
+        "Fast response time",
+        "Fully-equipped trucks",
+        "All plumbing emergencies",
+        "Water shutoff assistance",
+        "Licensed and insured"
+      ],
+      "benefits": [
+        "Stop damage immediately",
+        "Fast resolution",
+        "Expert help anytime",
+        "Peace of mind"
+      ],
+      "icon": "AlertCircle",
+      "category": "emergency",
+      "emergency": true,
+      "metaTitle": "Emergency Plumber Mesa | 24/7 Plumbing Service",
+      "metaDescription": "24/7 emergency plumbing in Mesa. Fast response, all emergencies. Call Valley Plumbing Pros anytime."
+    }
+  ],
+  "categories": [
+    { "slug": "drains", "name": "Drain Services", "icon": "Droplet" },
+    { "slug": "water-heaters", "name": "Water Heaters", "icon": "Flame" },
+    { "slug": "repairs", "name": "Repairs", "icon": "Wrench" },
+    { "slug": "emergency", "name": "Emergency", "icon": "AlertCircle" }
+  ]
+}

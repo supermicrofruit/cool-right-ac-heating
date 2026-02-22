@@ -1,0 +1,114 @@
+{
+  "vertical": "plumbing",
+  "displayName": "Plumbing",
+  "hero": {
+    "variations": [
+      {
+        "id": "flow-fix",
+        "headline": "Flow Problems? We Fix That.",
+        "subheadline": "From dripping faucets to major pipe repairs, {{businessName}} solves plumbing problems fast. {{city}}'s trusted choice since {{establishedYear}}.",
+        "tone": "direct",
+        "region": "universal"
+      },
+      {
+        "id": "no-drip",
+        "headline": "No Drip Too Small. No Job Too Big.",
+        "subheadline": "Professional plumbing services for your home. Honest pricing, quality work, and {{reviewCount}}+ satisfied customers.",
+        "tone": "friendly",
+        "region": "universal"
+      },
+      {
+        "id": "trusted-plumber",
+        "headline": "{{city}}'s Most Trusted Plumbers",
+        "subheadline": "Licensed, insured, and committed to doing the job right the first time. Available 24/7 for emergencies.",
+        "tone": "professional",
+        "region": "universal"
+      },
+      {
+        "id": "leak-stops",
+        "headline": "The Leak Stops Here.",
+        "subheadline": "Fast response, fair prices, guaranteed work. {{businessName}} has been fixing {{city}} plumbing since {{establishedYear}}.",
+        "tone": "confident",
+        "region": "universal"
+      },
+      {
+        "id": "plumbing-pros",
+        "headline": "Plumbing Problems Solved. Period.",
+        "subheadline": "Expert repairs, installations, and maintenance. Upfront pricing with no surprises. Call {{businessName}} today.",
+        "tone": "bold",
+        "region": "universal"
+      },
+      {
+        "id": "right-first-time",
+        "headline": "Done Right the First Time",
+        "subheadline": "Quality plumbing service you can trust. {{rating}}★ rated by {{reviewCount}}+ {{city}} homeowners.",
+        "tone": "reliable",
+        "region": "universal"
+      }
+    ]
+  },
+  "servicePages": {
+    "drain-cleaning": {
+      "headline": "Clogged Drains? We'll Clear the Way.",
+      "subheadline": "Fast, effective drain cleaning without damaging your pipes."
+    },
+    "leak-repair": {
+      "headline": "Stop Leaks Before They Stop You",
+      "subheadline": "Expert leak detection and repair for pipes, fixtures, and more."
+    },
+    "water-heater": {
+      "headline": "Hot Water When You Need It",
+      "subheadline": "Water heater repair, replacement, and maintenance services."
+    },
+    "sewer-line": {
+      "headline": "Sewer Line Solutions That Last",
+      "subheadline": "Professional sewer repair and replacement with minimal disruption."
+    },
+    "fixture-installation": {
+      "headline": "Upgrade Your Fixtures",
+      "subheadline": "Expert installation of faucets, toilets, and more."
+    },
+    "repiping": {
+      "headline": "Whole-Home Repiping",
+      "subheadline": "Replace old, corroded pipes with modern, reliable plumbing."
+    },
+    "emergency": {
+      "headline": "24/7 Emergency Plumbing",
+      "subheadline": "Burst pipes, major leaks, sewer backups—we're here when you need us."
+    }
+  },
+  "valueProps": {
+    "variations": [
+      {
+        "title": "Same-Day Service",
+        "description": "Most plumbing issues fixed the same day you call.",
+        "icon": "Clock"
+      },
+      {
+        "title": "Upfront Pricing",
+        "description": "Know the cost before work begins. No hidden fees.",
+        "icon": "DollarSign"
+      },
+      {
+        "title": "Licensed & Insured",
+        "description": "Fully licensed plumbers for your protection.",
+        "icon": "Shield"
+      },
+      {
+        "title": "Clean & Courteous",
+        "description": "We treat your home like our own. Booties and drop cloths standard.",
+        "icon": "Sparkles"
+      },
+      {
+        "title": "Guaranteed Work",
+        "description": "If you're not happy, we'll make it right.",
+        "icon": "ThumbsUp"
+      },
+      {
+        "title": "24/7 Emergency",
+        "description": "Plumbing emergencies don't wait. Neither do we.",
+        "icon": "Phone"
+      }
+    ]
+  }
+}

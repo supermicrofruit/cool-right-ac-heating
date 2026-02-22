@@ -1,0 +1,95 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Sarah M.",
+      "location": "Phoenix, AZ",
+      "rating": 5,
+      "text": "Our AC went out on a Friday evening during a 110-degree weekend. Desert Aire had a technician at our house within two hours and fixed it the same night. Incredible service!",
+      "service": "AC Repair",
+      "date": "2024-06-15",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "name": "Michael R.",
+      "location": "Scottsdale, AZ",
+      "rating": 5,
+      "text": "Had a new high-efficiency system installed. The team was professional, cleaned up after themselves, and took time to explain how everything works. Our energy bills are noticeably lower now.",
+      "service": "AC Installation",
+      "date": "2024-05-22",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "name": "Jennifer L.",
+      "location": "Gilbert, AZ",
+      "rating": 5,
+      "text": "Been using Desert Aire for annual maintenance for three years now. They're always on time, thorough, and honest. Wouldn't trust anyone else with our HVAC system.",
+      "service": "AC Maintenance",
+      "date": "2024-04-10",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "name": "David K.",
+      "location": "Chandler, AZ",
+      "rating": 5,
+      "text": "After getting quotes from five companies for a new system, Desert Aire offered the best value and didn't try to oversell us. The installation was flawless.",
+      "service": "AC Installation",
+      "date": "2024-03-18",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "name": "Patricia H.",
+      "location": "Mesa, AZ",
+      "rating": 5,
+      "text": "The technician diagnosed a problem that two other companies missed. Honest, knowledgeable, and fixed it right the first time. Highly recommend!",
+      "service": "AC Repair",
+      "date": "2024-02-28",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "name": "Robert T.",
+      "location": "Tempe, AZ",
+      "rating": 5,
+      "text": "Had our ducts cleaned and the difference in air quality is amazing. The team showed us before and after photos - couldn't believe how dirty they were. Great service!",
+      "service": "Duct Cleaning",
+      "date": "2024-01-15",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "name": "Maria G.",
+      "location": "Glendale, AZ",
+      "rating": 5,
+      "text": "Emergency call on a Sunday morning and they were here within an hour. Fair price for emergency service and got our AC running again. Lifesavers!",
+      "service": "Emergency HVAC",
+      "date": "2024-07-04",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "name": "James W.",
+      "location": "Peoria, AZ",
+      "rating": 5,
+      "text": "Installed a whole-house air purifier and new filtration system. My allergies have improved significantly. The installation team was courteous and efficient.",
+      "service": "Indoor Air Quality",
+      "date": "2024-06-01",
+      "verified": true
+    }
+  ],
+  "summary": {
+    "averageRating": 4.9,
+    "totalReviews": 847,
+    "fiveStarPercentage": 94,
+    "platforms": [
+      { "name": "Google", "rating": 4.9, "reviews": 523 },
+      { "name": "Yelp", "rating": 4.8, "reviews": 187 },
+      { "name": "BBB", "rating": 5.0, "reviews": 89 },
+      { "name": "HomeAdvisor", "rating": 4.9, "reviews": 48 }
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "hero": {
+    "headline": "Outdoor Living",
+    "headlineAccent": "Elevated",
+    "description": "Professional landscaping services in {{city}} that transform your property. From design to maintenance, {{businessName}} creates outdoor spaces you'll love coming home to."
+  },
+  "trustSection": {
+    "items": [
+      {
+        "icon": "Palette",
+        "label": "Design Expertise",
+        "value": "Certified landscape designers who bring your vision to life."
+      },
+      {
+        "icon": "Leaf",
+        "label": "Sustainable Practices",
+        "value": "Water-wise plantings and eco-friendly methods for lasting beauty."
+      },
+      {
+        "icon": "Shield",
+        "label": "Licensed & Insured",
+        "value": "Fully licensed with comprehensive liability and workers' comp coverage."
+      },
+      {
+        "icon": "Calendar",
+        "label": "Year-Round Care",
+        "value": "Seasonal maintenance plans that keep your landscape thriving."
+      }
+    ]
+  },
+  "mediaBar": {
+    "tagline": "Serving {{city}} since {{establishedYear}} — {{rating}}★ rated with {{reviewCount}}+ reviews"
+  },
+  "processSection": {
+    "headline": "How It Works",
+    "description": "Transforming your outdoor space in {{city}} starts with a simple conversation.",
+    "steps": [
+      {
+        "title": "Call or Book Online",
+        "description": "Tell us about your property and what you envision for your outdoor space.",
+        "icon": "PhoneCall"
+      },
+      {
+        "title": "Design Consultation",
+        "description": "Our designer visits your property and creates a custom landscape plan.",
+        "icon": "ClipboardCheck"
+      },
+      {
+        "title": "Expert Installation",
+        "description": "Our skilled crew brings the design to life with quality materials and plants.",
+        "icon": "Wrench"
+      },
+      {
+        "title": "Enjoy Your Yard",
+        "description": "Love your new outdoor space with optional ongoing maintenance to keep it beautiful.",
+        "icon": "ThumbsUp"
+      }
+    ]
+  },
+  "aboutSection": {
+    "description": "{{businessName}} has been serving {{city}} and the {{region}} since {{establishedYear}}. With {{reviewCount}}+ five-star reviews and a team of certified landscape professionals, we create outdoor spaces that enhance your property and your lifestyle. Our commitment to thoughtful design, sustainable practices, and meticulous execution has made us one of {{city}}'s most trusted landscaping companies.",
+    "mission": "To enhance {{city}} properties with beautiful, sustainable landscapes that increase curb appeal and outdoor enjoyment.",
+    "values": [
+      {
+        "title": "Thoughtful Design",
+        "description": "Every project starts with a plan tailored to your property, climate, and lifestyle.",
+        "icon": "Award"
+      },
+      {
+        "title": "Sustainable Approach",
+        "description": "Water-efficient plantings and eco-friendly practices that respect the environment.",
+        "icon": "ShieldCheck"
+      },
+      {
+        "title": "Lasting Results",
+        "description": "Quality materials and expert installation that look better with every season.",
+        "icon": "Heart"
+      }
+    ]
+  },
+  "ctaBanner": {
+    "headline": "Ready to Get Started?",
+    "description": "Contact {{businessName}} today for a free landscape consultation and estimate.",
+    "buttonText": "Call Now",
+    "buttonHref": "tel:{{phoneRaw}}"
+  },
+  "pages": {
+    "services": {
+      "headline": "Our Services",
+      "description": "Complete landscaping services for {{city}} — design, installation, hardscaping, and maintenance."
+    },
+    "about": {
+      "headline": "About {{businessName}}",
+      "description": "Meet {{city}}'s trusted landscaping team — {{yearsInBusiness}} years of transforming outdoor spaces."
+    },
+    "contact": {
+      "headline": "Contact Us",
+      "description": "Reach {{businessName}} to start planning your dream landscape in {{city}}."
+    },
+    "areas": {
+      "headline": "Service Areas",
+      "description": "{{businessName}} serves {{city}} and surrounding {{region}} communities."
+    },
+    "blog": {
+      "headline": "Landscaping Ideas & Tips",
+      "description": "Outdoor living inspiration and lawn care advice from {{businessName}}."
+    },
+    "works": {
+      "headline": "Our Work",
+      "description": "Explore landscape transformations completed across {{city}}."
+    },
+    "financing": {
+      "headline": "Financing Options",
+      "description": "Flexible payment plans for landscape design, patios, and outdoor living projects."
+    },
+    "emergencyTips": {
+      "headline": "Seasonal Care Tips",
+      "description": "How to protect your landscape from storms, frost, and extreme weather."
+    }
+  }
+}

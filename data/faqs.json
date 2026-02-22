@@ -1,0 +1,88 @@
+{
+  "categories": [
+    {
+      "name": "General",
+      "slug": "general",
+      "faqs": [
+        {
+          "question": "How fast can you get here?",
+          "answer": "For Denver and surrounding areas, we typically arrive within 2-4 hours. Electrical emergencies like sparking, burning smells, or complete power loss are prioritized for immediate response."
+        },
+        {
+          "question": "Are your electricians licensed?",
+          "answer": "Yes, Bright Spark Electric is fully licensed (LIC-ELECTRICAL-27017) and insured. Every electrician on our team is licensed, background-checked, and continuously trained on current codes."
+        },
+        {
+          "question": "Do you pull permits?",
+          "answer": "Yes, we pull all necessary permits and schedule inspections for work that requires them. This ensures your work is code-compliant and won't cause issues when selling your home."
+        },
+        {
+          "question": "Do you offer free estimates?",
+          "answer": "Yes, estimates for larger projects like panel upgrades, rewiring, and EV charger installation are free. For service calls, we charge a diagnostic fee that's applied to the repair if you proceed."
+        },
+        {
+          "question": "Do you guarantee your work?",
+          "answer": "Absolutely. All electrical work comes with a 2-year warranty. If anything we installed or repaired fails, we'll fix it at no charge."
+        },
+        {
+          "question": "Do you work on commercial properties?",
+          "answer": "We primarily serve residential customers, but we can handle light commercial work. Contact us to discuss your project."
+        }
+      ]
+    },
+    {
+      "name": "Repairs",
+      "slug": "repairs",
+      "faqs": [
+        {
+          "question": "Why do my lights flicker?",
+          "answer": "Flickering lights can indicate loose connections, overloaded circuits, or problems at the panel. While sometimes minor, persistent flickering should be checked—it can indicate fire hazards."
+        },
+        {
+          "question": "Why does my breaker keep tripping?",
+          "answer": "Breakers trip when circuits are overloaded or there's a short circuit. If one breaker trips repeatedly, it may need to be replaced or the circuit may need to be split. This shouldn't be ignored."
+        },
+        {
+          "question": "Is a burning smell from an outlet dangerous?",
+          "answer": "Yes! A burning smell indicates an electrical problem that could cause a fire. Turn off the circuit at the panel and call us immediately. Don't use the outlet until it's been inspected."
+        }
+      ]
+    },
+    {
+      "name": "Panels",
+      "slug": "panels",
+      "faqs": [
+        {
+          "question": "When should I upgrade my electrical panel?",
+          "answer": "Consider upgrading if you have a 100-amp panel (most modern homes need 200), frequently trip breakers, are adding major appliances, or plan to add an EV charger or home addition."
+        },
+        {
+          "question": "How much does a panel upgrade cost?",
+          "answer": "Panel upgrades typically range from $1,500-$3,500 depending on scope. Factors include current amperage, new amperage needed, and any additional work required. We provide free detailed estimates."
+        },
+        {
+          "question": "How long does a panel upgrade take?",
+          "answer": "Most panel upgrades are completed in one day. The power will be off for 4-8 hours during the upgrade. We'll coordinate with your utility company for temporary disconnection."
+        }
+      ]
+    },
+    {
+      "name": "Ev Chargers",
+      "slug": "ev-chargers",
+      "faqs": [
+        {
+          "question": "What's the difference between Level 1 and Level 2 charging?",
+          "answer": "Level 1 uses a standard 120V outlet and adds about 4-5 miles of range per hour. Level 2 uses a 240V circuit and adds 25-30 miles per hour. Most EV owners prefer Level 2 for overnight charging."
+        },
+        {
+          "question": "Does my panel support an EV charger?",
+          "answer": "EV chargers typically need a 50-amp dedicated circuit. We'll assess your panel's capacity and recommend any needed upgrades. Many homes can add a charger without panel upgrades."
+        },
+        {
+          "question": "Can I get rebates for EV charger installation?",
+          "answer": "Many utilities and states offer rebates for EV charger installation. We can help you identify available rebates and provide documentation needed to claim them."
+        }
+      ]
+    }
+  ]
+}

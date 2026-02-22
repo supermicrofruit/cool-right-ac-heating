@@ -1,0 +1,80 @@
+{
+  "name": "Spark Electric Co",
+  "legalName": "Spark Electric Co LLC",
+  "phone": "(480) 555-9999",
+  "phoneRaw": "+14805559999",
+  "email": "info@sparkelectricco.com",
+  "website": "https://sparkelectricco.com",
+  "vertical": "electrical",
+  "region": "Arizona",
+  "address": {
+    "street": "7890 E Shea Blvd",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "zip": "85260",
+    "full": "7890 E Shea Blvd, Scottsdale, AZ 85260"
+  },
+  "coordinates": {
+    "lat": 33.5811,
+    "lng": -111.8906
+  },
+  "hours": {
+    "weekdays": "7:00 AM - 6:00 PM",
+    "saturday": "8:00 AM - 4:00 PM",
+    "sunday": "Emergency Only",
+    "structured": [
+      { "days": "Monday - Friday", "hours": "7:00 AM - 6:00 PM" },
+      { "days": "Saturday", "hours": "8:00 AM - 4:00 PM" },
+      { "days": "Sunday", "hours": "Emergency Only" }
+    ]
+  },
+  "licenses": [
+    "ROC #287654",
+    "Master Electrician License"
+  ],
+  "certifications": [
+    "Tesla Certified Installer",
+    "Generac Authorized Dealer",
+    "BBB A+ Rating",
+    "IBEW Member"
+  ],
+  "established": 2008,
+  "rating": 4.9,
+  "reviewCount": 423,
+  "description": "Spark Electric Co has been powering Scottsdale homes and businesses since 2008. Our master electricians specialize in panel upgrades, EV charger installation, and whole-home electrical solutions with a focus on safety and code compliance.",
+  "tagline": "Powering Scottsdale Homes Since 2008",
+  "emergencyService": true,
+  "financing": true,
+  "freeEstimates": true,
+  "responseTime": "Same day",
+  "warrantyYears": 2,
+  "maintenancePointCount": 25,
+  "socialMedia": {
+    "facebook": "https://facebook.com/sparkelectricco",
+    "google": "https://g.page/sparkelectricco"
+  },
+  "theme": {
+    "preset": "electric-purple",
+    "logo": "/images/logo.png",
+    "favicon": "/favicon.ico"
+  },
+  "features": {
+    "showTeam": true,
+    "showBlog": true,
+    "showWorks": true,
+    "showFinancing": true,
+    "emergencyBadge": true,
+    "callbackWidget": false,
+    "stickyPhone": true
+  },
+  "seo": {
+    "titleTemplate": "%s | Spark Electric Co",
+    "defaultDescription": "Licensed electricians in Scottsdale, AZ. Panel upgrades, EV chargers, rewiring. Call (480) 555-9999 for your free estimate."
+  },
+  "forms": {
+    "notifyEmail": "leads@sparkelectricco.com",
+    "webhookUrl": "",
+    "successMessage": "Thanks! We'll contact you within 24 hours.",
+    "errorMessage": "Something went wrong. Please call us directly."
+  }
+}

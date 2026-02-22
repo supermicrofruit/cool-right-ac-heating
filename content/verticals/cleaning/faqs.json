@@ -1,0 +1,84 @@
+{
+  "categories": [
+    {
+      "name": "General",
+      "slug": "general",
+      "faqs": [
+        {
+          "question": "Are you licensed, bonded, and insured?",
+          "answer": "Yes. {{businessName}} is fully licensed, bonded, and insured. Every team member passes a thorough background check before they ever enter a client's home. You can trust our team with your property and your peace of mind."
+        },
+        {
+          "question": "Do you bring your own cleaning supplies and equipment?",
+          "answer": "We bring everything needed for a thorough cleaning, including eco-friendly products, microfiber cloths, HEPA-filter vacuums, and mops. If you have specific products you prefer us to use, just let us know and we are happy to accommodate."
+        },
+        {
+          "question": "What if I am not satisfied with the cleaning?",
+          "answer": "Your satisfaction is guaranteed. If you notice anything that does not meet your expectations, contact {{businessName}} within 24 hours and we will send a team back to re-clean the area at no additional charge."
+        },
+        {
+          "question": "Do I need to be home during the cleaning?",
+          "answer": "Not at all. Many of our {{city}} clients provide a key, garage code, or lockbox access. All {{businessName}} team members are background-checked and bonded, so you can feel comfortable giving us access while you are at work or running errands."
+        }
+      ]
+    },
+    {
+      "name": "Residential Cleaning",
+      "slug": "residential-cleaning",
+      "faqs": [
+        {
+          "question": "What is included in a standard house cleaning?",
+          "answer": "Our standard cleaning covers every room in your home: dusting surfaces, vacuuming and mopping floors, sanitizing bathrooms, cleaning the kitchen including countertops and appliances, and wiping down all accessible surfaces. We follow a detailed checklist so nothing gets missed."
+        },
+        {
+          "question": "How long does a typical house cleaning take?",
+          "answer": "A standard cleaning for a 2-3 bedroom home typically takes 2 to 3 hours with a two-person team. Larger homes or first-time cleanings may take longer. We will give you a time estimate when you book so there are no surprises."
+        },
+        {
+          "question": "Can I customize what gets cleaned?",
+          "answer": "Absolutely. We tailor every cleaning plan to your priorities. Whether you want extra attention on kitchens and bathrooms, need pet hair addressed, or want us to skip certain rooms, just let us know and we will adjust your checklist accordingly."
+        }
+      ]
+    },
+    {
+      "name": "Deep Cleaning & Specialty",
+      "slug": "deep-cleaning-specialty",
+      "faqs": [
+        {
+          "question": "How is deep cleaning different from regular cleaning?",
+          "answer": "Deep cleaning covers everything in a standard cleaning plus areas that do not get attention during routine visits: inside cabinets, behind appliances, baseboards, light fixtures, window tracks, and detailed grout scrubbing. Think of it as a complete reset for your home."
+        },
+        {
+          "question": "How often should I schedule a deep cleaning?",
+          "answer": "We recommend a deep cleaning every 3 to 6 months, depending on your household. Homes with pets, children, or allergy sufferers benefit from more frequent deep cleans. Many clients start with a deep clean and then transition to regular recurring service."
+        },
+        {
+          "question": "Will a move-out cleaning help me get my security deposit back?",
+          "answer": "That is one of the most common reasons clients book our move-out service. We clean to landlord and property management standards, including inside all cabinets, closets, appliances, and fixtures. Many of our {{city}} clients report getting their full deposit returned."
+        }
+      ]
+    },
+    {
+      "name": "Booking & Pricing",
+      "slug": "booking-pricing",
+      "faqs": [
+        {
+          "question": "How quickly can you schedule a cleaning?",
+          "answer": "We typically have availability within 24 to 48 hours for {{city}} and surrounding areas. For recurring clients, we offer priority scheduling and consistent time slots so you always know when to expect us."
+        },
+        {
+          "question": "How do you determine pricing?",
+          "answer": "We offer flat-rate pricing based on the size of your home, number of rooms, and type of cleaning requested. You will receive a clear quote before we start so there are no surprises. Call {{businessName}} at {{phone}} for a free estimate."
+        },
+        {
+          "question": "What is your cancellation policy?",
+          "answer": "We understand plans change. We ask for at least 24 hours notice if you need to reschedule or cancel. This allows us to offer the time slot to another {{city}} client. Late cancellations may be subject to a small fee."
+        },
+        {
+          "question": "Do you offer discounts for recurring service?",
+          "answer": "Yes. Clients who book weekly or biweekly recurring service receive a lower per-visit rate compared to one-time cleanings. The more frequently we clean, the less time each visit takes, and we pass those savings on to you."
+        }
+      ]
+    }
+  ]
+}

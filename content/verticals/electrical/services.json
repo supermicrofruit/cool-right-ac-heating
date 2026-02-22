@@ -1,0 +1,254 @@
+{
+  "vertical": "electrical",
+  "services": [
+    {
+      "slug": "electrical-repair",
+      "name": "Electrical Repair",
+      "shortDescription": "Expert diagnosis and repair for all electrical issues.",
+      "longDescription": "Flickering lights? Tripping breakers? Dead outlets? {{businessName}} diagnoses and repairs all electrical problems safely and correctly. Our licensed electricians identify the root cause and fix it right the first time, ensuring your home's electrical system is safe and reliable.",
+      "icon": "Zap",
+      "category": "repairs",
+      "emergency": true,
+      "features": [
+        "All electrical issues",
+        "Same-day service available",
+        "Thorough troubleshooting",
+        "Code-compliant repairs",
+        "Safety inspection included",
+        "{{warrantyYears}}-year warranty"
+      ],
+      "benefits": [
+        "Restore safe operation",
+        "Prevent fire hazards",
+        "Stop nuisance trips",
+        "Peace of mind"
+      ],
+      "commonIssues": [
+        "Flickering lights",
+        "Tripping breakers",
+        "Dead outlets",
+        "Burning smell",
+        "Sparking outlets",
+        "Buzzing sounds"
+      ],
+      "meta": {
+        "title": "Electrical Repair {{city}} | Licensed Electricians | {{businessName}}",
+        "description": "Expert electrical repair in {{city}}. Flickering lights, tripping breakers, dead outlets. {{businessName}} - licensed, insured. Call {{phone}}."
+      }
+    },
+    {
+      "slug": "panel-upgrade",
+      "name": "Panel Upgrade",
+      "shortDescription": "Upgrade your electrical panel for more power and safety.",
+      "longDescription": "Older homes often have electrical panels that can't handle modern demands. {{businessName}} upgrades panels from 100 to 200 amps or more, adding capacity for modern appliances, EV chargers, and home additions. All work is permitted and inspected.",
+      "icon": "Server",
+      "category": "upgrades",
+      "emergency": false,
+      "features": [
+        "100 to 200 amp upgrades",
+        "Permit included",
+        "Utility coordination",
+        "Code compliance",
+        "Arc-fault protection",
+        "Surge protection options"
+      ],
+      "benefits": [
+        "Handle modern loads",
+        "End tripping breakers",
+        "Enable future upgrades",
+        "Improve safety",
+        "Increase home value"
+      ],
+      "meta": {
+        "title": "Electrical Panel Upgrade {{city}} | 200 Amp Service | {{businessName}}",
+        "description": "Electrical panel upgrade in {{city}}. 100 to 200 amp service. {{businessName}} handles permits and inspections. Call {{phone}} for estimate."
+      }
+    },
+    {
+      "slug": "outlet-installation",
+      "name": "Outlet & Switch Installation",
+      "shortDescription": "Install, repair, or upgrade outlets and switches.",
+      "longDescription": "Need more outlets? Want USB charging ports? Upgrading to smart switches? {{businessName}} installs all types of outlets and switches, from standard to GFCI, AFCI, and smart devices. We ensure proper placement, secure connections, and code compliance.",
+      "icon": "Plug",
+      "category": "installation",
+      "emergency": false,
+      "features": [
+        "Standard outlets",
+        "GFCI outlets",
+        "USB charging outlets",
+        "Smart switches",
+        "Dimmer switches",
+        "220V outlets"
+      ],
+      "benefits": [
+        "More power access",
+        "Modern convenience",
+        "Improved safety",
+        "Smart home ready"
+      ],
+      "meta": {
+        "title": "Outlet Installation {{city}} | GFCI, USB, Smart Outlets | {{businessName}}",
+        "description": "Outlet and switch installation in {{city}}. GFCI, USB, smart outlets. {{businessName}} - licensed electricians. Call {{phone}}."
+      }
+    },
+    {
+      "slug": "lighting",
+      "name": "Lighting Installation",
+      "shortDescription": "Indoor, outdoor, and specialty lighting solutions.",
+      "longDescription": "Transform your space with professional lighting installation from {{businessName}}. We install recessed lighting, chandeliers, under-cabinet lights, landscape lighting, and more. Our electricians ensure safe installation and help you choose the right fixtures for your needs.",
+      "icon": "Lightbulb",
+      "category": "installation",
+      "emergency": false,
+      "features": [
+        "Recessed lighting",
+        "Chandeliers & pendants",
+        "Under-cabinet lighting",
+        "Landscape lighting",
+        "Security lighting",
+        "LED upgrades"
+      ],
+      "benefits": [
+        "Enhanced ambiance",
+        "Better visibility",
+        "Energy savings",
+        "Improved security",
+        "Increased home value"
+      ],
+      "meta": {
+        "title": "Lighting Installation {{city}} | Recessed, Landscape, LED | {{businessName}}",
+        "description": "Professional lighting installation in {{city}}. Recessed, landscape, under-cabinet. {{businessName}} - expert electricians. Call {{phone}}."
+      }
+    },
+    {
+      "slug": "ceiling-fan",
+      "name": "Ceiling Fan Installation",
+      "shortDescription": "Professional ceiling fan installation and repair.",
+      "longDescription": "A properly installed ceiling fan improves comfort and saves energy. {{businessName}} installs all types of ceiling fans, from simple to smart-enabled. We ensure secure mounting, proper wiring, and balanced operation.",
+      "icon": "Fan",
+      "category": "installation",
+      "emergency": false,
+      "features": [
+        "All fan types",
+        "Secure mounting",
+        "Remote controls",
+        "Smart fan setup",
+        "Old fan removal",
+        "Proper balancing"
+      ],
+      "benefits": [
+        "Improved comfort",
+        "Lower energy bills",
+        "Year-round use",
+        "Quiet operation"
+      ],
+      "meta": {
+        "title": "Ceiling Fan Installation {{city}} | Professional Installation | {{businessName}}",
+        "description": "Ceiling fan installation in {{city}}. All types, secure mounting, smart fans. {{businessName}} - call {{phone}} for same-day service."
+      }
+    },
+    {
+      "slug": "ev-charger",
+      "name": "EV Charger Installation",
+      "shortDescription": "Install a Level 2 EV charger at your home.",
+      "longDescription": "Charge your electric vehicle at home with a Level 2 charger installation from {{businessName}}. We install all major brands including Tesla, ChargePoint, and JuiceBox. Our licensed electricians ensure proper circuit sizing, permitting, and safe installation.",
+      "icon": "Battery",
+      "category": "upgrades",
+      "emergency": false,
+      "features": [
+        "All EV charger brands",
+        "Level 2 charging",
+        "Panel capacity check",
+        "Permit included",
+        "Utility rebate assistance",
+        "NEMA 14-50 outlets"
+      ],
+      "benefits": [
+        "Charge at home",
+        "Faster than Level 1",
+        "Save on fuel costs",
+        "Convenient overnight charging"
+      ],
+      "meta": {
+        "title": "EV Charger Installation {{city}} | Tesla, ChargePoint, Level 2 | {{businessName}}",
+        "description": "EV charger installation in {{city}}. Tesla, ChargePoint, all brands. {{businessName}} - licensed, permitted. Call {{phone}} for estimate."
+      }
+    },
+    {
+      "slug": "rewiring",
+      "name": "Whole-Home Rewiring",
+      "shortDescription": "Replace outdated wiring with safe, modern electrical.",
+      "longDescription": "Older homes with knob-and-tube or aluminum wiring pose serious safety risks. {{businessName}} replaces outdated wiring with modern copper wiring that meets current codes. We minimize disruption while ensuring your home is safe for decades to come.",
+      "icon": "Home",
+      "category": "upgrades",
+      "emergency": false,
+      "features": [
+        "Complete rewiring",
+        "Minimal wall damage",
+        "Panel upgrade included",
+        "All permits handled",
+        "Code compliance",
+        "Grounded outlets throughout"
+      ],
+      "benefits": [
+        "Fire safety",
+        "Insurance compliance",
+        "Handle modern loads",
+        "Peace of mind",
+        "Increased home value"
+      ],
+      "meta": {
+        "title": "Whole House Rewiring {{city}} | Electrical Rewiring Service | {{businessName}}",
+        "description": "Whole-home rewiring in {{city}}. Replace old wiring safely. {{businessName}} - licensed, permitted, guaranteed. Call {{phone}}."
+      }
+    },
+    {
+      "slug": "emergency-electrical",
+      "name": "Emergency Electrical",
+      "shortDescription": "24/7 emergency electrical service.",
+      "longDescription": "Electrical emergencies can be dangerous. Power outages, sparking outlets, burning smells—don't wait. {{businessName}} offers 24/7 emergency electrical service in {{city}}. Our licensed electricians respond quickly to keep your family safe.",
+      "icon": "AlertCircle",
+      "category": "emergency",
+      "emergency": true,
+      "features": [
+        "24/7 availability",
+        "Fast response",
+        "Safety first approach",
+        "All emergencies handled",
+        "Licensed electricians",
+        "Permanent solutions"
+      ],
+      "benefits": [
+        "Immediate response",
+        "Safety restored",
+        "Professional assessment",
+        "Peace of mind"
+      ],
+      "meta": {
+        "title": "24/7 Emergency Electrician {{city}} | After-Hours Electrical Service | {{businessName}}",
+        "description": "24/7 emergency electrician in {{city}}. Power outages, sparking, burning smell. {{businessName}} responds fast. Call {{phone}} now."
+      }
+    }
+  ],
+  "categories": [
+    {
+      "slug": "repairs",
+      "name": "Electrical Repairs",
+      "description": "Fix electrical problems safely."
+    },
+    {
+      "slug": "installation",
+      "name": "Installation",
+      "description": "Outlets, lighting, fans, and more."
+    },
+    {
+      "slug": "upgrades",
+      "name": "Upgrades",
+      "description": "Panel upgrades, rewiring, EV chargers."
+    },
+    {
+      "slug": "emergency",
+      "name": "Emergency",
+      "description": "24/7 urgent electrical service."
+    }
+  ]
+}

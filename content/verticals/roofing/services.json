@@ -1,0 +1,208 @@
+{
+  "vertical": "roofing",
+  "services": [
+    {
+      "slug": "roof-repair",
+      "image": "https://images.pexels.com/photos/4442490/pexels-photo-4442490.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Roof Repair",
+      "shortDescription": "Fast, reliable roof repair to stop leaks and prevent further damage.",
+      "longDescription": "Whether it's a small leak or major storm damage, {{businessName}} delivers dependable roof repairs for {{city}} homeowners. Our crew identifies the root cause, not just the symptom, and fixes it right the first time with a {{warrantyYears}}-year workmanship warranty.",
+      "icon": "Wrench",
+      "category": "repair",
+      "emergency": true,
+      "features": [
+        "Leak detection and repair",
+        "Shingle replacement",
+        "Flashing repair",
+        "Emergency tarping",
+        "{{warrantyYears}}-year workmanship warranty",
+        "All major roofing materials"
+      ],
+      "benefits": [
+        "Stop leaks before they cause interior damage",
+        "Extend your roof's lifespan",
+        "Protect your home's value",
+        "Peace of mind with warrantied repairs"
+      ],
+      "commonIssues": [
+        "Roof leaks",
+        "Missing or damaged shingles",
+        "Sagging areas",
+        "Flashing failures",
+        "Ice dam damage",
+        "Wind damage"
+      ],
+      "meta": {
+        "title": "Roof Repair {{city}} | Leak Repair & Storm Damage | {{businessName}}",
+        "description": "Fast roof repair in {{city}}. Leaks, storm damage, shingle replacement. {{businessName}} — {{rating}}★ rated. Call {{phone}} today."
+      }
+    },
+    {
+      "slug": "roof-replacement",
+      "image": "https://images.pexels.com/photos/18098285/pexels-photo-18098285.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Roof Replacement",
+      "shortDescription": "Complete roof replacement with premium materials and expert installation.",
+      "longDescription": "When repair isn't enough, {{businessName}} provides full roof replacements for {{city}} homes. We help you choose the right materials — asphalt shingles, metal, tile, or flat roofing — and install everything to manufacturer specifications with proper ventilation and underlayment.",
+      "icon": "Home",
+      "category": "installation",
+      "emergency": false,
+      "features": [
+        "Free detailed estimates",
+        "Multiple material options",
+        "Full tear-off and disposal",
+        "Proper ventilation installed",
+        "Manufacturer warranty registration",
+        "Financing available"
+      ],
+      "benefits": [
+        "Brand-new curb appeal",
+        "Increased home value",
+        "Lower energy bills",
+        "Decades of protection",
+        "Full warranty coverage"
+      ],
+      "meta": {
+        "title": "Roof Replacement {{city}} | New Roof Installation | {{businessName}}",
+        "description": "Complete roof replacement in {{city}}. Free estimates, quality materials, financing. {{businessName}} — {{rating}}★ rated. Call {{phone}}."
+      }
+    },
+    {
+      "slug": "roof-inspection",
+      "image": "https://images.pexels.com/photos/8293670/pexels-photo-8293670.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Roof Inspection",
+      "shortDescription": "Thorough roof inspections to catch problems before they get expensive.",
+      "longDescription": "Don't wait for a leak to find out your roof needs attention. {{businessName}}'s comprehensive roof inspections assess shingles, flashing, gutters, ventilation, and structural integrity. We provide a detailed report with photos and recommendations.",
+      "icon": "Search",
+      "category": "maintenance",
+      "emergency": false,
+      "features": [
+        "Full visual inspection",
+        "Photo documentation",
+        "Written condition report",
+        "Ventilation assessment",
+        "Gutter and drainage check",
+        "No-obligation recommendations"
+      ],
+      "benefits": [
+        "Catch small issues early",
+        "Plan and budget for repairs",
+        "Maintain warranty coverage",
+        "Know your roof's true condition"
+      ],
+      "meta": {
+        "title": "Roof Inspection {{city}} | Free Roof Assessment | {{businessName}}",
+        "description": "Professional roof inspection in {{city}}. Detailed report with photos. {{businessName}} — free inspections. Call {{phone}}."
+      }
+    },
+    {
+      "slug": "storm-damage-repair",
+      "image": "https://images.pexels.com/photos/4170461/pexels-photo-4170461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Storm Damage Repair",
+      "shortDescription": "Emergency storm damage repair and insurance claim assistance.",
+      "longDescription": "After severe weather, {{businessName}} responds quickly to assess and repair storm damage for {{city}} homeowners. We handle emergency tarping, full repairs, and work directly with your insurance company to streamline the claims process.",
+      "icon": "CloudLightning",
+      "category": "repair",
+      "emergency": true,
+      "features": [
+        "24-hour emergency response",
+        "Insurance claim assistance",
+        "Emergency tarping",
+        "Hail and wind damage repair",
+        "Complete documentation for claims",
+        "Full restoration services"
+      ],
+      "benefits": [
+        "Fast protection from further damage",
+        "Simplified insurance process",
+        "Expert damage assessment",
+        "Restored home security"
+      ],
+      "meta": {
+        "title": "Storm Damage Roof Repair {{city}} | Emergency Response | {{businessName}}",
+        "description": "Storm damage roof repair in {{city}}. Emergency response, insurance help. {{businessName}} — call {{phone}} 24/7."
+      }
+    },
+    {
+      "slug": "gutter-installation",
+      "image": "https://images.pexels.com/photos/8031882/pexels-photo-8031882.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Gutter Installation",
+      "shortDescription": "Seamless gutter installation to protect your home's foundation.",
+      "longDescription": "Properly installed gutters direct water away from your foundation, preventing costly damage. {{businessName}} installs seamless aluminum gutters, gutter guards, and downspout extensions for {{city}} homes.",
+      "icon": "Droplets",
+      "category": "installation",
+      "emergency": false,
+      "features": [
+        "Seamless aluminum gutters",
+        "Gutter guard options",
+        "Downspout installation",
+        "Custom color matching",
+        "Old gutter removal",
+        "Leaf protection systems"
+      ],
+      "benefits": [
+        "Protect your foundation",
+        "Prevent water damage",
+        "Reduce maintenance",
+        "Improve curb appeal"
+      ],
+      "meta": {
+        "title": "Gutter Installation {{city}} | Seamless Gutters | {{businessName}}",
+        "description": "Seamless gutter installation in {{city}}. Guards, downspouts, custom colors. {{businessName}} — call {{phone}} for a free estimate."
+      }
+    },
+    {
+      "slug": "commercial-roofing",
+      "image": "https://images.pexels.com/photos/17180396/pexels-photo-17180396.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Commercial Roofing",
+      "shortDescription": "Commercial roofing solutions for flat roofs, metal roofs, and more.",
+      "longDescription": "{{businessName}} provides commercial roofing services for businesses in {{city}}. From flat roof repairs and TPO installations to metal roof systems, we deliver durable solutions that protect your investment and minimize downtime.",
+      "icon": "Building",
+      "category": "commercial",
+      "emergency": false,
+      "features": [
+        "Flat roof specialists",
+        "TPO and EPDM installation",
+        "Metal roofing systems",
+        "Preventive maintenance plans",
+        "Emergency leak repair",
+        "Minimal business disruption"
+      ],
+      "benefits": [
+        "Protect your business investment",
+        "Reduce energy costs",
+        "Long-term durability",
+        "Maintenance plans save money"
+      ],
+      "meta": {
+        "title": "Commercial Roofing {{city}} | Flat Roof & Metal Roof | {{businessName}}",
+        "description": "Commercial roofing in {{city}}. Flat roofs, metal, TPO. {{businessName}} — maintenance plans available. Call {{phone}}."
+      }
+    }
+  ],
+  "categories": [
+    {
+      "slug": "repair",
+      "name": "Roof Repair",
+      "icon": "Wrench",
+      "description": "Fix leaks, storm damage, and wear before they become major problems."
+    },
+    {
+      "slug": "installation",
+      "name": "New Roofing",
+      "icon": "Home",
+      "description": "Full roof replacements and new installations with quality materials."
+    },
+    {
+      "slug": "maintenance",
+      "name": "Maintenance",
+      "icon": "Search",
+      "description": "Regular inspections and upkeep to extend your roof's lifespan."
+    },
+    {
+      "slug": "commercial",
+      "name": "Commercial",
+      "icon": "Building",
+      "description": "Roofing solutions for businesses and commercial properties."
+    }
+  ]
+}

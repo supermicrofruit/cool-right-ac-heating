@@ -1,0 +1,102 @@
+{
+  "primaryServiceArea": "Tampa Area",
+  "serviceRadius": "We serve Tampa and surrounding communities within 25 miles",
+  "areas": [
+    {
+      "slug": "tampa",
+      "name": "Tampa",
+      "state": "FL",
+      "population": "400,000+",
+      "coordinates": { "lat": 27.9506, "lng": -82.4572 },
+      "description": "Our home base! {{businessName}} serves all of {{city}} from South Tampa to New Tampa, delivering full-service landscaping, irrigation, and tropical design for residential and commercial properties throughout the metro.",
+      "neighborhoods": ["South Tampa", "Hyde Park", "Seminole Heights", "Ybor City", "New Tampa", "Carrollwood"],
+      "landmarks": ["Busch Gardens", "Tampa Riverwalk", "Bayshore Boulevard", "Tampa Bay"],
+      "localChallenges": "{{city}}'s subtropical climate drives year-round growth that can turn a neat yard into an overgrown thicket in just weeks during summer rainy season. Hurricane preparedness is critical — overgrown trees and loose landscaping become dangerous projectiles in tropical storms, and properties without proper drainage flood quickly.",
+      "serviceHighlights": [
+        "Tropical landscape design and installation",
+        "Irrigation system installation and repair",
+        "Hurricane prep tree trimming and debris removal"
+      ]
+    },
+    {
+      "slug": "st-petersburg",
+      "name": "St. Petersburg",
+      "state": "FL",
+      "population": "260,000+",
+      "coordinates": { "lat": 27.7731, "lng": -82.6400 },
+      "description": "{{businessName}} serves St. Pete's waterfront properties, historic bungalows, and growing Arts District neighborhoods with tropical landscaping that thrives in the coastal environment.",
+      "neighborhoods": ["Downtown St. Pete", "Old Northeast", "Kenwood", "Snell Isle", "Pinellas Point", "Skyway Marina"],
+      "landmarks": ["Salvador Dali Museum", "St. Pete Pier", "Vinoy Park", "Weedon Island Preserve"],
+      "localChallenges": "St. Petersburg's waterfront location means lawns and gardens face salt spray that stresses non-native plants. The city's aging bungalow neighborhoods often have mature oak canopies that compete with grass for sunlight and require expert trimming to stay hurricane-safe without losing character.",
+      "serviceHighlights": [
+        "Salt-tolerant coastal landscape design",
+        "Mature tree trimming and canopy management",
+        "Waterfront property lawn and garden care"
+      ]
+    },
+    {
+      "slug": "clearwater",
+      "name": "Clearwater",
+      "state": "FL",
+      "population": "115,000+",
+      "coordinates": { "lat": 27.9659, "lng": -82.8001 },
+      "description": "Serving Clearwater's beachfront communities, residential neighborhoods, and vacation rental properties with reliable landscaping that holds up in Florida's harsh coastal climate.",
+      "neighborhoods": ["Clearwater Beach", "Countryside", "Dunedin border area", "Safety Harbor border", "North Greenwood", "Skycrest"],
+      "landmarks": ["Clearwater Beach", "Caladesi Island State Park", "Clearwater Marine Aquarium", "Coachman Park"],
+      "localChallenges": "Clearwater's white sand beaches look beautiful but present a real landscaping challenge — fine beach sand invades yards, disrupts soil composition, and stunts turf growth near the coast. The area's dense vacation rental market also demands immaculate curb appeal and fast landscape recovery after every storm.",
+      "serviceHighlights": [
+        "Beach-adjacent lawn restoration and care",
+        "Vacation rental curb appeal maintenance",
+        "Drought-tolerant Florida-friendly plant design"
+      ]
+    },
+    {
+      "slug": "brandon",
+      "name": "Brandon",
+      "state": "FL",
+      "population": "115,000+",
+      "coordinates": { "lat": 27.9378, "lng": -82.2859 },
+      "description": "{{businessName}} serves Brandon's established suburban neighborhoods and newer residential developments with comprehensive lawn care, landscape design, and irrigation services.",
+      "neighborhoods": ["Brandon Town Center area", "Bloomingdale", "Valrico", "Limona", "Seffner border"],
+      "landmarks": ["Brandon Town Center", "Lithia Pinecrest Road corridor", "Alafia River State Park", "Brandon Amphitheater"],
+      "localChallenges": "Brandon's inland location means hotter, more humid summers than coastal communities, accelerating weed growth and fungal lawn diseases like brown patch and take-all root rot. Without a properly zoned irrigation system, St. Augustine grass in Brandon lawns can show drought stress within days during dry season.",
+      "serviceHighlights": [
+        "St. Augustine lawn care and disease treatment",
+        "Smart irrigation system installation",
+        "Full-yard landscape makeovers and replanting"
+      ]
+    },
+    {
+      "slug": "wesley-chapel",
+      "name": "Wesley Chapel",
+      "state": "FL",
+      "population": "65,000+",
+      "coordinates": { "lat": 28.1836, "lng": -82.3549 },
+      "description": "Serving Wesley Chapel's rapidly growing master-planned communities with landscaping services that help new homes establish beautiful yards in Florida's demanding climate.",
+      "neighborhoods": ["Wiregrass Ranch", "Seven Oaks", "Meadow Pointe", "Epperson", "Estancia at Wiregrass"],
+      "landmarks": ["The Shops at Wiregrass", "KRATE at the Grove", "Epperson Lagoon", "Wesley Chapel District Park"],
+      "localChallenges": "Wesley Chapel's explosive growth means many properties start with builder-installed sod and minimal landscaping that struggles to mature properly. The area's sandy, nutrient-poor soil requires consistent fertilization programs, and the summer rainy season floods low spots in newer developments that need proper grading and drainage solutions.",
+      "serviceHighlights": [
+        "New home landscape installation and sod laying",
+        "Fertilization and soil amendment programs",
+        "Drainage grading and French drain installation"
+      ]
+    },
+    {
+      "slug": "riverview",
+      "name": "Riverview",
+      "state": "FL",
+      "population": "90,000+",
+      "coordinates": { "lat": 27.8658, "lng": -82.3268 },
+      "description": "From Riverview's waterfront communities along the Alafia River to its inland subdivisions, {{businessName}} delivers dependable lawn care and landscaping built for Florida's year-round growing season.",
+      "neighborhoods": ["Riverview Crest", "Lake St. Charles", "Boyette Farms", "South Fork", "Panther Trace"],
+      "landmarks": ["Alafia River", "Bell Creek Nature Preserve", "Riverview Civic Center", "Boyette Springs Park"],
+      "localChallenges": "Riverview's proximity to the Alafia River means many yards deal with standing water after heavy rains, creating ideal conditions for pest infestations and fungal lawn disease. The region's rapid development has resulted in a large number of properties with immature root systems that struggle through Florida's dry season without supplemental irrigation.",
+      "serviceHighlights": [
+        "Flood zone lawn care and water management",
+        "Irrigation installation and seasonal adjustments",
+        "Hurricane prep pruning and landscape securing"
+      ]
+    }
+  ]
+}

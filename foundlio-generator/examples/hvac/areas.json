@@ -1,0 +1,306 @@
+{
+  "areas": [
+    {
+      "slug": "phoenix",
+      "name": "Phoenix",
+      "state": "AZ",
+      "description": "As Arizona's capital and largest city, Phoenix presents unique HVAC challenges with its extreme desert heat regularly exceeding 115°F in summer. Our team understands the demands placed on cooling systems in this climate and provides specialized service to keep Phoenix homes comfortable year-round.",
+      "neighborhoods": [
+        "Downtown Phoenix",
+        "Arcadia",
+        "Biltmore",
+        "Paradise Valley Village",
+        "Ahwatukee",
+        "North Mountain",
+        "Camelback East",
+        "Encanto"
+      ],
+      "landmarks": [
+        "Camelback Mountain",
+        "Phoenix Sky Harbor Airport",
+        "Desert Botanical Garden",
+        "South Mountain Park"
+      ],
+      "localChallenges": "Phoenix's extreme summer temperatures put tremendous strain on AC systems. Dust storms (haboobs) can clog filters and outdoor units. Many older Phoenix homes need upgraded ductwork to handle modern high-efficiency systems.",
+      "coordinates": { "lat": 33.4484, "lng": -112.0740 },
+      "population": "1.6 million",
+      "serviceHighlights": [
+        "Same-day emergency service throughout Phoenix",
+        "Experience with historic homes in central Phoenix",
+        "Dust storm damage repair specialists"
+      ]
+    },
+    {
+      "slug": "scottsdale",
+      "name": "Scottsdale",
+      "state": "AZ",
+      "description": "Scottsdale's upscale homes and resorts demand premium HVAC service. From luxury estates in north Scottsdale to condos in Old Town, we provide the expert installation and maintenance that discerning Scottsdale residents expect.",
+      "neighborhoods": [
+        "Old Town Scottsdale",
+        "North Scottsdale",
+        "McCormick Ranch",
+        "Gainey Ranch",
+        "DC Ranch",
+        "Grayhawk",
+        "Pinnacle Peak",
+        "South Scottsdale"
+      ],
+      "landmarks": [
+        "Scottsdale Fashion Square",
+        "TPC Scottsdale",
+        "McDowell Sonoran Preserve",
+        "Scottsdale Waterfront"
+      ],
+      "localChallenges": "Many Scottsdale homes feature large square footage and high ceilings requiring properly sized systems. Premium homes often have zoned HVAC and smart home integration that requires specialized expertise.",
+      "coordinates": { "lat": 33.4942, "lng": -111.9261 },
+      "population": "250,000+",
+      "serviceHighlights": [
+        "Premium system installation for luxury homes",
+        "Smart thermostat integration specialists",
+        "Zoning system experts"
+      ]
+    },
+    {
+      "slug": "mesa",
+      "name": "Mesa",
+      "state": "AZ",
+      "description": "Mesa's diverse housing stock—from historic downtown properties to new developments in east Mesa—requires versatile HVAC expertise. We serve the entire Mesa community with reliable service and honest pricing.",
+      "neighborhoods": [
+        "Downtown Mesa",
+        "East Mesa",
+        "West Mesa",
+        "Red Mountain",
+        "Superstition Springs",
+        "Las Sendas",
+        "Alta Mesa",
+        "Dobson Ranch"
+      ],
+      "landmarks": [
+        "Mesa Arts Center",
+        "Sloan Park",
+        "Superstition Mountains",
+        "Salt River"
+      ],
+      "localChallenges": "Mesa's mix of older and newer homes means varied HVAC needs. Older systems in established neighborhoods often need upgrades, while new construction in east Mesa requires expert installation.",
+      "coordinates": { "lat": 33.4152, "lng": -111.8315 },
+      "population": "500,000+",
+      "serviceHighlights": [
+        "Expertise with both older and newer homes",
+        "Competitive pricing for Mesa families",
+        "Quick response throughout the city"
+      ]
+    },
+    {
+      "slug": "tempe",
+      "name": "Tempe",
+      "state": "AZ",
+      "description": "Home to Arizona State University and a vibrant community, Tempe has unique HVAC needs from student housing to established family neighborhoods. We provide reliable service for all Tempe residents.",
+      "neighborhoods": [
+        "Downtown Tempe",
+        "ASU Campus Area",
+        "South Tempe",
+        "North Tempe",
+        "Guadalupe",
+        "Kyrene Corridor",
+        "Warner Ranch",
+        "The Lakes"
+      ],
+      "landmarks": [
+        "Arizona State University",
+        "Tempe Town Lake",
+        "Mill Avenue",
+        "Tempe Marketplace"
+      ],
+      "localChallenges": "Tempe's urban density and mix of residential types—from apartments to single-family homes—requires flexible service options. Many properties near ASU are rentals requiring landlord coordination.",
+      "coordinates": { "lat": 33.4255, "lng": -111.9400 },
+      "population": "185,000+",
+      "serviceHighlights": [
+        "Student-friendly scheduling",
+        "Apartment and condo specialists",
+        "Fast service in urban areas"
+      ]
+    },
+    {
+      "slug": "chandler",
+      "name": "Chandler",
+      "state": "AZ",
+      "description": "Chandler's tech industry growth has brought new developments and modern homes throughout the city. Our team provides cutting-edge HVAC solutions that match Chandler's forward-thinking community.",
+      "neighborhoods": [
+        "Downtown Chandler",
+        "Ocotillo",
+        "Sun Lakes",
+        "Andersen Springs",
+        "Clemente Ranch",
+        "Circle G",
+        "Fulton Ranch",
+        "Morrison Ranch"
+      ],
+      "landmarks": [
+        "Intel Campus",
+        "Chandler Fashion Center",
+        "Downtown Chandler",
+        "Tumbleweed Park"
+      ],
+      "localChallenges": "Chandler's newer construction often features high-efficiency systems and smart home technology. The city's rapid growth means many homes are still under builder warranties requiring careful coordination.",
+      "coordinates": { "lat": 33.3062, "lng": -111.8413 },
+      "population": "275,000+",
+      "serviceHighlights": [
+        "High-efficiency system specialists",
+        "Smart home HVAC integration",
+        "New construction expertise"
+      ]
+    },
+    {
+      "slug": "gilbert",
+      "name": "Gilbert",
+      "state": "AZ",
+      "description": "Gilbert consistently ranks among the best places to live in Arizona, and its family-focused community deserves reliable HVAC service. We help Gilbert families stay comfortable with professional installation and maintenance.",
+      "neighborhoods": [
+        "Downtown Gilbert",
+        "Val Vista Corridor",
+        "Santan Village",
+        "Power Ranch",
+        "Seville",
+        "Agritopia",
+        "Trilogy at Power Ranch",
+        "Lyons Gate"
+      ],
+      "landmarks": [
+        "Gilbert Heritage District",
+        "Riparian Preserve",
+        "SanTan Village",
+        "Cosmo Dog Park"
+      ],
+      "localChallenges": "Gilbert's planned communities often have HOA requirements for HVAC equipment placement and noise levels. Many homes have two-story layouts requiring balanced airflow design.",
+      "coordinates": { "lat": 33.3528, "lng": -111.7890 },
+      "population": "280,000+",
+      "serviceHighlights": [
+        "HOA-compliant installations",
+        "Two-story home airflow specialists",
+        "Family-focused service scheduling"
+      ]
+    },
+    {
+      "slug": "glendale",
+      "name": "Glendale",
+      "state": "AZ",
+      "description": "From historic downtown Glendale to the sports and entertainment district, we provide comprehensive HVAC services throughout the city. Our team understands Glendale's diverse neighborhoods and their unique needs.",
+      "neighborhoods": [
+        "Downtown Glendale",
+        "Westgate",
+        "Arrowhead Ranch",
+        "Thunderbird",
+        "Sahuaro",
+        "Maryland",
+        "Cactus",
+        "North Glendale"
+      ],
+      "landmarks": [
+        "State Farm Stadium",
+        "Westgate Entertainment District",
+        "Historic Downtown",
+        "Glendale Glitters"
+      ],
+      "localChallenges": "Glendale's older central neighborhoods often have outdated ductwork and electrical systems requiring careful upgrade planning. The Westgate area's newer construction needs different expertise.",
+      "coordinates": { "lat": 33.5387, "lng": -112.1860 },
+      "population": "250,000+",
+      "serviceHighlights": [
+        "Historic home HVAC specialists",
+        "Ductwork replacement experts",
+        "Westgate entertainment district service"
+      ]
+    },
+    {
+      "slug": "peoria",
+      "name": "Peoria",
+      "state": "AZ",
+      "description": "Peoria's growing community stretches from Lake Pleasant to the White Tank Mountains. We serve all of Peoria with reliable HVAC solutions for families and businesses alike.",
+      "neighborhoods": [
+        "Old Town Peoria",
+        "Vistancia",
+        "Westwing",
+        "Sunrise",
+        "New River",
+        "Fletcher Heights",
+        "Pleasant Harbor",
+        "Trilogy at Vistancia"
+      ],
+      "landmarks": [
+        "Peoria Sports Complex",
+        "Lake Pleasant",
+        "Pioneer Community Park",
+        "Rio Vista Recreation Center"
+      ],
+      "localChallenges": "Peoria's expansion into desert areas means many homes face increased dust exposure. The city's master-planned communities often have specific architectural requirements for outdoor units.",
+      "coordinates": { "lat": 33.5806, "lng": -112.2374 },
+      "population": "190,000+",
+      "serviceHighlights": [
+        "Master-planned community expertise",
+        "Dust mitigation solutions",
+        "Lake Pleasant area service"
+      ]
+    },
+    {
+      "slug": "surprise",
+      "name": "Surprise",
+      "state": "AZ",
+      "description": "One of Arizona's fastest-growing cities, Surprise offers modern developments and active adult communities. Our team provides the responsive service that Surprise's growing population needs.",
+      "neighborhoods": [
+        "Original Town Site",
+        "Sun City Grand",
+        "Marley Park",
+        "Prasada",
+        "Asante",
+        "Desert Oasis",
+        "Rancho Gabriela",
+        "Sierra Montana"
+      ],
+      "landmarks": [
+        "Surprise Stadium",
+        "Surprise Farms Park",
+        "Uptown Alley",
+        "White Tank Mountains"
+      ],
+      "localChallenges": "Surprise's many 55+ communities have specific needs for quiet operation and energy efficiency. The city's western location means slightly different climate considerations than central Phoenix.",
+      "coordinates": { "lat": 33.6292, "lng": -112.3679 },
+      "population": "150,000+",
+      "serviceHighlights": [
+        "55+ community specialists",
+        "Energy efficiency experts",
+        "New development service"
+      ]
+    },
+    {
+      "slug": "goodyear",
+      "name": "Goodyear",
+      "state": "AZ",
+      "description": "Goodyear's rapid growth has created a dynamic community with modern homes and infrastructure. We provide premium HVAC service to this thriving west valley city.",
+      "neighborhoods": [
+        "Palm Valley",
+        "Estrella",
+        "PebbleCreek",
+        "Canyon Trails",
+        "Montecito",
+        "Cottonflower",
+        "Centerra",
+        "Victory"
+      ],
+      "landmarks": [
+        "Goodyear Ballpark",
+        "Estrella Mountain Regional Park",
+        "Palm Valley Golf Club",
+        "City Hall"
+      ],
+      "localChallenges": "Goodyear's newer construction features modern high-efficiency systems requiring specialized installation. The western desert location brings unique dust and heat challenges.",
+      "coordinates": { "lat": 33.4353, "lng": -112.3585 },
+      "population": "110,000+",
+      "serviceHighlights": [
+        "New construction specialists",
+        "High-efficiency installations",
+        "West valley quick response"
+      ]
+    }
+  ],
+  "serviceRadius": "50 miles from Phoenix",
+  "primaryServiceArea": "Phoenix Metro Area"
+}

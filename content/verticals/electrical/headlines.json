@@ -1,0 +1,118 @@
+{
+  "vertical": "electrical",
+  "displayName": "Electrical",
+  "hero": {
+    "variations": [
+      {
+        "id": "power-trust",
+        "headline": "Power You Can Trust",
+        "subheadline": "Licensed electricians serving {{city}} with safe, reliable electrical work. From repairs to rewiring, {{businessName}} does it right.",
+        "tone": "professional",
+        "region": "universal"
+      },
+      {
+        "id": "wired-right",
+        "headline": "Wired Right. Done Right.",
+        "subheadline": "Expert electrical services for your home. Safety-focused, code-compliant, and guaranteed. {{reviewCount}}+ satisfied customers.",
+        "tone": "confident",
+        "region": "universal"
+      },
+      {
+        "id": "safe-hands",
+        "headline": "Your Home's Electrical in Safe Hands",
+        "subheadline": "Licensed, insured, and committed to safety. {{businessName}} has served {{city}} since {{establishedYear}}.",
+        "tone": "trustworthy",
+        "region": "universal"
+      },
+      {
+        "id": "current-solution",
+        "headline": "Current Problems Need Current Solutions",
+        "subheadline": "Modern electrical expertise for modern homes. From panel upgrades to smart home installation.",
+        "tone": "modern",
+        "region": "universal"
+      },
+      {
+        "id": "bright-ideas",
+        "headline": "Bright Ideas. Expert Execution.",
+        "subheadline": "{{city}}'s trusted electricians for repairs, installations, and upgrades. Call {{businessName}} today.",
+        "tone": "creative",
+        "region": "universal"
+      },
+      {
+        "id": "no-shock",
+        "headline": "No Shock. No Surprises.",
+        "subheadline": "Upfront pricing, quality work, and no hidden fees. That's the {{businessName}} difference.",
+        "tone": "direct",
+        "region": "universal"
+      }
+    ]
+  },
+  "servicePages": {
+    "electrical-repair": {
+      "headline": "Electrical Repairs Done Safely",
+      "subheadline": "Expert diagnosis and repair for all electrical issues."
+    },
+    "panel-upgrade": {
+      "headline": "Upgrade Your Electrical Panel",
+      "subheadline": "More power for your modern home."
+    },
+    "outlet-installation": {
+      "headline": "Outlets Where You Need Them",
+      "subheadline": "Expert outlet and switch installation and repair."
+    },
+    "lighting": {
+      "headline": "Light Up Your Space",
+      "subheadline": "Indoor, outdoor, and specialty lighting solutions."
+    },
+    "ceiling-fan": {
+      "headline": "Ceiling Fan Installation",
+      "subheadline": "Stay cool with professional fan installation."
+    },
+    "ev-charger": {
+      "headline": "EV Charger Installation",
+      "subheadline": "Charge your electric vehicle at home."
+    },
+    "rewiring": {
+      "headline": "Whole-Home Rewiring",
+      "subheadline": "Safe, modern wiring for older homes."
+    },
+    "emergency": {
+      "headline": "24/7 Emergency Electrical",
+      "subheadline": "Power outages, sparking outlets, we're here when you need us."
+    }
+  },
+  "valueProps": {
+    "variations": [
+      {
+        "title": "Safety First",
+        "description": "Code-compliant work that protects your family.",
+        "icon": "Shield"
+      },
+      {
+        "title": "Licensed Electricians",
+        "description": "Every job done by qualified, licensed pros.",
+        "icon": "Award"
+      },
+      {
+        "title": "Upfront Pricing",
+        "description": "Know the cost before work begins.",
+        "icon": "DollarSign"
+      },
+      {
+        "title": "Clean Workmanship",
+        "description": "Neat, professional work you'll be proud of.",
+        "icon": "Sparkles"
+      },
+      {
+        "title": "Guaranteed Work",
+        "description": "If it's not right, we'll fix it. Period.",
+        "icon": "ThumbsUp"
+      },
+      {
+        "title": "24/7 Emergency",
+        "description": "Electrical emergencies don't wait. Neither do we.",
+        "icon": "Zap"
+      }
+    ]
+  }
+}

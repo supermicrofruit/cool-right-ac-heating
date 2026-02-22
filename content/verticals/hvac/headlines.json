@@ -1,0 +1,114 @@
+{
+  "vertical": "hvac",
+  "displayName": "HVAC",
+  "hero": {
+    "variations": [
+      {
+        "id": "desert-tough",
+        "headline": "Cool Comfort. Desert Tough.",
+        "subheadline": "Built to handle the extremes of {{region}} living. We deliver reliable heating and cooling solutions that stand up to the desert and stand behind our work.",
+        "tone": "bold",
+        "region": "southwest"
+      },
+      {
+        "id": "comfort-mission",
+        "headline": "Your Comfort Is Our Mission",
+        "subheadline": "Trusted by {{reviewCount}}+ {{city}} families for reliable HVAC service. Fast response, fair prices, satisfaction guaranteed.",
+        "tone": "warm",
+        "region": "universal"
+      },
+      {
+        "id": "most-trusted",
+        "headline": "{{city}}'s Most Trusted HVAC Team",
+        "subheadline": "{{yearsInBusiness}} years of keeping homes comfortable. Licensed, insured, and committed to excellence.",
+        "tone": "professional",
+        "region": "universal"
+      },
+      {
+        "id": "beat-heat",
+        "headline": "Beat the Heat. Call {{businessName}}.",
+        "subheadline": "24/7 emergency AC service when you need it most. Same-day repairs, upfront pricing, no surprises.",
+        "tone": "urgent",
+        "region": "hot-climate"
+      },
+      {
+        "id": "breathe-easy",
+        "headline": "Breathe Easy. Live Comfortably.",
+        "subheadline": "Expert heating, cooling, and air quality solutions for your home. Because comfort shouldn't be complicated.",
+        "tone": "calm",
+        "region": "universal"
+      },
+      {
+        "id": "fast-reliable",
+        "headline": "Fast. Reliable. Affordable.",
+        "subheadline": "Professional HVAC service in {{city}}. {{rating}}★ rated with {{reviewCount}}+ reviews. Call now for same-day service.",
+        "tone": "direct",
+        "region": "universal"
+      }
+    ]
+  },
+  "servicePages": {
+    "ac-repair": {
+      "headline": "AC Repair You Can Count On",
+      "subheadline": "Don't sweat it. We'll have your AC running again fast."
+    },
+    "ac-installation": {
+      "headline": "New AC Installation Done Right",
+      "subheadline": "Upgrade to efficiency and comfort with expert installation."
+    },
+    "heating-repair": {
+      "headline": "Heating Repair When You Need It",
+      "subheadline": "Stay warm this winter with fast, reliable heating service."
+    },
+    "heating-installation": {
+      "headline": "Professional Heating Installation",
+      "subheadline": "The right system, properly installed, at a fair price."
+    },
+    "maintenance": {
+      "headline": "Keep Your System Running Smoothly",
+      "subheadline": "Preventive maintenance saves money and extends equipment life."
+    },
+    "duct-cleaning": {
+      "headline": "Breathe Cleaner Air at Home",
+      "subheadline": "Professional duct cleaning for healthier indoor air quality."
+    },
+    "emergency": {
+      "headline": "24/7 Emergency HVAC Service",
+      "subheadline": "Day or night, we're here when you need us most."
+    }
+  },
+  "valueProps": {
+    "variations": [
+      {
+        "title": "Same-Day Service",
+        "description": "We know HVAC problems can't wait. Most repairs completed same day.",
+        "icon": "Clock"
+      },
+      {
+        "title": "Upfront Pricing",
+        "description": "Know the cost before we start. No surprises, no hidden fees.",
+        "icon": "DollarSign"
+      },
+      {
+        "title": "Licensed & Insured",
+        "description": "Fully licensed, bonded, and insured for your protection.",
+        "icon": "Shield"
+      },
+      {
+        "title": "Satisfaction Guaranteed",
+        "description": "Not happy? We'll make it right. That's our promise.",
+        "icon": "ThumbsUp"
+      },
+      {
+        "title": "Factory Trained",
+        "description": "Our technicians are certified on all major brands.",
+        "icon": "Award"
+      },
+      {
+        "title": "Financing Available",
+        "description": "Flexible payment options for larger repairs or installations.",
+        "icon": "CreditCard"
+      }
+    ]
+  }
+}

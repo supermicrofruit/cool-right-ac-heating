@@ -1,0 +1,199 @@
+{
+  "vertical": "landscaping",
+  "services": [
+    {
+      "slug": "lawn-care",
+      "image": "https://images.pexels.com/photos/589/garden-moss-lawn.jpg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Lawn Care",
+      "shortDescription": "Professional lawn care to keep your yard green, healthy, and beautiful.",
+      "longDescription": "{{businessName}} provides comprehensive lawn care for {{city}} homeowners. From regular mowing and edging to fertilization and weed control, we keep your lawn looking its best all season long. Customized plans based on your lawn's specific needs.",
+      "icon": "Leaf",
+      "category": "maintenance",
+      "emergency": false,
+      "features": [
+        "Weekly or biweekly mowing",
+        "Edging and trimming",
+        "Fertilization programs",
+        "Weed control",
+        "Aeration and overseeding",
+        "Seasonal treatments"
+      ],
+      "benefits": [
+        "Consistently green lawn",
+        "More free time on weekends",
+        "Increased property value",
+        "Healthier, thicker turf"
+      ],
+      "meta": {
+        "title": "Lawn Care {{city}} | Mowing & Maintenance | {{businessName}}",
+        "description": "Professional lawn care in {{city}}. Mowing, fertilization, weed control. {{businessName}} — {{rating}}★ rated. Call {{phone}} for a free quote."
+      }
+    },
+    {
+      "slug": "landscape-design",
+      "image": "https://images.pexels.com/photos/1301856/pexels-photo-1301856.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Landscape Design",
+      "shortDescription": "Custom landscape design that transforms your outdoor space.",
+      "longDescription": "From concept to completion, {{businessName}} creates beautiful, functional landscapes for {{city}} homes. Our designers work with you to choose the right plants, materials, and layout for your property, lifestyle, and budget.",
+      "icon": "Flower2",
+      "category": "design",
+      "emergency": false,
+      "features": [
+        "Free design consultations",
+        "3D design renderings",
+        "Plant selection guidance",
+        "Drainage planning",
+        "Lighting design",
+        "Phased installation options"
+      ],
+      "benefits": [
+        "Professional, cohesive look",
+        "Plants suited to your climate",
+        "Increased home value",
+        "Outdoor living enjoyment"
+      ],
+      "meta": {
+        "title": "Landscape Design {{city}} | Custom Garden Design | {{businessName}}",
+        "description": "Custom landscape design in {{city}}. Free consultations, 3D renderings. {{businessName}} — bring your vision to life. Call {{phone}}."
+      }
+    },
+    {
+      "slug": "hardscaping",
+      "image": "https://images.pexels.com/photos/1438761/pexels-photo-1438761.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Hardscaping",
+      "shortDescription": "Patios, walkways, retaining walls, and outdoor living spaces.",
+      "longDescription": "Add structure and beauty to your outdoor space with {{businessName}}'s hardscaping services. We build patios, walkways, retaining walls, fire pits, and outdoor kitchens using premium materials designed to last in {{city}}'s climate.",
+      "icon": "Hammer",
+      "category": "construction",
+      "emergency": false,
+      "features": [
+        "Paver patios and walkways",
+        "Retaining walls",
+        "Fire pits and outdoor fireplaces",
+        "Outdoor kitchen foundations",
+        "Natural stone work",
+        "Proper drainage integration"
+      ],
+      "benefits": [
+        "Extend your living space outdoors",
+        "Increase property value",
+        "Low-maintenance surfaces",
+        "Durable, long-lasting results"
+      ],
+      "meta": {
+        "title": "Hardscaping {{city}} | Patios, Walkways & Walls | {{businessName}}",
+        "description": "Professional hardscaping in {{city}}. Patios, retaining walls, fire pits. {{businessName}} — free estimates. Call {{phone}}."
+      }
+    },
+    {
+      "slug": "tree-service",
+      "image": "https://images.pexels.com/photos/1179229/pexels-photo-1179229.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Tree Service",
+      "shortDescription": "Professional tree trimming, pruning, and removal for healthy, safe trees.",
+      "longDescription": "Keep your trees healthy and your property safe with {{businessName}}'s tree services in {{city}}. We provide expert trimming, pruning, removal, and stump grinding. Our certified arborists assess each tree's needs for optimal health and appearance.",
+      "icon": "TreePine",
+      "category": "maintenance",
+      "emergency": true,
+      "features": [
+        "Tree trimming and pruning",
+        "Tree removal",
+        "Stump grinding",
+        "Emergency storm cleanup",
+        "Health assessments",
+        "Crown thinning and shaping"
+      ],
+      "benefits": [
+        "Safer property",
+        "Healthier trees",
+        "Better curb appeal",
+        "Prevent storm damage"
+      ],
+      "meta": {
+        "title": "Tree Service {{city}} | Trimming & Removal | {{businessName}}",
+        "description": "Professional tree service in {{city}}. Trimming, removal, stump grinding. {{businessName}} — licensed & insured. Call {{phone}}."
+      }
+    },
+    {
+      "slug": "irrigation",
+      "image": "https://images.pexels.com/photos/2286895/pexels-photo-2286895.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Irrigation Systems",
+      "shortDescription": "Efficient sprinkler and drip irrigation systems for your landscape.",
+      "longDescription": "Save water and keep your landscape thriving with {{businessName}}'s irrigation services. We design, install, and repair sprinkler systems and drip irrigation for {{city}} properties. Smart controllers and rain sensors ensure efficient watering.",
+      "icon": "Droplets",
+      "category": "installation",
+      "emergency": false,
+      "features": [
+        "System design and installation",
+        "Sprinkler repair",
+        "Drip irrigation",
+        "Smart controller setup",
+        "Rain sensor installation",
+        "Seasonal system adjustments"
+      ],
+      "benefits": [
+        "Save water and money",
+        "Consistent plant health",
+        "Hands-free watering",
+        "Prevent over/under watering"
+      ],
+      "meta": {
+        "title": "Irrigation Systems {{city}} | Sprinkler Installation & Repair | {{businessName}}",
+        "description": "Irrigation system installation and repair in {{city}}. Smart controllers, drip irrigation. {{businessName}} — call {{phone}}."
+      }
+    },
+    {
+      "slug": "seasonal-cleanup",
+      "image": "https://images.pexels.com/photos/1072824/pexels-photo-1072824.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Seasonal Cleanup",
+      "shortDescription": "Spring and fall cleanup to keep your property looking great year-round.",
+      "longDescription": "{{businessName}}'s seasonal cleanup services prepare your {{city}} property for the changing seasons. Spring cleanup removes winter debris and preps beds for planting. Fall cleanup clears leaves, cuts back perennials, and winterizes your landscape.",
+      "icon": "Leaf",
+      "category": "maintenance",
+      "emergency": false,
+      "features": [
+        "Leaf removal",
+        "Bed cleanup and edging",
+        "Mulch application",
+        "Perennial cutback",
+        "Debris hauling",
+        "Winter preparation"
+      ],
+      "benefits": [
+        "Property looks great year-round",
+        "Healthier plants in spring",
+        "Prevent lawn disease",
+        "Curb appeal maintained"
+      ],
+      "meta": {
+        "title": "Seasonal Cleanup {{city}} | Spring & Fall Yard Cleanup | {{businessName}}",
+        "description": "Seasonal yard cleanup in {{city}}. Leaf removal, mulching, bed prep. {{businessName}} — call {{phone}} to schedule."
+      }
+    }
+  ],
+  "categories": [
+    {
+      "slug": "maintenance",
+      "name": "Lawn & Garden Maintenance",
+      "description": "Regular care to keep your property looking its best.",
+      "icon": "Scissors"
+    },
+    {
+      "slug": "design",
+      "name": "Landscape Design",
+      "description": "Custom designs that transform your outdoor space.",
+      "icon": "Palette"
+    },
+    {
+      "slug": "construction",
+      "name": "Hardscaping & Construction",
+      "description": "Patios, walls, and structures that add value and function.",
+      "icon": "LayoutGrid"
+    },
+    {
+      "slug": "installation",
+      "name": "Installation",
+      "description": "Professional installation of irrigation, lighting, and more.",
+      "icon": "Droplets"
+    }
+  ]
+}

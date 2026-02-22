@@ -1,0 +1,17 @@
+# Environment variables
+.env
+
+# Output directory (generated files)
+output/
+
+# Node modules (if any get added)
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~

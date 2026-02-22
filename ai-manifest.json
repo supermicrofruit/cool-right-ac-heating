@@ -1,0 +1,168 @@
+{
+  "$schema": "AI Build Manifest - Instructions for AI assistants",
+  "version": "2.0.0",
+  "description": "Foundlio local service business template - JSON-driven generation",
+
+  "jsonDrivenBuild": {
+    "description": "NEW: Generate complete website from minimal input using site.config.json",
+    "schemaFile": "lib/siteConfig.schema.ts",
+    "configFile": "data/site.config.json",
+    "promptFile": "prompts/generate-site-config.md",
+    "loaderFile": "lib/siteConfig.ts",
+    "workflow": [
+      "1. Receive minimal business input (name, phone, city, vertical)",
+      "2. Use prompts/generate-site-config.md to generate complete JSON",
+      "3. Save as data/site.config.json",
+      "4. Template automatically renders from config",
+      "5. Deploy"
+    ],
+    "benefits": [
+      "One AI call = complete website",
+      "Consistent, typed output",
+      "Easy to store/transfer config",
+      "No separate data files needed"
+    ]
+  },
+
+  "builds": {
+    "promo": {
+      "description": "Quick demo build to show potential client",
+      "estimatedTime": "15-30 minutes",
+      "steps": [
+        "Update data/business.json with client info",
+        "Pick headline variation from content/verticals/{vertical}/headlines.json",
+        "Replace logo at public/images/logo.png",
+        "Update theme colors in data/static/theme.json (if exists) or tailwind.config.ts",
+        "Deploy"
+      ],
+      "requiredFiles": [
+        "data/business.json"
+      ],
+      "optionalFiles": [
+        "public/images/logo.png",
+        "public/images/hero.jpg"
+      ]
+    },
+    "full": {
+      "description": "Complete build after client purchase",
+      "estimatedTime": "2-4 hours",
+      "steps": [
+        "All promo build steps",
+        "Generate unique blog posts (3-5 articles)",
+        "Create local area pages with real neighborhood data",
+        "Add real customer testimonials",
+        "Configure lead capture components",
+        "Set up analytics tracking",
+        "Optimize images"
+      ],
+      "additionalFiles": [
+        "data/generated/blog/*",
+        "data/generated/areas/*",
+        "Real photos in public/images/"
+      ]
+    }
+  },
+
+  "fileMap": {
+    "businessInfo": {
+      "file": "data/business.json",
+      "editable": true,
+      "fields": {
+        "name": "Business name",
+        "phone": "Display phone (602) 555-1234",
+        "phoneRaw": "Raw phone +16025551234",
+        "email": "Contact email",
+        "address": "Full business address",
+        "city": "address.city",
+        "state": "address.state",
+        "established": "Year established (number)",
+        "rating": "Google rating (number, e.g., 4.9)",
+        "reviewCount": "Number of reviews (number)",
+        "vertical": "Business type: hvac, plumbing, electrical"
+      }
+    },
+    "theme": {
+      "file": "tailwind.config.ts",
+      "editable": false,
+      "notes": "Accent color is currently #00509d. To change, search and replace in components."
+    },
+    "copy": {
+      "headlines": "content/verticals/{vertical}/headlines.json",
+      "services": "content/verticals/{vertical}/services.json",
+      "faqs": "content/verticals/{vertical}/faqs.json",
+      "baseCopy": "content/copy/base.json"
+    },
+    "leadCapture": {
+      "components": "components/lead-capture/",
+      "showcase": "app/showcase/page.tsx",
+      "notes": "Use showcase page to preview components. Import from @/components/lead-capture"
+    }
+  },
+
+  "variables": {
+    "description": "These placeholders in content files get replaced at runtime",
+    "syntax": "{{variableName}}",
+    "available": [
+      "{{businessName}} - Company name",
+      "{{phone}} - Formatted phone number",
+      "{{city}} - City name",
+      "{{state}} - State abbreviation",
+      "{{rating}} - Google rating",
+      "{{reviewCount}} - Number of reviews",
+      "{{yearsInBusiness}} - Calculated from established year",
+      "{{establishedYear}} - Year established",
+      "{{responseTime}} - Average response time",
+      "{{warrantyYears}} - Labor warranty years",
+      "{{licenseNumber}} - Primary license number",
+      "{{year}} - Current year"
+    ],
+    "engine": "lib/copyEngine.ts"
+  },
+
+  "verticals": {
+    "available": ["hvac", "plumbing", "electrical"],
+    "structure": {
+      "headlines.json": "Hero headlines, service page headlines, value props",
+      "services.json": "All services with descriptions, features, meta",
+      "faqs.json": "FAQ content organized by category"
+    },
+    "switching": "To switch vertical: update business.json vertical field, then import content from correct vertical folder"
+  },
+
+  "components": {
+    "leadCapture": {
+      "forms": [
+        "SimpleForm - Basic name/phone/service form",
+        "MultiStepForm - 3-step wizard with service selection",
+        "PhotoUploadForm - Form with photo upload capability"
+      ],
+      "widgets": [
+        "CallbackWidget - 'We'll call you in X min' floating popup",
+        "StickyCallButton - Mobile fixed bottom call CTA"
+      ],
+      "trust": [
+        "AvailabilityBadge - Technician availability indicators",
+        "UrgencyIndicator - Countdown, demand, seasonal alerts",
+        "ReviewsNearForm - Review displays near forms"
+      ],
+      "usage": "Import from @/components/lead-capture. All accept accentColor prop."
+    }
+  },
+
+  "quickStart": {
+    "promoBuild": [
+      "1. Open data/business.json",
+      "2. Replace: name, phone, email, address, established, rating, reviewCount",
+      "3. Set vertical to: hvac, plumbing, or electrical",
+      "4. Replace public/images/logo.png",
+      "5. Run: npm run build && npm run start",
+      "6. Done! Show client the demo"
+    ],
+    "customization": [
+      "Change colors: Search #00509d and replace with new accent color",
+      "Change headlines: Edit content/verticals/{vertical}/headlines.json",
+      "Change services: Edit content/verticals/{vertical}/services.json",
+      "Add lead capture: Import components from @/components/lead-capture"
+    ]
+  }
+}

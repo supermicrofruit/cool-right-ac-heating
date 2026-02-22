@@ -1,0 +1,112 @@
+{
+  "vertical": "landscaping",
+  "displayName": "Landscaping",
+  "heroImage": "https://images.pexels.com/photos/1301856/pexels-photo-1301856.jpeg?auto=compress&cs=tinysrgb&w=800",
+  "heroBackgroundImage": "https://images.pexels.com/photos/1438761/pexels-photo-1438761.jpeg?auto=compress&cs=tinysrgb&w=800",
+  "hero": {
+    "variations": [
+      {
+        "id": "outdoor-living",
+        "headline": "Your Dream Yard Starts Here",
+        "subheadline": "Professional landscaping from {{businessName}}. Trusted by {{reviewCount}}+ {{city}} homeowners to create beautiful outdoor spaces.",
+        "tone": "bold",
+        "region": "universal"
+      },
+      {
+        "id": "curb-appeal",
+        "headline": "Curb Appeal That Turns Heads",
+        "subheadline": "From lawn care to full landscape design, we bring your vision to life with expert craftsmanship.",
+        "tone": "warm",
+        "region": "universal"
+      },
+      {
+        "id": "most-trusted",
+        "headline": "{{city}}'s Most Trusted Landscapers",
+        "subheadline": "{{yearsInBusiness}} years of transforming outdoor spaces. Licensed, insured, and dedicated to quality.",
+        "tone": "professional",
+        "region": "universal"
+      },
+      {
+        "id": "transform-yard",
+        "headline": "Transform Your Yard This Season",
+        "subheadline": "Book now for spring and summer projects. Free design consultations and flexible scheduling.",
+        "tone": "urgent",
+        "region": "universal"
+      },
+      {
+        "id": "enjoy-outdoors",
+        "headline": "Love Your Outdoor Space Again",
+        "subheadline": "Expert lawn care, garden design, and hardscaping that makes your property a place you want to be.",
+        "tone": "calm",
+        "region": "universal"
+      },
+      {
+        "id": "fast-reliable",
+        "headline": "Beautiful Landscapes. Fair Prices.",
+        "subheadline": "Professional landscaping in {{city}}. {{rating}}★ rated with {{reviewCount}}+ reviews. Get your free estimate today.",
+        "tone": "direct",
+        "region": "universal"
+      }
+    ]
+  },
+  "servicePages": {
+    "lawn-care": {
+      "headline": "Lawn Care That Keeps Your Yard Green",
+      "subheadline": "Regular mowing, fertilization, and weed control for a healthy lawn."
+    },
+    "landscape-design": {
+      "headline": "Custom Landscape Design",
+      "subheadline": "Turn your outdoor vision into reality with professional design."
+    },
+    "hardscaping": {
+      "headline": "Patios, Walkways & Retaining Walls",
+      "subheadline": "Durable hardscaping that adds function and beauty to your property."
+    },
+    "tree-service": {
+      "headline": "Tree Trimming & Removal",
+      "subheadline": "Keep your trees healthy, safe, and looking their best."
+    },
+    "irrigation": {
+      "headline": "Irrigation System Installation & Repair",
+      "subheadline": "Efficient watering systems that save water and keep your landscape thriving."
+    },
+    "seasonal-cleanup": {
+      "headline": "Seasonal Cleanup Services",
+      "subheadline": "Spring and fall cleanup to keep your property looking its best year-round."
+    }
+  },
+  "valueProps": {
+    "variations": [
+      {
+        "title": "Free Estimates",
+        "description": "No-obligation consultations and detailed project quotes.",
+        "icon": "ClipboardCheck"
+      },
+      {
+        "title": "Licensed & Insured",
+        "description": "Fully licensed, bonded, and insured for your protection.",
+        "icon": "Shield"
+      },
+      {
+        "title": "Experienced Crews",
+        "description": "Trained professionals who take pride in their work.",
+        "icon": "Users"
+      },
+      {
+        "title": "Quality Materials",
+        "description": "Premium plants, mulch, stone, and pavers that last.",
+        "icon": "Award"
+      },
+      {
+        "title": "Year-Round Service",
+        "description": "Maintenance plans that keep your property beautiful every season.",
+        "icon": "Calendar"
+      },
+      {
+        "title": "Satisfaction Guaranteed",
+        "description": "We're not done until you're happy with the results.",
+        "icon": "ThumbsUp"
+      }
+    ]
+  }
+}

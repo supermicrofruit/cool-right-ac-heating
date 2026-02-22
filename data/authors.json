@@ -1,0 +1,33 @@
+{
+  "authors": [
+    {
+      "id": "mike-johnson",
+      "name": "Mike Johnson",
+      "role": "Owner & Lead Technician",
+      "bio": "Mike founded Desert Aire Comfort in 2010 with over 15 years of HVAC experience. He's a NATE-certified master technician and Carrier Factory Authorized dealer specialist.",
+      "image": "/images/team/mike-johnson.jpg",
+      "certifications": ["NATE Master Technician", "EPA 608 Universal", "Carrier Factory Authorized"],
+      "social": {
+        "linkedin": "https://linkedin.com/in/example"
+      }
+    },
+    {
+      "id": "sarah-martinez",
+      "name": "Sarah Martinez",
+      "role": "HVAC Service Manager",
+      "bio": "Sarah has been with Desert Aire Comfort for 8 years. She specializes in indoor air quality solutions and helps homeowners create healthier living environments.",
+      "image": "/images/team/sarah-martinez.jpg",
+      "certifications": ["NATE Certified", "Indoor Air Quality Specialist"],
+      "social": {}
+    },
+    {
+      "id": "desert-aire-team",
+      "name": "Desert Aire Comfort Team",
+      "role": "Expert HVAC Technicians",
+      "bio": "Our team of certified technicians brings decades of combined experience to every job. We're committed to providing reliable, honest HVAC service to the Phoenix metro area.",
+      "image": "/images/logo.png",
+      "certifications": ["NATE Certified", "EPA 608", "BBB A+ Rated"],
+      "social": {}
+    }
+  ]
+}

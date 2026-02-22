@@ -1,0 +1,102 @@
+{
+  "primaryServiceArea": "Phoenix Area",
+  "serviceRadius": "We serve Phoenix and surrounding Valley communities within 25 miles",
+  "areas": [
+    {
+      "slug": "phoenix",
+      "name": "Phoenix",
+      "state": "AZ",
+      "population": "1,600,000+",
+      "coordinates": { "lat": 33.4484, "lng": -112.0740 },
+      "description": "{{businessName}} is proud to serve Phoenix — the heart of the Valley. From Arcadia bungalows to North Phoenix new builds, our team handles every HVAC need across the city.",
+      "neighborhoods": ["Arcadia", "Biltmore", "Ahwatukee", "North Phoenix", "Camelback East", "Laveen"],
+      "landmarks": ["Camelback Mountain", "Phoenix Sky Harbor Airport", "Desert Botanical Garden", "Chase Field"],
+      "localChallenges": "Phoenix summers push AC systems to their absolute limit, with temps regularly topping 115°F. Monsoon season brings sudden dust storms that clog filters and coat condenser coils. {{businessName}} keeps Valley homeowners cool when it matters most.",
+      "serviceHighlights": [
+        "Emergency AC repair — same-day response",
+        "Post-monsoon coil cleaning and filter replacement",
+        "Energy audits to reduce sky-high summer bills"
+      ]
+    },
+    {
+      "slug": "scottsdale",
+      "name": "Scottsdale",
+      "state": "AZ",
+      "population": "250,000+",
+      "coordinates": { "lat": 33.4942, "lng": -111.9261 },
+      "description": "From Old Town lofts to DC Ranch estates, {{businessName}} delivers premium HVAC service throughout Scottsdale. We understand the demands that luxury homes and desert heat place on comfort systems.",
+      "neighborhoods": ["Old Town", "Gainey Ranch", "DC Ranch", "Grayhawk", "McCormick Ranch", "North Scottsdale"],
+      "landmarks": ["Scottsdale Fashion Square", "TPC Scottsdale", "Frank Lloyd Wright's Taliesin West", "Mayo Clinic Hospital"],
+      "localChallenges": "Scottsdale's large estate homes often have multi-zone systems that require specialized diagnostics. Desert dust infiltrates ductwork quickly, reducing air quality and system efficiency. Hard water accelerates wear on humidifiers and evaporative components.",
+      "serviceHighlights": [
+        "Multi-zone system diagnostics and balancing",
+        "Duct sealing and whole-home air quality testing",
+        "Luxury home HVAC specialists with white-glove service"
+      ]
+    },
+    {
+      "slug": "mesa",
+      "name": "Mesa",
+      "state": "AZ",
+      "population": "500,000+",
+      "coordinates": { "lat": 33.4152, "lng": -111.8315 },
+      "description": "Mesa is one of the Valley's largest cities and home to a wide range of residential and commercial properties. {{businessName}} provides fast, reliable HVAC service to families and businesses across Mesa.",
+      "neighborhoods": ["Downtown Mesa", "Red Mountain", "East Mesa", "Dobson Ranch", "Las Sendas", "Eastmark"],
+      "landmarks": ["Mesa Arts Center", "Chicago Cubs Spring Training at Sloan Park", "Arizona Museum of Natural History", "Usery Mountain Regional Park"],
+      "localChallenges": "Mesa's rapid growth means aging systems in older neighborhoods alongside newly installed units in new developments. Extreme heat combined with older ductwork causes significant energy loss, and monsoon dust storms strain filters and outdoor units every summer.",
+      "serviceHighlights": [
+        "AC tune-ups and preventive maintenance plans",
+        "Duct inspection and sealing for older Mesa homes",
+        "New system installation with energy-efficiency rebate guidance"
+      ]
+    },
+    {
+      "slug": "tempe",
+      "name": "Tempe",
+      "state": "AZ",
+      "population": "185,000+",
+      "coordinates": { "lat": 33.4255, "lng": -111.9400 },
+      "description": "Home to ASU and a dense mix of apartments, condos, and family homes, Tempe keeps {{businessName}} busy year-round. We serve everything from student rentals to mid-century neighborhoods near the lakes.",
+      "neighborhoods": ["Downtown Tempe", "South Tempe", "Corona Del Sol", "Alameda", "Warner Ranch", "The Lakes"],
+      "landmarks": ["Tempe Town Lake", "ASU Sun Devil Stadium", "Mill Avenue District", "Tempe Marketplace"],
+      "localChallenges": "Tempe's dense housing stock includes many older units with original ductwork that leaks heavily. High tenant turnover in apartment complexes means HVAC systems often go without regular maintenance. Urban heat island effects push cooling loads higher than surrounding areas.",
+      "serviceHighlights": [
+        "Apartment and condo HVAC service and replacement",
+        "Duct leak testing and repair for older homes",
+        "Priority scheduling for property managers"
+      ]
+    },
+    {
+      "slug": "chandler",
+      "name": "Chandler",
+      "state": "AZ",
+      "population": "270,000+",
+      "coordinates": { "lat": 33.3062, "lng": -111.8413 },
+      "description": "Chandler has grown into one of the Valley's premier suburban cities, with a tech corridor and thousands of newer homes. {{businessName}} provides HVAC installation, service, and repair to keep Chandler families comfortable.",
+      "neighborhoods": ["Downtown Chandler", "Ocotillo", "Sun Groves", "Fulton Ranch", "Andersen Springs", "Pecos Ranch"],
+      "landmarks": ["Chandler Fashion Center", "Intel Fab 42", "Chandler Center for the Arts", "Tumbleweed Park"],
+      "localChallenges": "Chandler's newer homes often feature complex variable-speed systems and smart thermostats that require certified technicians. South Chandler's summer heat is intense, and monsoon dust storms routinely clog return air filters. Rapid new construction means many systems are out of warranty but still relatively young.",
+      "serviceHighlights": [
+        "Smart thermostat installation and programming",
+        "Warranty-compliant maintenance for newer systems",
+        "Emergency AC repair during peak summer demand"
+      ]
+    },
+    {
+      "slug": "gilbert",
+      "name": "Gilbert",
+      "state": "AZ",
+      "population": "275,000+",
+      "coordinates": { "lat": 33.3528, "lng": -111.7890 },
+      "description": "One of the fastest-growing cities in the country, Gilbert is packed with newer subdivisions and young families who count on reliable AC. {{businessName}} serves all of Gilbert with prompt response times and honest pricing.",
+      "neighborhoods": ["Heritage District", "Power Ranch", "Val Vista Lakes", "Greenfield Lakes", "Morrison Ranch", "Cooley Station"],
+      "landmarks": ["Gilbert Water Tower", "Riparian Preserve at Water Ranch", "Heritage District", "San Tan Village"],
+      "localChallenges": "Gilbert's newer construction boom means many homes have builder-grade HVAC systems that underperform in extreme heat. Summer temperatures in the East Valley routinely exceed 110°F, stressing units installed with minimal overhead. Post-monsoon dust infiltration is a serious issue for both indoor air quality and system longevity.",
+      "serviceHighlights": [
+        "Upgrade consultations for builder-grade systems",
+        "Post-monsoon air quality and filter service",
+        "Annual maintenance plans with priority scheduling"
+      ]
+    }
+  ]
+}

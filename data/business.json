@@ -1,0 +1,63 @@
+{
+  "name": "Bright Spark Electric",
+  "phone": "(303) 555-0176",
+  "phoneRaw": "+13035550176",
+  "address": {
+    "street": "1550 Larimer St",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80202",
+    "full": "1550 Larimer St, Denver, CO 80202"
+  },
+  "coordinates": {
+    "lat": 39.7392,
+    "lng": -104.9903
+  },
+  "vertical": "electrical",
+  "region": "Denver Metro",
+  "rating": 4.7,
+  "reviewCount": 312,
+  "established": 2015,
+  "licenses": [],
+  "certifications": [],
+  "socialMedia": {},
+  "emergencyService": true,
+  "financing": true,
+  "freeEstimates": true,
+  "hours": {
+    "weekdays": "7:00 AM - 6:00 PM",
+    "saturday": "8:00 AM - 4:00 PM",
+    "sunday": "Closed",
+    "structured": [
+      {
+        "days": "Monday - Friday",
+        "hours": "7:00 AM - 6:00 PM"
+      },
+      {
+        "days": "Saturday",
+        "hours": "8:00 AM - 4:00 PM"
+      },
+      {
+        "days": "Sunday",
+        "hours": "Closed"
+      }
+    ]
+  },
+  "features": {
+    "showTeam": false,
+    "showBlog": true,
+    "showWorks": true,
+    "showFinancing": true,
+    "emergencyBadge": false,
+    "callbackWidget": true,
+    "stickyPhone": true
+  },
+  "seo": {
+    "titleTemplate": "%s | Bright Spark Electric",
+    "defaultDescription": "Professional electrical services in Denver, CO. 4.7-star rated with 312+ reviews."
+  },
+  "forms": {
+    "successMessage": "Thanks! We'll be in touch within 1 business hour.",
+    "errorMessage": "Something went wrong. Please call us directly."
+  }
+}

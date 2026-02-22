@@ -1,0 +1,102 @@
+{
+  "primaryServiceArea": "Dallas Area",
+  "serviceRadius": "We serve Dallas and surrounding DFW communities within 25 miles",
+  "areas": [
+    {
+      "slug": "dallas",
+      "name": "Dallas",
+      "state": "TX",
+      "population": "1.3M+",
+      "coordinates": { "lat": 32.7767, "lng": -96.7970 },
+      "description": "Our home base! {{businessName}} serves all of {{city}} from Uptown to Oak Cliff, handling storm damage repair, full replacements, and insurance claims for homes and commercial buildings across the metro.",
+      "neighborhoods": ["Uptown", "Oak Cliff", "Lake Highlands", "Preston Hollow", "Deep Ellum", "Bishop Arts"],
+      "landmarks": ["AT&T Stadium area", "Reunion Tower", "White Rock Lake", "NorthPark Center"],
+      "localChallenges": "{{city}} sits in one of the most active hail corridors in the country. Severe spring storms routinely produce golf-ball-sized hail that dents metal flashing, cracks shingles, and leaves roofs vulnerable to leaks. Summer heat pushing 105°F+ accelerates shingle degradation and seal failure.",
+      "serviceHighlights": [
+        "Storm damage inspection and repair",
+        "Full insurance claim assistance",
+        "Cool roofing systems to reduce energy costs"
+      ]
+    },
+    {
+      "slug": "fort-worth",
+      "name": "Fort Worth",
+      "state": "TX",
+      "population": "920,000+",
+      "coordinates": { "lat": 32.7555, "lng": -97.3308 },
+      "description": "{{businessName}} serves Fort Worth homeowners and businesses with expert roofing repair and replacement, from the Cultural District to the outer suburbs.",
+      "neighborhoods": ["Cultural District", "Westover Hills", "Tanglewood", "TCU Area", "Benbrook", "Wedgwood"],
+      "landmarks": ["Fort Worth Stockyards", "Kimbell Art Museum", "Sundance Square", "Panther Island"],
+      "localChallenges": "Fort Worth experiences some of the harshest wind events in North Texas, with straight-line winds and tornadoes peeling back shingles and flashing regularly. The intense West Texas sun bakes roofing materials faster than the national average, shortening roof lifespans without proper ventilation.",
+      "serviceHighlights": [
+        "High-wind damage repair and reinforcement",
+        "Attic ventilation and insulation upgrades",
+        "Free storm damage inspections"
+      ]
+    },
+    {
+      "slug": "plano",
+      "name": "Plano",
+      "state": "TX",
+      "population": "285,000+",
+      "coordinates": { "lat": 33.0198, "lng": -96.6989 },
+      "description": "Serving Plano's established neighborhoods and newer developments with top-quality roofing work that meets the high standards of one of Texas's most sought-after communities.",
+      "neighborhoods": ["West Plano", "East Plano", "Legacy West", "Willow Bend", "Spring Creek Corridor"],
+      "landmarks": ["Legacy West", "Arbor Hills Nature Preserve", "The Shops at Willow Bend", "Oak Point Park"],
+      "localChallenges": "Plano's mature tree canopy, while beautiful, means roofs regularly take impact from falling limbs during storms. Hail damage is common in spring, and the high rate of home sales means many buyers discover aging or damaged roofs only after purchase.",
+      "serviceHighlights": [
+        "Hail and storm damage specialists",
+        "Pre-sale and post-purchase roof inspections",
+        "Shingle, tile, and flat roof expertise"
+      ]
+    },
+    {
+      "slug": "frisco",
+      "name": "Frisco",
+      "state": "TX",
+      "population": "200,000+",
+      "coordinates": { "lat": 33.1506, "lng": -96.8236 },
+      "description": "{{businessName}} serves Frisco's fast-growing master-planned communities and newer construction homes, providing quality roofing that protects long-term investments.",
+      "neighborhoods": ["Starwood", "Newman Village", "Stonebriar", "Plantation Resort", "Lexington"],
+      "landmarks": ["PGA Frisco", "Toyota Stadium", "National Videogame Museum", "Frisco Commons Park"],
+      "localChallenges": "Frisco's rapid growth means many homes are built with builder-grade roofing materials that wear out faster than premium alternatives. Spring hail storms routinely sweep through Collin County, and newly built roofs without full break-in weatherproofing are especially vulnerable.",
+      "serviceHighlights": [
+        "New construction roofing upgrades",
+        "Hail damage inspection and repair",
+        "Insurance claim documentation support"
+      ]
+    },
+    {
+      "slug": "mckinney",
+      "name": "McKinney",
+      "state": "TX",
+      "population": "195,000+",
+      "coordinates": { "lat": 33.1972, "lng": -96.6397 },
+      "description": "From McKinney's historic downtown district to its newer master-planned suburbs, {{businessName}} delivers reliable roofing repair and replacement for every home style.",
+      "neighborhoods": ["Historic Downtown", "Craig Ranch", "Stonebridge Ranch", "Trinity Falls", "Eldorado"],
+      "landmarks": ["McKinney Performing Arts Center", "Heard Natural Science Museum", "Craig Ranch Golf Club", "Towne Lake Park"],
+      "localChallenges": "McKinney's older historic district homes often have aging roofs with outdated materials that no longer meet modern energy or wind codes. Newer subdivisions in the outer ring regularly deal with spring hail and the thermal expansion stress that Texas summers put on roofing systems.",
+      "serviceHighlights": [
+        "Historic home roofing restoration",
+        "Energy-efficient cool roofing systems",
+        "Storm damage repair with insurance coordination"
+      ]
+    },
+    {
+      "slug": "arlington",
+      "name": "Arlington",
+      "state": "TX",
+      "population": "390,000+",
+      "coordinates": { "lat": 32.7357, "lng": -97.1081 },
+      "description": "Serving Arlington's diverse mix of established neighborhoods and growing communities with dependable roofing services for homes, commercial buildings, and HOA communities.",
+      "neighborhoods": ["Downtown Arlington", "Pantego", "Dalworthington Gardens", "North Arlington", "Southeast Arlington"],
+      "landmarks": ["AT&T Stadium", "Globe Life Field", "Six Flags Over Texas", "River Legacy Parks"],
+      "localChallenges": "Arlington sits in the heart of the DFW storm belt, making it one of the most hail-impacted cities in the region. The mix of older mid-century homes and newer construction means {{businessName}} regularly encounters everything from worn three-tab shingles to cracked clay tiles that need careful specialty repair.",
+      "serviceHighlights": [
+        "Full-service storm damage repair",
+        "HOA and multi-unit property roofing",
+        "Free 21-point roof inspection"
+      ]
+    }
+  ]
+}

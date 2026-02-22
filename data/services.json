@@ -1,0 +1,160 @@
+{
+  "services": [
+    {
+      "slug": "electrical-repair",
+      "name": "Electrical Repair",
+      "shortDescription": "Expert diagnosis and repair for all electrical issues.",
+      "longDescription": "Flickering lights? Tripping breakers? Dead outlets? Bright Spark Electric diagnoses and repairs all electrical problems safely and correctly. Our licensed electricians identify the root cause and fix it right the first time, ensuring your home's electrical system is safe and reliable.",
+      "icon": "Zap",
+      "features": [
+        "All electrical issues",
+        "Same-day service available",
+        "Thorough troubleshooting",
+        "Code-compliant repairs",
+        "Safety inspection included",
+        "2-year warranty"
+      ],
+      "category": "repairs",
+      "emergency": true
+    },
+    {
+      "slug": "panel-upgrade",
+      "name": "Panel Upgrade",
+      "shortDescription": "Upgrade your electrical panel for more power and safety.",
+      "longDescription": "Older homes often have electrical panels that can't handle modern demands. Bright Spark Electric upgrades panels from 100 to 200 amps or more, adding capacity for modern appliances, EV chargers, and home additions. All work is permitted and inspected.",
+      "icon": "Server",
+      "features": [
+        "100 to 200 amp upgrades",
+        "Permit included",
+        "Utility coordination",
+        "Code compliance",
+        "Arc-fault protection",
+        "Surge protection options"
+      ],
+      "category": "upgrades"
+    },
+    {
+      "slug": "outlet-installation",
+      "name": "Outlet & Switch Installation",
+      "shortDescription": "Install, repair, or upgrade outlets and switches.",
+      "longDescription": "Need more outlets? Want USB charging ports? Upgrading to smart switches? Bright Spark Electric installs all types of outlets and switches, from standard to GFCI, AFCI, and smart devices. We ensure proper placement, secure connections, and code compliance.",
+      "icon": "Plug",
+      "features": [
+        "Standard outlets",
+        "GFCI outlets",
+        "USB charging outlets",
+        "Smart switches",
+        "Dimmer switches",
+        "220V outlets"
+      ],
+      "category": "installation"
+    },
+    {
+      "slug": "lighting",
+      "name": "Lighting Installation",
+      "shortDescription": "Indoor, outdoor, and specialty lighting solutions.",
+      "longDescription": "Transform your space with professional lighting installation from Bright Spark Electric. We install recessed lighting, chandeliers, under-cabinet lights, landscape lighting, and more. Our electricians ensure safe installation and help you choose the right fixtures for your needs.",
+      "icon": "Lightbulb",
+      "features": [
+        "Recessed lighting",
+        "Chandeliers & pendants",
+        "Under-cabinet lighting",
+        "Landscape lighting",
+        "Security lighting",
+        "LED upgrades"
+      ],
+      "category": "installation"
+    },
+    {
+      "slug": "ceiling-fan",
+      "name": "Ceiling Fan Installation",
+      "shortDescription": "Professional ceiling fan installation and repair.",
+      "longDescription": "A properly installed ceiling fan improves comfort and saves energy. Bright Spark Electric installs all types of ceiling fans, from simple to smart-enabled. We ensure secure mounting, proper wiring, and balanced operation.",
+      "icon": "Fan",
+      "features": [
+        "All fan types",
+        "Secure mounting",
+        "Remote controls",
+        "Smart fan setup",
+        "Old fan removal",
+        "Proper balancing"
+      ],
+      "category": "installation"
+    },
+    {
+      "slug": "ev-charger",
+      "name": "EV Charger Installation",
+      "shortDescription": "Install a Level 2 EV charger at your home.",
+      "longDescription": "Charge your electric vehicle at home with a Level 2 charger installation from Bright Spark Electric. We install all major brands including Tesla, ChargePoint, and JuiceBox. Our licensed electricians ensure proper circuit sizing, permitting, and safe installation.",
+      "icon": "Battery",
+      "features": [
+        "All EV charger brands",
+        "Level 2 charging",
+        "Panel capacity check",
+        "Permit included",
+        "Utility rebate assistance",
+        "NEMA 14-50 outlets"
+      ],
+      "category": "upgrades"
+    },
+    {
+      "slug": "rewiring",
+      "name": "Whole-Home Rewiring",
+      "shortDescription": "Replace outdated wiring with safe, modern electrical.",
+      "longDescription": "Older homes with knob-and-tube or aluminum wiring pose serious safety risks. Bright Spark Electric replaces outdated wiring with modern copper wiring that meets current codes. We minimize disruption while ensuring your home is safe for decades to come.",
+      "icon": "Home",
+      "features": [
+        "Complete rewiring",
+        "Minimal wall damage",
+        "Panel upgrade included",
+        "All permits handled",
+        "Code compliance",
+        "Grounded outlets throughout"
+      ],
+      "category": "upgrades"
+    },
+    {
+      "slug": "emergency-electrical",
+      "name": "Emergency Electrical",
+      "shortDescription": "24/7 emergency electrical service.",
+      "longDescription": "Electrical emergencies can be dangerous. Power outages, sparking outlets, burning smells—don't wait. Bright Spark Electric offers 24/7 emergency electrical service in Denver. Our licensed electricians respond quickly to keep your family safe.",
+      "icon": "AlertCircle",
+      "features": [
+        "24/7 availability",
+        "Fast response",
+        "Safety first approach",
+        "All emergencies handled",
+        "Licensed electricians",
+        "Permanent solutions"
+      ],
+      "category": "emergency",
+      "emergency": true
+    }
+  ],
+  "categories": [
+    {
+      "slug": "repairs",
+      "name": "Electrical Repairs",
+      "icon": "Wrench",
+      "description": "Fix electrical problems safely."
+    },
+    {
+      "slug": "installation",
+      "name": "Installation",
+      "icon": "Wrench",
+      "description": "Outlets, lighting, fans, and more."
+    },
+    {
+      "slug": "upgrades",
+      "name": "Upgrades",
+      "icon": "Wrench",
+      "description": "Panel upgrades, rewiring, EV chargers."
+    },
+    {
+      "slug": "emergency",
+      "name": "Emergency",
+      "icon": "Wrench",
+      "description": "24/7 urgent electrical service."
+    }
+  ]
+}

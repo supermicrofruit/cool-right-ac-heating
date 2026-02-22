@@ -1,0 +1,105 @@
+{
+  "cta": {
+    "primary": {
+      "call": "Call Now",
+      "callWithNumber": "Call {{phone}}",
+      "estimate": "Get Free Estimate",
+      "schedule": "Schedule Service",
+      "book": "Book Now",
+      "quote": "Get a Quote"
+    },
+    "secondary": {
+      "callback": "Request Callback",
+      "chat": "Chat With Us",
+      "learnMore": "Learn More",
+      "viewServices": "View Services",
+      "seeWork": "See Our Work"
+    }
+  },
+  "forms": {
+    "labels": {
+      "name": "Your Name",
+      "phone": "Phone Number",
+      "email": "Email Address",
+      "address": "Service Address",
+      "service": "Select a Service",
+      "message": "How can we help?",
+      "preferredTime": "Preferred Time"
+    },
+    "placeholders": {
+      "name": "John Smith",
+      "phone": "(555) 123-4567",
+      "email": "you@example.com",
+      "address": "123 Main St, {{city}}, {{state}}",
+      "message": "Describe your issue..."
+    },
+    "buttons": {
+      "submit": "Submit Request",
+      "send": "Send Message",
+      "request": "Request Service",
+      "continue": "Continue",
+      "back": "Back"
+    },
+    "success": {
+      "title": "Thank You!",
+      "message": "We've received your request and will contact you within {{responseTime}}.",
+      "callbackMessage": "Expect a call at {{phone}} within {{callbackTime}} minutes."
+    },
+    "validation": {
+      "required": "This field is required",
+      "invalidPhone": "Please enter a valid phone number",
+      "invalidEmail": "Please enter a valid email address"
+    }
+  },
+  "trust": {
+    "badges": {
+      "licensed": "Licensed & Insured",
+      "satisfaction": "100% Satisfaction Guaranteed",
+      "emergency": "24/7 Emergency Service",
+      "sameDay": "Same-Day Service",
+      "financing": "Financing Available",
+      "warranty": "{{warrantyYears}}-Year Warranty"
+    },
+    "stats": {
+      "experience": "{{yearsInBusiness}}+ Years Experience",
+      "customers": "{{reviewCount}}+ Happy Customers",
+      "rating": "{{rating}} Star Rating"
+    },
+    "availability": {
+      "technicians": "{{count}} technicians available in your area",
+      "response": "Average response time: {{responseTime}}",
+      "slots": "Only {{count}} appointment slots left today",
+      "viewing": "{{count}} people viewing this page"
+    }
+  },
+  "urgency": {
+    "countdown": "Same-Day Service Discount Ends In:",
+    "highDemand": "High Demand Alert",
+    "limitedSlots": "Only {{count}} Slots Left Today",
+    "seasonal": {
+      "summer": "Peak Summer Season - AC repair calls are up 300%",
+      "winter": "Heating Season Alert - Schedule your tune-up before the rush"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} {{businessName}}. All rights reserved.",
+    "tagline": "Proudly serving {{city}} and surrounding areas.",
+    "emergency": "24/7 Emergency Service Available",
+    "callNow": "Call us now: {{phone}}"
+  },
+  "navigation": {
+    "home": "Home",
+    "services": "Services",
+    "areas": "Service Areas",
+    "about": "About Us",
+    "contact": "Contact",
+    "blog": "Blog",
+    "work": "Our Work",
+    "reviews": "Reviews"
+  },
+  "404": {
+    "title": "Page Not Found",
+    "message": "Sorry, we couldn't find the page you're looking for.",
+    "cta": "Return Home"
+  }
+}

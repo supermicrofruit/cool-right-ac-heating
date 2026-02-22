@@ -1,0 +1,234 @@
+{
+  "vertical": "plumbing",
+  "services": [
+    {
+      "slug": "drain-cleaning",
+      "name": "Drain Cleaning",
+      "shortDescription": "Fast, effective drain cleaning for sinks, tubs, and main lines.",
+      "longDescription": "Slow or clogged drains disrupt your daily life. {{businessName}} uses professional-grade equipment to clear blockages quickly and effectively, from simple sink clogs to stubborn main line backups. We'll diagnose the cause and recommend solutions to prevent future problems.",
+      "icon": "Droplets",
+      "category": "drains",
+      "emergency": true,
+      "features": [
+        "Video camera inspection",
+        "Hydro jetting available",
+        "All drain types serviced",
+        "Root removal",
+        "Preventive maintenance plans",
+        "Same-day service"
+      ],
+      "benefits": [
+        "Restore proper drainage",
+        "Prevent backups and flooding",
+        "Identify underlying issues",
+        "Extend pipe life"
+      ],
+      "commonIssues": [
+        "Slow draining sink",
+        "Clogged toilet",
+        "Bathtub won't drain",
+        "Multiple drains backing up",
+        "Gurgling sounds",
+        "Bad odors"
+      ],
+      "meta": {
+        "title": "Drain Cleaning {{city}} | Clogged Drain Repair | {{businessName}}",
+        "description": "Professional drain cleaning in {{city}}. Clear clogs fast with {{businessName}}. Video inspection, hydro jetting available. Call {{phone}} for same-day service."
+      }
+    },
+    {
+      "slug": "leak-repair",
+      "name": "Leak Repair",
+      "shortDescription": "Expert leak detection and repair for all types of plumbing.",
+      "longDescription": "Even small leaks waste water and can cause serious damage over time. {{businessName}} uses advanced leak detection technology to find hidden leaks without unnecessary damage to your home. We repair all types of leaks, from dripping faucets to underground pipe leaks.",
+      "icon": "Droplet",
+      "category": "repairs",
+      "emergency": true,
+      "features": [
+        "Electronic leak detection",
+        "Slab leak repair",
+        "Pipe repair and replacement",
+        "Fixture leak repair",
+        "Water damage prevention",
+        "Insurance documentation"
+      ],
+      "benefits": [
+        "Stop water waste",
+        "Prevent water damage",
+        "Lower water bills",
+        "Protect your home's foundation"
+      ],
+      "meta": {
+        "title": "Leak Repair {{city}} | Water Leak Detection & Repair | {{businessName}}",
+        "description": "Expert leak detection and repair in {{city}}. Hidden leaks, slab leaks, pipe leaks. {{businessName}} stops leaks fast. Call {{phone}}."
+      }
+    },
+    {
+      "slug": "water-heater",
+      "name": "Water Heater Services",
+      "shortDescription": "Water heater repair, replacement, and installation services.",
+      "longDescription": "No hot water? {{businessName}} services all types of water heaters including traditional tank, tankless, and hybrid models. Whether you need a quick repair or a full replacement, our licensed plumbers will get your hot water flowing again.",
+      "icon": "Flame",
+      "category": "water-heaters",
+      "emergency": true,
+      "features": [
+        "Tank and tankless models",
+        "Same-day repair available",
+        "Energy-efficient options",
+        "Proper sizing consultation",
+        "Removal of old unit",
+        "Permit handling"
+      ],
+      "benefits": [
+        "Reliable hot water",
+        "Lower energy bills",
+        "Longer equipment life",
+        "Improved water pressure"
+      ],
+      "meta": {
+        "title": "Water Heater Repair {{city}} | Tankless & Tank Installation | {{businessName}}",
+        "description": "Water heater repair and installation in {{city}}. Tank, tankless, hybrid models. {{businessName}} - same-day service available. Call {{phone}}."
+      }
+    },
+    {
+      "slug": "sewer-line",
+      "name": "Sewer Line Services",
+      "shortDescription": "Sewer line repair, replacement, and cleaning services.",
+      "longDescription": "Sewer problems require professional expertise. {{businessName}} offers comprehensive sewer services from camera inspections to full line replacement. We use trenchless technology when possible to minimize disruption to your property.",
+      "icon": "Construction",
+      "category": "sewer",
+      "emergency": true,
+      "features": [
+        "Video camera inspection",
+        "Trenchless repair options",
+        "Root removal",
+        "Line replacement",
+        "Backflow prevention",
+        "Septic services"
+      ],
+      "benefits": [
+        "Prevent sewage backups",
+        "Protect your property",
+        "Minimize excavation",
+        "Long-lasting solutions"
+      ],
+      "meta": {
+        "title": "Sewer Line Repair {{city}} | Trenchless Sewer Replacement | {{businessName}}",
+        "description": "Sewer line repair and replacement in {{city}}. Trenchless options, camera inspection. {{businessName}} - call {{phone}} for diagnosis."
+      }
+    },
+    {
+      "slug": "fixture-installation",
+      "name": "Fixture Installation",
+      "shortDescription": "Professional installation of faucets, toilets, sinks, and more.",
+      "longDescription": "Upgrade your bathroom or kitchen with professional fixture installation from {{businessName}}. We install all types of plumbing fixtures including faucets, toilets, sinks, garbage disposals, and more. Proper installation ensures years of trouble-free use.",
+      "icon": "Wrench",
+      "category": "installation",
+      "emergency": false,
+      "features": [
+        "All fixture types",
+        "Proper installation",
+        "Old fixture removal",
+        "Leak testing",
+        "Clean up included",
+        "Manufacturer warranty preserved"
+      ],
+      "benefits": [
+        "Updated look",
+        "Improved function",
+        "Water efficiency",
+        "No leaks guaranteed"
+      ],
+      "meta": {
+        "title": "Plumbing Fixture Installation {{city}} | Faucets, Toilets, Sinks | {{businessName}}",
+        "description": "Professional fixture installation in {{city}}. Faucets, toilets, sinks, disposals. {{businessName}} ensures leak-free installation. Call {{phone}}."
+      }
+    },
+    {
+      "slug": "repiping",
+      "name": "Whole-Home Repiping",
+      "shortDescription": "Replace old, failing pipes with modern, reliable plumbing.",
+      "longDescription": "If your home has galvanized, polybutylene, or aging copper pipes, repiping can prevent leaks, improve water pressure, and provide peace of mind. {{businessName}} replaces old pipes with modern PEX or copper, with minimal disruption to your home.",
+      "icon": "Home",
+      "category": "installation",
+      "emergency": false,
+      "features": [
+        "PEX and copper options",
+        "Minimal wall damage",
+        "Permit included",
+        "Water quality improvement",
+        "Pressure improvement",
+        "Comprehensive warranty"
+      ],
+      "benefits": [
+        "Eliminate leak risk",
+        "Better water pressure",
+        "Improved water quality",
+        "Increased home value"
+      ],
+      "meta": {
+        "title": "Repiping Services {{city}} | Whole House Pipe Replacement | {{businessName}}",
+        "description": "Whole-home repiping in {{city}}. Replace old pipes with PEX or copper. {{businessName}} - free estimates. Call {{phone}}."
+      }
+    },
+    {
+      "slug": "emergency-plumbing",
+      "name": "Emergency Plumbing",
+      "shortDescription": "24/7 emergency plumbing for urgent problems.",
+      "longDescription": "Burst pipes, major leaks, and sewer backups can't wait. {{businessName}} offers 24/7 emergency plumbing service in {{city}}. Our plumbers are on call around the clock with fully stocked trucks, ready to respond to any plumbing emergency.",
+      "icon": "AlertCircle",
+      "category": "emergency",
+      "emergency": true,
+      "features": [
+        "24/7 availability",
+        "Fast response times",
+        "Fully stocked trucks",
+        "All emergencies handled",
+        "Water damage mitigation",
+        "Insurance documentation"
+      ],
+      "benefits": [
+        "Immediate response",
+        "Prevent further damage",
+        "Professional expertise",
+        "Peace of mind"
+      ],
+      "meta": {
+        "title": "24/7 Emergency Plumber {{city}} | After-Hours Plumbing Service | {{businessName}}",
+        "description": "24/7 emergency plumbing in {{city}}. Burst pipes, leaks, backups. {{businessName}} responds fast, day or night. Call {{phone}} now."
+      }
+    }
+  ],
+  "categories": [
+    {
+      "slug": "drains",
+      "name": "Drain Services",
+      "description": "Keep your drains flowing freely."
+    },
+    {
+      "slug": "repairs",
+      "name": "Plumbing Repairs",
+      "description": "Fix leaks, pipes, and plumbing problems."
+    },
+    {
+      "slug": "water-heaters",
+      "name": "Water Heaters",
+      "description": "Repair, replacement, and installation."
+    },
+    {
+      "slug": "sewer",
+      "name": "Sewer Services",
+      "description": "Sewer line repair and maintenance."
+    },
+    {
+      "slug": "installation",
+      "name": "Installation",
+      "description": "New fixtures and repiping."
+    },
+    {
+      "slug": "emergency",
+      "name": "Emergency",
+      "description": "24/7 urgent plumbing help."
+    }
+  ]
+}

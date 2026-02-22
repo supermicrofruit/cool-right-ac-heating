@@ -1,0 +1,472 @@
+{
+  "themes": [
+    {
+      "id": "1761140748158",
+      "name": "Purple Haze",
+      "category": "custom",
+      "preview": "hsl(268 95% 40%)",
+      "colors": {
+        "primary": "268 95% 40%",
+        "primaryForeground": "0 0% 100%",
+        "background": "0 0% 99%",
+        "foreground": "0 0% 0%",
+        "muted": "0 0% 96%",
+        "mutedForeground": "0 0% 32%",
+        "card": "0 0% 99%",
+        "border": "240 13% 91%",
+        "ring": "0 0% 0%",
+        "footerBg": "268 95% 20%"
+      }
+    },
+    {
+      "id": "1761141287865",
+      "name": "Emerald Secrets",
+      "category": "custom",
+      "preview": "hsl(160 84% 39%)",
+      "colors": {
+        "primary": "160 84% 39%",
+        "primaryForeground": "0 0% 98%",
+        "background": "0 0% 100%",
+        "foreground": "0 0% 4%",
+        "muted": "0 0% 96%",
+        "mutedForeground": "0 0% 45%",
+        "card": "0 0% 100%",
+        "border": "0 0% 90%",
+        "ring": "160 84% 39%",
+        "footerBg": "160 84% 19%"
+      }
+    },
+    {
+      "id": "1761142074592",
+      "name": "Orange Beast",
+      "category": "custom",
+      "preview": "hsl(25 95% 53%)",
+      "colors": {
+        "primary": "25 95% 53%",
+        "primaryForeground": "0 0% 100%",
+        "background": "0 0% 99%",
+        "foreground": "0 0% 0%",
+        "muted": "0 0% 96%",
+        "mutedForeground": "0 0% 32%",
+        "card": "0 0% 99%",
+        "border": "25 20% 91%",
+        "ring": "25 95% 53%",
+        "footerBg": "25 95% 33%"
+      }
+    },
+    {
+      "id": "1761208370149",
+      "name": "Golden Gate",
+      "category": "custom",
+      "preview": "hsl(39 88% 28%)",
+      "colors": {
+        "primary": "39 88% 28%",
+        "primaryForeground": "0 0% 98%",
+        "background": "0 0% 100%",
+        "foreground": "0 0% 4%",
+        "muted": "0 0% 96%",
+        "mutedForeground": "0 0% 45%",
+        "card": "0 0% 100%",
+        "border": "0 0% 90%",
+        "ring": "39 88% 28%",
+        "footerBg": "39 88% 10%"
+      }
+    },
+    {
+      "id": "1761504194756",
+      "name": "Green Forest",
+      "category": "custom",
+      "preview": "hsl(148 94% 33%)",
+      "colors": {
+        "primary": "148 94% 33%",
+        "primaryForeground": "0 0% 100%",
+        "background": "0 0% 99%",
+        "foreground": "0 0% 0%",
+        "muted": "0 0% 96%",
+        "mutedForeground": "0 0% 32%",
+        "card": "0 0% 99%",
+        "border": "148 15% 91%",
+        "ring": "148 94% 33%",
+        "footerBg": "148 94% 13%"
+      }
+    },
+    {
+      "id": "1761504872854",
+      "name": "Green Fall",
+      "category": "custom",
+      "preview": "hsl(163 100% 23%)",
+      "colors": {
+        "primary": "163 100% 23%",
+        "primaryForeground": "0 0% 100%",
+        "background": "0 0% 100%",
+        "foreground": "0 0% 20%",
+        "muted": "210 20% 98%",
+        "mutedForeground": "163 57% 23%",
+        "card": "0 0% 100%",
+        "border": "218 13% 88%",
+        "ring": "163 100% 23%",
+        "footerBg": "163 100% 10%"
+      }
+    },
+    {
+      "id": "1761634394250",
+      "name": "Blue Darken",
+      "category": "custom",
+      "preview": "hsl(254 100% 23%)",
+      "colors": {
+        "primary": "254 100% 23%",
+        "primaryForeground": "0 0% 100%",
+        "background": "0 0% 100%",
+        "foreground": "0 0% 20%",
+        "muted": "210 20% 98%",
+        "mutedForeground": "254 60% 30%",
+        "card": "0 0% 100%",
+        "border": "218 13% 88%",
+        "ring": "254 100% 23%",
+        "footerBg": "254 100% 10%"
+      }
+    },
+    {
+      "id": "1761659207793",
+      "name": "Fig Splash",
+      "category": "custom",
+      "preview": "hsl(332 100% 41%)",
+      "colors": {
+        "primary": "332 100% 41%",
+        "primaryForeground": "0 0% 98%",
+        "background": "0 0% 100%",
+        "foreground": "0 0% 4%",
+        "muted": "0 0% 96%",
+        "mutedForeground": "0 0% 45%",
+        "card": "0 0% 100%",
+        "border": "0 0% 90%",
+        "ring": "332 100% 41%",
+        "footerBg": "332 100% 21%"
+      }
+    },
+    {
+      "id": "n001",
+      "name": "Midnight Indigo",
+      "category": "custom",
+      "preview": "hsl(234 89% 35%)",
+      "colors": {
+        "primary": "234 89% 35%",
+        "primaryForeground": "0 0% 100%",
+        "background": "0 0% 100%",
+        "foreground": "234 30% 15%",
+        "muted": "234 20% 96%",
+        "mutedForeground": "234 20% 45%",
+        "card": "0 0% 100%",
+        "border": "234 15% 88%",
+        "ring": "234 89% 35%",
+        "footerBg": "234 89% 15%"
+      }
+    },
+    {
+      "id": "n002",
+      "name": "Coral Sunset",
+      "category": "custom",
+      "preview": "hsl(12 90% 58%)",
+      "colors": {
+        "primary": "12 90% 58%",
+        "primaryForeground": "0 0% 100%",
+        "background": "0 0% 100%",
+        "foreground": "15 25% 15%",
+        "muted": "15 20% 96%",
+        "mutedForeground": "15 15% 45%",
+        "card": "0 0% 100%",
+        "border": "15 15% 88%",
+        "ring": "12 90% 58%",
+        "footerBg": "12 90% 38%"
+      }
+    },
+    {
+      "id": "n003",
+      "name": "Slate Modern",
+      "category": "custom",
+      "preview": "hsl(215 25% 35%)",
+      "colors": {
+        "primary": "215 25% 35%",
+        "primaryForeground": "0 0% 100%",
+        "background": "0 0% 100%",
+        "foreground": "215 20% 15%",
+        "muted": "215 15% 96%",
+        "mutedForeground": "215 15% 50%",
+        "card": "0 0% 100%",
+        "border": "215 15% 88%",
+        "ring": "215 25% 35%",
+        "footerBg": "215 25% 15%"
+      }
+    },
+    {
+      "id": "n004",
+      "name": "Lavender Dreams",
+      "category": "custom",
+      "preview": "hsl(270 60% 55%)",
+      "colors": {
+        "primary": "270 60% 55%",
+        "primaryForeground": "0 0% 100%",
+        "background": "0 0% 100%",
+        "foreground": "270 20% 15%",
+        "muted": "270 20% 96%",
+        "mutedForeground": "270 15% 50%",
+        "card": "0 0% 100%",
+        "border": "270 20% 88%",
+        "ring": "270 60% 55%",
+        "footerBg": "270 60% 35%"
+      }
+    },
+    {
+      "id": "n005",
+      "name": "Ocean Breeze",
+      "category": "custom",
+      "preview": "hsl(195 85% 42%)",
+      "colors": {
+        "primary": "195 85% 42%",
+        "primaryForeground": "0 0% 100%",
+        "background": "0 0% 100%",
+        "foreground": "195 30% 12%",
+        "muted": "195 20% 96%",
+        "mutedForeground": "195 20% 45%",
+        "card": "0 0% 100%",
+        "border": "195 20% 88%",
+        "ring": "195 85% 42%",
+        "footerBg": "195 85% 22%"
+      }
+    },
+    {
+      "id": "n006",
+      "name": "Rose Gold",
+      "category": "custom",
+      "preview": "hsl(350 65% 55%)",
+      "colors": {
+        "primary": "350 65% 55%",
+        "primaryForeground": "0 0% 100%",
+        "background": "0 0% 100%",
+        "foreground": "350 20% 15%",
+        "muted": "350 15% 96%",
+        "mutedForeground": "350 15% 50%",
+        "card": "0 0% 100%",
+        "border": "350 20% 88%",
+        "ring": "350 65% 55%",
+        "footerBg": "350 65% 35%"
+      }
+    },
+    {
+      "id": "n007",
+      "name": "Burnt Sienna",
+      "category": "custom",
+      "preview": "hsl(20 70% 40%)",
+      "colors": {
+        "primary": "20 70% 40%",
+        "primaryForeground": "0 0% 100%",
+        "background": "0 0% 100%",
+        "foreground": "20 30% 12%",
+        "muted": "20 20% 96%",
+        "mutedForeground": "20 20% 45%",
+        "card": "0 0% 100%",
+        "border": "20 20% 86%",
+        "ring": "20 70% 40%",
+        "footerBg": "20 70% 20%"
+      }
+    },
+    {
+      "id": "n008",
+      "name": "Electric Lime",
+      "category": "custom",
+      "preview": "hsl(75 85% 40%)",
+      "colors": {
+        "primary": "75 85% 40%",
+        "primaryForeground": "75 30% 10%",
+        "background": "0 0% 100%",
+        "foreground": "75 30% 10%",
+        "muted": "75 20% 96%",
+        "mutedForeground": "75 20% 40%",
+        "card": "0 0% 100%",
+        "border": "75 20% 86%",
+        "ring": "75 85% 40%",
+        "footerBg": "75 85% 20%"
+      }
+    },
+    {
+      "id": "n009",
+      "name": "Crimson Velvet",
+      "category": "custom",
+      "preview": "hsl(350 75% 35%)",
+      "colors": {
+        "primary": "350 75% 35%",
+        "primaryForeground": "0 0% 100%",
+        "background": "0 0% 100%",
+        "foreground": "350 25% 12%",
+        "muted": "350 15% 96%",
+        "mutedForeground": "350 15% 45%",
+        "card": "0 0% 100%",
+        "border": "350 15% 88%",
+        "ring": "350 75% 35%",
+        "footerBg": "350 75% 15%"
+      }
+    },
+    {
+      "id": "n010",
+      "name": "Forest Mist",
+      "category": "custom",
+      "preview": "hsl(150 45% 30%)",
+      "colors": {
+        "primary": "150 45% 30%",
+        "primaryForeground": "0 0% 100%",
+        "background": "0 0% 100%",
+        "foreground": "150 25% 12%",
+        "muted": "150 15% 96%",
+        "mutedForeground": "150 15% 45%",
+        "card": "0 0% 100%",
+        "border": "150 15% 88%",
+        "ring": "150 45% 30%",
+        "footerBg": "150 45% 10%"
+      }
+    },
+    {
+      "id": "n011",
+      "name": "Sapphire Night",
+      "category": "custom",
+      "preview": "hsl(225 80% 45%)",
+      "colors": {
+        "primary": "225 80% 45%",
+        "primaryForeground": "0 0% 100%",
+        "background": "0 0% 100%",
+        "foreground": "225 30% 12%",
+        "muted": "225 20% 96%",
+        "mutedForeground": "225 20% 45%",
+        "card": "0 0% 100%",
+        "border": "225 20% 88%",
+        "ring": "225 80% 45%",
+        "footerBg": "225 80% 25%"
+      }
+    },
+    {
+      "id": "n012",
+      "name": "Peach Cream",
+      "category": "custom",
+      "preview": "hsl(25 85% 60%)",
+      "colors": {
+        "primary": "25 85% 60%",
+        "primaryForeground": "25 30% 12%",
+        "background": "0 0% 100%",
+        "foreground": "25 20% 15%",
+        "muted": "25 25% 96%",
+        "mutedForeground": "25 18% 48%",
+        "card": "0 0% 100%",
+        "border": "25 20% 88%",
+        "ring": "25 85% 60%",
+        "footerBg": "25 85% 40%"
+      }
+    },
+    {
+      "id": "n013",
+      "name": "Charcoal Smoke",
+      "category": "custom",
+      "preview": "hsl(0 0% 20%)",
+      "colors": {
+        "primary": "0 0% 20%",
+        "primaryForeground": "0 0% 100%",
+        "background": "0 0% 100%",
+        "foreground": "0 0% 12%",
+        "muted": "0 0% 96%",
+        "mutedForeground": "0 0% 45%",
+        "card": "0 0% 100%",
+        "border": "0 0% 88%",
+        "ring": "0 0% 20%",
+        "footerBg": "0 0% 10%"
+      }
+    },
+    {
+      "id": "n014",
+      "name": "Mint Fresh",
+      "category": "custom",
+      "preview": "hsl(165 75% 40%)",
+      "colors": {
+        "primary": "165 75% 40%",
+        "primaryForeground": "0 0% 100%",
+        "background": "0 0% 100%",
+        "foreground": "165 25% 12%",
+        "muted": "165 20% 96%",
+        "mutedForeground": "165 18% 45%",
+        "card": "0 0% 100%",
+        "border": "165 18% 88%",
+        "ring": "165 75% 40%",
+        "footerBg": "165 75% 20%"
+      }
+    },
+    {
+      "id": "n015",
+      "name": "Plum Royal",
+      "category": "custom",
+      "preview": "hsl(290 55% 40%)",
+      "colors": {
+        "primary": "290 55% 40%",
+        "primaryForeground": "0 0% 100%",
+        "background": "0 0% 100%",
+        "foreground": "290 25% 12%",
+        "muted": "290 18% 96%",
+        "mutedForeground": "290 15% 45%",
+        "card": "0 0% 100%",
+        "border": "290 15% 88%",
+        "ring": "290 55% 40%",
+        "footerBg": "290 55% 20%"
+      }
+    },
+    {
+      "id": "n016",
+      "name": "Copper Rust",
+      "category": "custom",
+      "preview": "hsl(25 65% 45%)",
+      "colors": {
+        "primary": "25 65% 45%",
+        "primaryForeground": "0 0% 100%",
+        "background": "0 0% 100%",
+        "foreground": "25 35% 12%",
+        "muted": "25 20% 96%",
+        "mutedForeground": "25 18% 45%",
+        "card": "0 0% 100%",
+        "border": "25 18% 86%",
+        "ring": "25 65% 45%",
+        "footerBg": "25 65% 25%"
+      }
+    },
+    {
+      "id": "n017",
+      "name": "Sky Azure",
+      "category": "custom",
+      "preview": "hsl(205 90% 50%)",
+      "colors": {
+        "primary": "205 90% 50%",
+        "primaryForeground": "0 0% 100%",
+        "background": "0 0% 100%",
+        "foreground": "205 25% 12%",
+        "muted": "205 25% 96%",
+        "mutedForeground": "205 20% 45%",
+        "card": "0 0% 100%",
+        "border": "205 20% 88%",
+        "ring": "205 90% 50%",
+        "footerBg": "205 90% 30%"
+      }
+    },
+    {
+      "id": "n018",
+      "name": "Moss Garden",
+      "category": "custom",
+      "preview": "hsl(85 40% 35%)",
+      "colors": {
+        "primary": "85 40% 35%",
+        "primaryForeground": "0 0% 100%",
+        "background": "0 0% 100%",
+        "foreground": "85 25% 12%",
+        "muted": "85 15% 96%",
+        "mutedForeground": "85 15% 45%",
+        "card": "0 0% 100%",
+        "border": "85 15% 86%",
+        "ring": "85 40% 35%",
+        "footerBg": "85 40% 15%"
+      }
+    }
+  ]
+}

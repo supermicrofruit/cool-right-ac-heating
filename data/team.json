@@ -1,0 +1,40 @@
+{
+  "team": [
+    {
+      "id": "mike-johnson",
+      "name": "Mike Johnson",
+      "role": "Owner & Lead Technician",
+      "bio": "Mike founded Desert Aire Comfort in 2010 after 15 years working for national HVAC companies. His vision was simple: provide Phoenix homeowners with honest, reliable service at fair prices. Today, he leads a team of certified technicians who share his commitment to excellence.",
+      "image": "/images/team/mike-johnson.jpg",
+      "experience": "20+ years",
+      "certifications": ["NATE Master Technician", "EPA 608 Universal", "Carrier Factory Authorized"]
+    },
+    {
+      "id": "sarah-martinez",
+      "name": "Sarah Martinez",
+      "role": "Service Manager",
+      "bio": "Sarah ensures every customer receives exceptional service from start to finish. With 8 years in the HVAC industry, she specializes in indoor air quality and helps families create healthier home environments.",
+      "image": "/images/team/sarah-martinez.jpg",
+      "experience": "8 years",
+      "certifications": ["NATE Certified", "Indoor Air Quality Specialist"]
+    },
+    {
+      "id": "david-chen",
+      "name": "David Chen",
+      "role": "Installation Specialist",
+      "bio": "David leads our installation team and has completed over 500 system installations across the Phoenix metro area. He's known for his attention to detail and ensuring every install meets our high standards.",
+      "image": "/images/team/david-chen.jpg",
+      "experience": "12 years",
+      "certifications": ["NATE Certified", "Carrier Installation Pro"]
+    },
+    {
+      "id": "maria-garcia",
+      "name": "Maria Garcia",
+      "role": "Customer Service Lead",
+      "bio": "Maria is often the first voice you hear when you call Desert Aire Comfort. Bilingual in English and Spanish, she's dedicated to making sure every customer feels valued and gets the help they need.",
+      "image": "/images/team/maria-garcia.jpg",
+      "experience": "5 years",
+      "certifications": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "businessName": "Bright Spark Electric",
+  "slug": "bright-spark-electric-denver",
+  "vertical": "electrical",
+  "generatedAt": "2026-02-20T13:34:44.186Z",
+  "generatedBy": "clonerator",
+  "version": "1.0.0",
+  "status": "generating",
+  "files": [
+    "business.json",
+    "content.json",
+    "theme.json",
+    "services.json",
+    "areas.json",
+    "testimonials.json",
+    "faqs.json",
+    "posts.json"
+  ],
+  "errors": []
+}

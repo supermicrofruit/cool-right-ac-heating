@@ -1,0 +1,84 @@
+{
+  "categories": [
+    {
+      "name": "General",
+      "slug": "general",
+      "faqs": [
+        {
+          "question": "How quickly can you come out for an inspection?",
+          "answer": "For {{city}} and surrounding areas, we typically schedule inspections within 1-2 business days. Emergency storm damage assessments are prioritized and often same-day. Call {{businessName}} at {{phone}} to get on the schedule."
+        },
+        {
+          "question": "Are you licensed and insured?",
+          "answer": "Absolutely. {{businessName}} is fully licensed ({{licenseNumber}}), bonded, and insured. We carry both general liability and workers' compensation coverage to protect you and our crew on every job."
+        },
+        {
+          "question": "Do you offer free estimates?",
+          "answer": "Yes. We provide free, no-obligation estimates for all roofing projects. Our inspector will assess your roof, walk you through your options, and provide a detailed written quote so you know exactly what to expect."
+        },
+        {
+          "question": "What kind of warranty do you offer?",
+          "answer": "All our work comes with a {{warrantyYears}}-year workmanship warranty. New roof installations also include manufacturer warranties on materials, which can range from 25 years to lifetime depending on the product you choose."
+        }
+      ]
+    },
+    {
+      "name": "Roof Repair",
+      "slug": "roof-repair",
+      "faqs": [
+        {
+          "question": "How do I know if my roof needs repair?",
+          "answer": "Common signs include missing or curling shingles, water stains on ceilings, granules collecting in gutters, daylight visible through the attic, and sagging spots on the roof deck. If you notice any of these, call {{businessName}} for a free inspection before the problem gets worse."
+        },
+        {
+          "question": "How much does a typical roof repair cost?",
+          "answer": "Minor repairs like fixing a small leak or replacing a few shingles typically cost $200 to $600. Major repairs involving larger sections or structural work can range from $1,000 to $3,000 or more. We always provide upfront pricing before any work begins."
+        },
+        {
+          "question": "Can you repair just part of the roof instead of replacing the whole thing?",
+          "answer": "Yes, partial repairs are very common and often the right choice. We will assess the damage and give you an honest recommendation on repair versus replacement based on your roof's age, overall condition, and the extent of the damage."
+        }
+      ]
+    },
+    {
+      "name": "Replacement & Materials",
+      "slug": "replacement-materials",
+      "faqs": [
+        {
+          "question": "How long does a roof replacement take?",
+          "answer": "Most residential roof replacements take 1 to 3 days depending on the size of the home and complexity of the roof. We will provide a clear timeline during your estimate and work efficiently to minimize disruption to your household."
+        },
+        {
+          "question": "What roofing materials do you work with?",
+          "answer": "We install and repair asphalt shingles, metal roofing, clay and concrete tile, flat roofing systems including TPO and EPDM, and more. We will recommend the best option based on your home, climate, budget, and aesthetic preferences."
+        },
+        {
+          "question": "How long does a new roof last?",
+          "answer": "Lifespan depends on the material. Asphalt shingles typically last 20 to 30 years, metal roofs 40 to 70 years, and tile can last 50 years or more. Quality installation and regular maintenance are the biggest factors in reaching the full expected lifespan."
+        },
+        {
+          "question": "Should I repair or replace my roof?",
+          "answer": "If your roof is over 20 years old, has widespread damage, or repair costs exceed 30 to 40 percent of the replacement cost, a full replacement is usually the smarter long-term investment. {{businessName}} will give you an honest assessment either way."
+        }
+      ]
+    },
+    {
+      "name": "Insurance & Cost",
+      "slug": "insurance-cost",
+      "faqs": [
+        {
+          "question": "Do you help with insurance claims?",
+          "answer": "Yes. {{businessName}} works directly with your insurance company throughout the claims process. We provide detailed documentation and photos of the damage and can meet with the adjuster on-site to make sure nothing is missed."
+        },
+        {
+          "question": "Will my homeowner's insurance cover storm damage?",
+          "answer": "Most standard homeowner policies cover damage from wind, hail, and fallen trees. Coverage varies by policy, so we recommend reviewing yours or calling your agent. We help {{city}} homeowners navigate the claims process and get the coverage they are entitled to."
+        },
+        {
+          "question": "Do you offer financing for roof replacements?",
+          "answer": "Yes, we offer flexible financing options to make a new roof affordable. We can discuss payment plans during your free estimate so you can choose the option that fits your budget without compromising on quality."
+        }
+      ]
+    }
+  ]
+}

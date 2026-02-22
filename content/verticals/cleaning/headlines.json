@@ -1,0 +1,116 @@
+{
+  "vertical": "cleaning",
+  "displayName": "Cleaning",
+  "heroImage": "https://images.pexels.com/photos/4440541/pexels-photo-4440541.jpeg?auto=compress&cs=tinysrgb&w=800",
+  "heroBackgroundImage": "https://images.pexels.com/photos/6035357/pexels-photo-6035357.jpeg?auto=compress&cs=tinysrgb&w=800",
+  "hero": {
+    "variations": [
+      {
+        "id": "spotless-home",
+        "headline": "A Spotless Home. Every Time.",
+        "subheadline": "Professional house cleaning trusted by {{reviewCount}}+ {{city}} families. Reliable, thorough, and always on time.",
+        "tone": "bold",
+        "region": "universal"
+      },
+      {
+        "id": "come-home-clean",
+        "headline": "Come Home to Clean",
+        "subheadline": "Life's too short to spend it cleaning. Let {{businessName}} handle the mess so you can enjoy your home.",
+        "tone": "warm",
+        "region": "universal"
+      },
+      {
+        "id": "most-trusted",
+        "headline": "{{city}}'s Most Trusted Cleaners",
+        "subheadline": "{{yearsInBusiness}} years of making homes shine. Licensed, insured, and background-checked teams.",
+        "tone": "professional",
+        "region": "universal"
+      },
+      {
+        "id": "deep-clean",
+        "headline": "Deep Clean Experts at Your Door",
+        "subheadline": "Same-day and next-day availability. Eco-friendly products, detailed checklists, satisfaction guaranteed.",
+        "tone": "urgent",
+        "region": "universal"
+      },
+      {
+        "id": "relax-we-clean",
+        "headline": "Relax. We'll Handle the Cleaning.",
+        "subheadline": "Customized cleaning plans for your home. Because you deserve a break and a spotless space.",
+        "tone": "calm",
+        "region": "universal"
+      },
+      {
+        "id": "fast-reliable",
+        "headline": "Fast. Thorough. Affordable.",
+        "subheadline": "Professional cleaning in {{city}}. {{rating}}★ rated with {{reviewCount}}+ reviews. Book your cleaning today.",
+        "tone": "direct",
+        "region": "universal"
+      }
+    ]
+  },
+  "servicePages": {
+    "house-cleaning": {
+      "headline": "House Cleaning You Can Count On",
+      "subheadline": "Regular cleaning that keeps your home fresh and inviting."
+    },
+    "deep-cleaning": {
+      "headline": "Deep Cleaning That Goes the Extra Mile",
+      "subheadline": "Every corner, every surface — detailed cleaning for a healthier home."
+    },
+    "move-in-out-cleaning": {
+      "headline": "Move-In & Move-Out Cleaning",
+      "subheadline": "Start fresh or leave it spotless with our move-day cleaning service."
+    },
+    "office-cleaning": {
+      "headline": "Professional Office Cleaning",
+      "subheadline": "A clean workspace means a productive team."
+    },
+    "carpet-cleaning": {
+      "headline": "Carpet Cleaning That Restores Like New",
+      "subheadline": "Remove stains, odors, and allergens with professional carpet care."
+    },
+    "window-cleaning": {
+      "headline": "Crystal Clear Window Cleaning",
+      "subheadline": "Let the light in with streak-free professional window cleaning."
+    },
+    "post-construction-cleaning": {
+      "headline": "Post-Construction Cleanup",
+      "subheadline": "We handle the dust and debris so you can enjoy your new space."
+    }
+  },
+  "valueProps": {
+    "variations": [
+      {
+        "title": "Trusted & Vetted Teams",
+        "description": "Every cleaner is background-checked, trained, and insured.",
+        "icon": "Shield"
+      },
+      {
+        "title": "Eco-Friendly Products",
+        "description": "Safe for your family, pets, and the environment.",
+        "icon": "Leaf"
+      },
+      {
+        "title": "Satisfaction Guaranteed",
+        "description": "Not happy? We'll re-clean for free. That's our promise.",
+        "icon": "ThumbsUp"
+      },
+      {
+        "title": "Flexible Scheduling",
+        "description": "Weekly, biweekly, monthly, or one-time — whatever works for you.",
+        "icon": "Calendar"
+      },
+      {
+        "title": "Detailed Checklists",
+        "description": "Every room, every surface, every time. Nothing gets missed.",
+        "icon": "ClipboardCheck"
+      },
+      {
+        "title": "Online Booking",
+        "description": "Book in minutes. Get instant confirmation and reminders.",
+        "icon": "Smartphone"
+      }
+    ]
+  }
+}

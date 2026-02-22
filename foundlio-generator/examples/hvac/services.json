@@ -1,0 +1,210 @@
+{
+  "services": [
+    {
+      "slug": "ac-repair",
+      "name": "AC Repair",
+      "shortDescription": "Fast, reliable air conditioning repair services to restore your comfort quickly.",
+      "longDescription": "When your AC breaks down in the Phoenix heat, every minute counts. Our expert technicians provide fast, reliable air conditioning repair services for all makes and models. We arrive promptly with fully-stocked trucks to diagnose and fix your cooling issues efficiently. From refrigerant leaks to compressor failures, we handle it all with a commitment to getting your home comfortable again as quickly as possible.",
+      "features": [
+        "Same-day service available",
+        "All major brands serviced",
+        "Upfront, transparent pricing",
+        "90-day repair warranty",
+        "EPA-certified refrigerant handling",
+        "24/7 emergency availability"
+      ],
+      "benefits": [
+        "Restore comfort quickly",
+        "Prevent costly breakdowns",
+        "Extend system lifespan",
+        "Improve energy efficiency"
+      ],
+      "icon": "Wrench",
+      "category": "cooling",
+      "emergency": true,
+      "metaTitle": "AC Repair Phoenix | Same-Day Air Conditioning Repair",
+      "metaDescription": "Fast, reliable AC repair in Phoenix. Same-day service, all brands, upfront pricing. Call Desert Aire Comfort for expert air conditioning repair."
+    },
+    {
+      "slug": "ac-installation",
+      "name": "AC Installation",
+      "shortDescription": "Professional air conditioning installation with top-rated equipment and expert craftsmanship.",
+      "longDescription": "Upgrade your home comfort with a new, energy-efficient air conditioning system installed by our certified professionals. We help you select the perfect system size and efficiency rating for your home, ensuring optimal cooling performance and energy savings. Our installation process includes proper sizing calculations, quality ductwork connections, and thorough system testing to guarantee peak performance from day one.",
+      "features": [
+        "Free in-home consultations",
+        "Load calculation for proper sizing",
+        "Premium equipment options",
+        "Manufacturer warranties up to 10 years",
+        "Financing options available",
+        "Professional disposal of old units"
+      ],
+      "benefits": [
+        "Lower energy bills",
+        "Improved indoor comfort",
+        "Quieter operation",
+        "Better humidity control"
+      ],
+      "icon": "AirVent",
+      "category": "cooling",
+      "emergency": false,
+      "metaTitle": "AC Installation Phoenix | New Air Conditioner Installation",
+      "metaDescription": "Expert AC installation in Phoenix. Free estimates, financing available, top brands. Get a new energy-efficient air conditioner from Desert Aire Comfort."
+    },
+    {
+      "slug": "ac-maintenance",
+      "name": "AC Maintenance",
+      "shortDescription": "Preventive AC maintenance to keep your system running efficiently all summer long.",
+      "longDescription": "Regular maintenance is the key to keeping your air conditioning system running smoothly and efficiently, especially during Arizona's brutal summers. Our comprehensive AC tune-up includes cleaning coils, checking refrigerant levels, inspecting electrical components, and lubricating moving parts. This preventive care helps avoid unexpected breakdowns, reduces energy costs, and extends the life of your equipment.",
+      "features": [
+        "21-point inspection",
+        "Coil cleaning included",
+        "Refrigerant level check",
+        "Filter replacement",
+        "Thermostat calibration",
+        "Priority scheduling for members"
+      ],
+      "benefits": [
+        "Prevent breakdowns",
+        "Lower energy costs",
+        "Extend equipment life",
+        "Maintain warranty coverage"
+      ],
+      "icon": "Settings",
+      "category": "cooling",
+      "emergency": false,
+      "metaTitle": "AC Maintenance Phoenix | Air Conditioning Tune-Up Service",
+      "metaDescription": "Keep your AC running efficiently with professional maintenance from Desert Aire Comfort. 21-point inspection, coil cleaning, and more."
+    },
+    {
+      "slug": "heating-repair",
+      "name": "Heating Repair",
+      "shortDescription": "Expert heating system repair to keep your home warm during cool Arizona nights.",
+      "longDescription": "While Phoenix is known for hot summers, winter nights can get surprisingly cold. When your heating system fails, our skilled technicians respond quickly to diagnose and repair furnaces, heat pumps, and heating systems of all types. We service all major brands and carry common parts on our trucks for faster repairs. Trust us to restore your warmth quickly and safely.",
+      "features": [
+        "All heating system types",
+        "Gas and electric systems",
+        "Safety inspections included",
+        "Same-day service available",
+        "Carbon monoxide testing",
+        "Honest repair recommendations"
+      ],
+      "benefits": [
+        "Restore home warmth",
+        "Ensure safe operation",
+        "Prevent heat loss",
+        "Lower heating bills"
+      ],
+      "icon": "Flame",
+      "category": "heating",
+      "emergency": true,
+      "metaTitle": "Heating Repair Phoenix | Furnace & Heat Pump Repair",
+      "metaDescription": "Expert heating repair in Phoenix. Furnaces, heat pumps, all brands. Fast service from Desert Aire Comfort's certified technicians."
+    },
+    {
+      "slug": "heating-installation",
+      "name": "Heating Installation",
+      "shortDescription": "Quality heating system installation for reliable winter comfort.",
+      "longDescription": "When it's time for a new heating system, trust Desert Aire Comfort to install it right. We offer a full range of heating solutions including high-efficiency furnaces, heat pumps, and dual-fuel systems. Our team will help you choose the best option for your home's needs and budget, then install it with precision craftsmanship backed by our satisfaction guarantee.",
+      "features": [
+        "High-efficiency options",
+        "Heat pump specialists",
+        "Dual-fuel systems",
+        "Proper sizing guaranteed",
+        "Full system warranties",
+        "Flexible financing"
+      ],
+      "benefits": [
+        "Energy savings",
+        "Reliable warmth",
+        "Quiet operation",
+        "Long-term value"
+      ],
+      "icon": "Home",
+      "category": "heating",
+      "emergency": false,
+      "metaTitle": "Heating Installation Phoenix | Furnace & Heat Pump Installation",
+      "metaDescription": "Professional heating installation in Phoenix. Furnaces, heat pumps, dual-fuel systems. Free estimates from Desert Aire Comfort."
+    },
+    {
+      "slug": "duct-cleaning",
+      "name": "Duct Cleaning",
+      "shortDescription": "Professional duct cleaning to improve air quality and system efficiency.",
+      "longDescription": "Over time, dust, allergens, and debris accumulate in your ductwork, affecting indoor air quality and HVAC efficiency. Our professional duct cleaning service removes these contaminants using powerful vacuum systems and specialized tools. The result is cleaner air, better airflow, and a more efficient HVAC system. We recommend duct cleaning every 3-5 years, or more frequently if you have pets or allergies.",
+      "features": [
+        "NADCA-certified process",
+        "Before and after photos",
+        "All vents included",
+        "Sanitizing treatment available",
+        "Dryer vent cleaning add-on",
+        "No hidden fees"
+      ],
+      "benefits": [
+        "Cleaner indoor air",
+        "Reduced allergens",
+        "Better airflow",
+        "Lower energy bills"
+      ],
+      "icon": "Wind",
+      "category": "air-quality",
+      "emergency": false,
+      "metaTitle": "Duct Cleaning Phoenix | Professional Air Duct Cleaning",
+      "metaDescription": "Professional duct cleaning in Phoenix. Improve air quality and HVAC efficiency. NADCA-certified service from Desert Aire Comfort."
+    },
+    {
+      "slug": "indoor-air-quality",
+      "name": "Indoor Air Quality",
+      "shortDescription": "Complete indoor air quality solutions for a healthier home environment.",
+      "longDescription": "Phoenix's dust, pollen, and dry air can take a toll on your indoor air quality. We offer comprehensive solutions including air purifiers, UV germicidal lights, humidifiers, and advanced filtration systems. Our experts will assess your home's air quality needs and recommend the right combination of products to create a healthier, more comfortable living environment for your family.",
+      "features": [
+        "Air quality testing",
+        "HEPA filtration systems",
+        "UV germicidal lights",
+        "Whole-home humidifiers",
+        "Air purifier installation",
+        "Custom solutions"
+      ],
+      "benefits": [
+        "Healthier breathing",
+        "Reduced allergies",
+        "Eliminate odors",
+        "Protect family health"
+      ],
+      "icon": "Sparkles",
+      "category": "air-quality",
+      "emergency": false,
+      "metaTitle": "Indoor Air Quality Phoenix | Air Purifiers & Filtration",
+      "metaDescription": "Improve your Phoenix home's air quality. Air purifiers, UV lights, HEPA filtration. Solutions from Desert Aire Comfort."
+    },
+    {
+      "slug": "emergency-hvac",
+      "name": "Emergency HVAC Service",
+      "shortDescription": "24/7 emergency HVAC repair when you need it most.",
+      "longDescription": "HVAC emergencies don't wait for business hours, and neither do we. When your AC fails during a 115°F summer day or your heat goes out on a cold winter night, our emergency team is ready to respond. We offer 24/7 emergency service with fast response times and fully-equipped trucks to handle most repairs on the spot. Your comfort and safety are our top priorities.",
+      "features": [
+        "24/7 availability",
+        "Fast response times",
+        "Fully-stocked trucks",
+        "All systems serviced",
+        "No overtime charges nights/weekends",
+        "Licensed and insured"
+      ],
+      "benefits": [
+        "Peace of mind",
+        "Rapid restoration",
+        "Expert diagnosis",
+        "Safety assurance"
+      ],
+      "icon": "AlertCircle",
+      "category": "emergency",
+      "emergency": true,
+      "metaTitle": "Emergency HVAC Phoenix | 24/7 AC & Heating Repair",
+      "metaDescription": "24/7 emergency HVAC service in Phoenix. Fast response, no overtime charges. Call Desert Aire Comfort anytime for urgent AC or heating repair."
+    }
+  ],
+  "categories": [
+    { "slug": "cooling", "name": "Cooling Services", "icon": "Snowflake" },
+    { "slug": "heating", "name": "Heating Services", "icon": "Flame" },
+    { "slug": "air-quality", "name": "Air Quality", "icon": "Wind" },
+    { "slug": "emergency", "name": "Emergency Services", "icon": "AlertCircle" }
+  ]
+}

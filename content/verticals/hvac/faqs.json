@@ -1,0 +1,85 @@
+{
+  "vertical": "hvac",
+  "general": [
+    {
+      "question": "How quickly can you get to my home?",
+      "answer": "For {{city}} and surrounding areas, we typically arrive within {{responseTime}} for standard calls. Emergency calls are prioritized and we aim to be there within 1-2 hours."
+    },
+    {
+      "question": "Do you offer free estimates?",
+      "answer": "Yes! We provide free estimates for all installations and replacements. For repairs, we charge a diagnostic fee that's waived if you proceed with the repair."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Absolutely. {{businessName}} is fully licensed ({{licenseNumber}}), bonded, and insured. All our technicians are background-checked and certified."
+    },
+    {
+      "question": "What brands do you service?",
+      "answer": "We service all major HVAC brands including Carrier, Trane, Lennox, Rheem, Goodman, Daikin, and more. Our technicians are factory-trained on most major brands."
+    },
+    {
+      "question": "Do you offer financing?",
+      "answer": "Yes, we offer flexible financing options for larger repairs and new installations. Ask about our 0% interest options for qualified buyers."
+    },
+    {
+      "question": "What's your warranty policy?",
+      "answer": "We stand behind our work with a {{warrantyYears}}-year labor warranty on all repairs. New installations include full manufacturer warranties plus our labor guarantee."
+    }
+  ],
+  "ac-repair": [
+    {
+      "question": "Why is my AC not cooling?",
+      "answer": "Common causes include low refrigerant, a dirty air filter, frozen evaporator coils, or a malfunctioning compressor. Our technicians can diagnose the exact issue and provide repair options."
+    },
+    {
+      "question": "How much does AC repair cost?",
+      "answer": "Repair costs vary based on the issue. Minor repairs like capacitor replacement typically run $150-300, while major repairs like compressor replacement can be $1,000-2,500. We always provide upfront pricing before any work begins."
+    },
+    {
+      "question": "Should I repair or replace my AC?",
+      "answer": "Generally, if your AC is over 10-15 years old, repairs cost more than 50% of a new unit, or you're frequently calling for repairs, replacement often makes more financial sense. We'll give you honest advice."
+    },
+    {
+      "question": "How often should I replace my air filter?",
+      "answer": "Standard 1-inch filters should be replaced every 1-3 months. Higher-quality 4-inch filters can last 6-12 months. In dusty climates like {{city}}, more frequent changes are recommended."
+    }
+  ],
+  "ac-installation": [
+    {
+      "question": "What size AC do I need?",
+      "answer": "AC sizing depends on your home's square footage, insulation, windows, and climate. We perform Manual J load calculations to determine the exact size needed. An undersized or oversized unit will waste energy and reduce comfort."
+    },
+    {
+      "question": "How long does AC installation take?",
+      "answer": "A standard replacement typically takes 4-8 hours. New installations with ductwork modifications may take 1-2 days. We'll provide a timeline during your estimate."
+    },
+    {
+      "question": "What SEER rating should I get?",
+      "answer": "In {{city}}'s hot climate, we recommend at least 16 SEER for good efficiency. Higher SEER units (18-26) cost more upfront but save significantly on energy bills over time."
+    }
+  ],
+  "heating": [
+    {
+      "question": "Why is my heater blowing cold air?",
+      "answer": "This could be a pilot light issue, thermostat problem, dirty filter, or a malfunctioning heat exchanger. If it's a gas furnace, this should be checked promptly for safety."
+    },
+    {
+      "question": "How often should I service my furnace?",
+      "answer": "We recommend annual furnace maintenance before heating season. This ensures safe operation, maintains efficiency, and catches small problems before they become expensive repairs."
+    },
+    {
+      "question": "Is a heat pump good for {{city}}?",
+      "answer": "Heat pumps work excellently in {{city}}'s climate since we have mild winters. They're highly efficient for both heating and cooling, and can save significantly on energy costs compared to traditional systems."
+    }
+  ],
+  "maintenance": [
+    {
+      "question": "How often should I have my HVAC serviced?",
+      "answer": "We recommend twice-yearly maintenance: AC tune-up in spring and heating tune-up in fall. Regular maintenance can prevent 95% of breakdowns and extend equipment life by 5-10 years."
+    },
+    {
+      "question": "What's included in a maintenance visit?",
+      "answer": "Our {{maintenancePointCount}}-point tune-up includes inspection of all components, cleaning coils and drain lines, checking refrigerant levels, testing electrical connections, calibrating thermostats, and replacing standard filters."
+    }
+  ]
+}

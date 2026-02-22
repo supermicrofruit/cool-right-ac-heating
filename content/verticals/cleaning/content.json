@@ -1,0 +1,121 @@
+{
+  "hero": {
+    "headline": "Spotless Homes",
+    "headlineAccent": "Every Time",
+    "description": "Professional cleaning services in {{city}} you can trust. From deep cleans to recurring maintenance, {{businessName}} delivers a sparkling home without the hassle."
+  },
+  "trustSection": {
+    "items": [
+      {
+        "icon": "UserCheck",
+        "label": "Background Checked",
+        "value": "Every team member is thoroughly vetted and background checked."
+      },
+      {
+        "icon": "Shield",
+        "label": "Bonded & Insured",
+        "value": "Full liability coverage for your complete peace of mind."
+      },
+      {
+        "icon": "Leaf",
+        "label": "Eco-Friendly Products",
+        "value": "Safe, non-toxic cleaning products that are gentle on your home."
+      },
+      {
+        "icon": "Star",
+        "label": "Satisfaction Guaranteed",
+        "value": "Not happy? We'll re-clean for free — no questions asked."
+      }
+    ]
+  },
+  "mediaBar": {
+    "tagline": "Serving {{city}} since {{establishedYear}} — {{rating}}★ rated with {{reviewCount}}+ reviews"
+  },
+  "processSection": {
+    "headline": "How It Works",
+    "description": "Getting a professionally cleaned home in {{city}} is effortless.",
+    "steps": [
+      {
+        "title": "Book Online or Call",
+        "description": "Tell us about your home and choose a cleaning plan that fits your schedule.",
+        "icon": "PhoneCall"
+      },
+      {
+        "title": "Customized Plan",
+        "description": "We tailor the cleaning to your priorities — every home is different.",
+        "icon": "ClipboardCheck"
+      },
+      {
+        "title": "Professional Clean",
+        "description": "Our trained team arrives on time with everything needed for a thorough clean.",
+        "icon": "Wrench"
+      },
+      {
+        "title": "Walk-Through Review",
+        "description": "We do a final check to make sure every room meets our high standards.",
+        "icon": "ThumbsUp"
+      }
+    ]
+  },
+  "aboutSection": {
+    "description": "{{businessName}} has been serving {{city}} and the {{region}} since {{establishedYear}}. With {{reviewCount}}+ five-star reviews and a team of trained, background-checked professionals, we deliver cleaning services that exceed expectations. Our commitment to eco-friendly products, consistent quality, and reliable scheduling has made us one of {{city}}'s most trusted cleaning companies.",
+    "mission": "To give {{city}} homeowners more free time by delivering reliable, high-quality cleaning they never have to think twice about.",
+    "values": [
+      {
+        "title": "Consistent Quality",
+        "description": "Detailed checklists and trained teams ensure the same great result every visit.",
+        "icon": "Award"
+      },
+      {
+        "title": "Trust & Safety",
+        "description": "Background-checked, bonded, and insured — your home is in good hands.",
+        "icon": "ShieldCheck"
+      },
+      {
+        "title": "Eco-Conscious",
+        "description": "Non-toxic, environmentally friendly products safe for kids and pets.",
+        "icon": "Heart"
+      }
+    ]
+  },
+  "ctaBanner": {
+    "headline": "Ready to Get Started?",
+    "description": "Contact {{businessName}} today for a free cleaning estimate.",
+    "buttonText": "Call Now",
+    "buttonHref": "tel:{{phoneRaw}}"
+  },
+  "pages": {
+    "services": {
+      "headline": "Our Services",
+      "description": "Professional residential and commercial cleaning services in {{city}}."
+    },
+    "about": {
+      "headline": "About {{businessName}}",
+      "description": "Meet {{city}}'s trusted cleaning team — {{yearsInBusiness}} years of spotless results."
+    },
+    "contact": {
+      "headline": "Contact Us",
+      "description": "Reach {{businessName}} to schedule your next cleaning in {{city}}."
+    },
+    "areas": {
+      "headline": "Service Areas",
+      "description": "{{businessName}} serves {{city}} and surrounding {{region}} communities."
+    },
+    "blog": {
+      "headline": "Cleaning Tips & Tricks",
+      "description": "Home care advice and cleaning hacks from the {{businessName}} team."
+    },
+    "works": {
+      "headline": "Our Work",
+      "description": "See before-and-after results from recent cleaning projects in {{city}}."
+    },
+    "financing": {
+      "headline": "Pricing Plans",
+      "description": "Flexible cleaning packages and subscription plans to fit every budget."
+    },
+    "emergencyTips": {
+      "headline": "Quick-Clean Tips",
+      "description": "Fast cleaning strategies for unexpected guests and last-minute situations."
+    }
+  }
+}

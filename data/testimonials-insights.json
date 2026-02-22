@@ -1,0 +1,132 @@
+{
+  "totalAnalyzed": 5,
+  "sentimentBreakdown": {
+    "fiveStar": 5,
+    "fourStar": 0,
+    "other": 0
+  },
+  "topServices": [
+    {
+      "service": "ac",
+      "mentions": 3
+    },
+    {
+      "service": "furnace",
+      "mentions": 1
+    },
+    {
+      "service": "duct",
+      "mentions": 1
+    },
+    {
+      "service": "maintenance",
+      "mentions": 1
+    },
+    {
+      "service": "install",
+      "mentions": 1
+    }
+  ],
+  "emotionalKeywords": [
+    {
+      "word": "fair",
+      "count": 2
+    },
+    {
+      "word": "fast",
+      "count": 1
+    },
+    {
+      "word": "same day",
+      "count": 1
+    },
+    {
+      "word": "professional",
+      "count": 1
+    },
+    {
+      "word": "respectful",
+      "count": 1
+    },
+    {
+      "word": "clean",
+      "count": 1
+    },
+    {
+      "word": "fair price",
+      "count": 1
+    },
+    {
+      "word": "recommend",
+      "count": 1
+    },
+    {
+      "word": "best",
+      "count": 1
+    },
+    {
+      "word": "saved",
+      "count": 1
+    },
+    {
+      "word": "above and beyond",
+      "count": 1
+    },
+    {
+      "word": "always",
+      "count": 1
+    }
+  ],
+  "differentiators": [
+    "The team at Desert Aire Comfort went above and beyond"
+  ],
+  "painPoints": [
+    "They always find small issues before they become big problems",
+    "Our furnace stopped working right before a cold snap"
+  ],
+  "customerQuotes": [
+    {
+      "quote": "Desert Aire Comfort saved us during a summer heatwave",
+      "context": "Desert Aire Comfort saved us during a summer heatwave. AC went out at 2am and th..."
+    },
+    {
+      "quote": "Professional, fast, and fair pricing",
+      "context": "Desert Aire Comfort saved us during a summer heatwave. AC went out at 2am and th..."
+    },
+    {
+      "quote": "Best HVAC company we've ever used",
+      "context": "Best HVAC company we've ever used. Installed a new Trane system and our energy b..."
+    },
+    {
+      "quote": "The crew was clean and respectful of our home",
+      "context": "Best HVAC company we've ever used. Installed a new Trane system and our energy b..."
+    },
+    {
+      "quote": "They always find small issues before they become big problems",
+      "context": "Been using Desert Aire Comfort for annual maintenance for 3 years now. They alwa..."
+    },
+    {
+      "quote": "Highly recommend their maintenance plan",
+      "context": "Been using Desert Aire Comfort for annual maintenance for 3 years now. They alwa..."
+    },
+    {
+      "quote": "Desert Aire Comfort came same day and had it running in under an hour",
+      "context": "Our furnace stopped working right before a cold snap. Desert Aire Comfort came s..."
+    },
+    {
+      "quote": "Fair price and great service",
+      "context": "Our furnace stopped working right before a cold snap. Desert Aire Comfort came s..."
+    },
+    {
+      "quote": "The team at Desert Aire Comfort went above and beyond",
+      "context": "The team at Desert Aire Comfort went above and beyond. They found a duct leak th..."
+    }
+  ],
+  "commonThemes": [
+    "Speed / responsiveness is a major selling point",
+    "Honesty and fair pricing differentiate from competitors",
+    "Technical expertise and professionalism valued highly",
+    "Cleanliness and respect for the home matters to customers",
+    "Customers switching from bad experiences with other companies"
+  ]
+}

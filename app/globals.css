@@ -1,0 +1,912 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ============================================
+   COLOR THEME PRESETS
+   Set via theme.json "colors" field
+   ============================================ */
+
+@layer base {
+  /* Default / Fresh Teal */
+  :root, .theme-fresh-teal {
+    --background: 0 0% 98%;
+    --foreground: 0 0% 9%;
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 9%;
+    --primary: 174 72% 40%;
+    --primary-light: 174 72% 65%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 174 30% 94%;
+    --secondary-foreground: 0 0% 9%;
+    --muted: 0 0% 94%;
+    --muted-foreground: 0 0% 40%;
+    --accent: 174 30% 94%;
+    --accent-foreground: 0 0% 9%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 0 0% 88%;
+    --input: 0 0% 88%;
+    --ring: 174 72% 40%;
+    --radius: 0.75rem;
+    --footer-bg: 174 60% 12%;
+    --gradient-from: 160 75% 45%;
+    --gradient-to: 190 70% 35%;
+    --gradient-accent: 155 55% 60%;
+  }
+
+  /* Ocean Blue - Professional, trustworthy */
+  .theme-ocean-blue {
+    --primary: 210 100% 45%;
+    --primary-light: 210 100% 70%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 210 30% 94%;
+    --secondary-foreground: 0 0% 9%;
+    --accent: 210 30% 94%;
+    --accent-foreground: 0 0% 9%;
+    --ring: 210 100% 45%;
+    --footer-bg: 210 80% 12%;
+    --gradient-from: 195 90% 50%;
+    --gradient-to: 230 80% 40%;
+    --gradient-accent: 185 60% 65%;
+  }
+
+  /* Forest Green - Natural, eco-friendly */
+  .theme-forest-green {
+    --primary: 152 60% 36%;
+    --primary-light: 152 60% 60%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 152 30% 94%;
+    --secondary-foreground: 0 0% 9%;
+    --accent: 152 30% 94%;
+    --accent-foreground: 0 0% 9%;
+    --ring: 152 60% 36%;
+    --footer-bg: 152 50% 12%;
+    --gradient-from: 140 55% 40%;
+    --gradient-to: 168 50% 30%;
+    --gradient-accent: 130 45% 55%;
+  }
+
+  /* Sage Green - Fresh, clean, calming */
+  .theme-sage-green {
+    --primary: 150 30% 42%;
+    --primary-light: 150 30% 65%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 150 20% 94%;
+    --secondary-foreground: 0 0% 9%;
+    --accent: 150 20% 94%;
+    --accent-foreground: 0 0% 9%;
+    --ring: 150 30% 42%;
+    --footer-bg: 150 30% 14%;
+    --gradient-from: 140 28% 48%;
+    --gradient-to: 165 35% 36%;
+    --gradient-accent: 135 25% 58%;
+  }
+
+  /* Sunset Orange - Energetic, warm */
+  .theme-sunset-orange {
+    --primary: 24 95% 53%;
+    --primary-light: 24 95% 70%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 24 30% 94%;
+    --secondary-foreground: 0 0% 9%;
+    --accent: 24 30% 94%;
+    --accent-foreground: 0 0% 9%;
+    --ring: 24 95% 53%;
+    --footer-bg: 24 60% 15%;
+    --gradient-from: 15 95% 55%;
+    --gradient-to: 40 90% 50%;
+    --gradient-accent: 35 80% 60%;
+  }
+
+  /* Royal Purple - Premium, luxurious */
+  .theme-royal-purple {
+    --primary: 270 60% 50%;
+    --primary-light: 270 60% 72%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 270 30% 94%;
+    --secondary-foreground: 0 0% 9%;
+    --accent: 270 30% 94%;
+    --accent-foreground: 0 0% 9%;
+    --ring: 270 60% 50%;
+    --footer-bg: 270 50% 15%;
+    --gradient-from: 255 55% 55%;
+    --gradient-to: 290 50% 45%;
+    --gradient-accent: 280 40% 70%;
+  }
+
+  /* Slate Professional - Minimal, corporate */
+  .theme-slate-professional {
+    --primary: 220 25% 42%;
+    --primary-light: 220 20% 60%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 220 10% 94%;
+    --secondary-foreground: 0 0% 9%;
+    --accent: 220 10% 94%;
+    --accent-foreground: 0 0% 9%;
+    --ring: 220 15% 30%;
+    --footer-bg: 220 15% 10%;
+    --gradient-from: 210 18% 35%;
+    --gradient-to: 230 12% 25%;
+    --gradient-accent: 215 15% 50%;
+  }
+
+  /* Warm Terracotta - Earthy, inviting */
+  .theme-warm-terracotta {
+    --primary: 16 65% 50%;
+    --primary-light: 16 65% 70%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 16 30% 94%;
+    --secondary-foreground: 0 0% 9%;
+    --accent: 16 30% 94%;
+    --accent-foreground: 0 0% 9%;
+    --ring: 16 65% 50%;
+    --footer-bg: 16 50% 15%;
+    --gradient-from: 8 60% 52%;
+    --gradient-to: 28 55% 45%;
+    --gradient-accent: 20 50% 62%;
+  }
+
+  /* Midnight Navy - Classic, authoritative */
+  .theme-midnight-navy {
+    --primary: 222 47% 38%;
+    --primary-light: 222 47% 58%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 222 20% 94%;
+    --secondary-foreground: 0 0% 9%;
+    --accent: 222 20% 94%;
+    --accent-foreground: 0 0% 9%;
+    --ring: 222 47% 25%;
+    --footer-bg: 222 47% 10%;
+    --gradient-from: 210 45% 30%;
+    --gradient-to: 235 40% 22%;
+    --gradient-accent: 218 35% 45%;
+  }
+
+  /* ============================================
+     REACT-TEMPLATES THEME PRESETS
+     ============================================ */
+
+  /* Blue Classic - Deep professional blue */
+  .theme-blue-classic {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 9%;
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 9%;
+    --muted: 0 0% 96%;
+    --muted-foreground: 0 0% 45%;
+    --primary: 225 88% 28%;
+    --primary-light: 225 88% 60%;
+    --primary-foreground: 0 0% 98%;
+    --secondary: 0 0% 96%;
+    --secondary-foreground: 0 0% 9%;
+    --accent: 0 0% 96%;
+    --accent-foreground: 0 0% 9%;
+    --border: 0 0% 90%;
+    --ring: 225 88% 28%;
+    --footer-bg: 225 88% 12%;
+    --gradient-from: 210 85% 35%;
+    --gradient-to: 240 80% 25%;
+    --gradient-accent: 200 70% 55%;
+  }
+
+  /* Orange Classic - Vibrant, energetic */
+  .theme-orange-classic {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 9%;
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 9%;
+    --muted: 0 0% 96%;
+    --muted-foreground: 0 0% 45%;
+    --primary: 15 100% 48%;
+    --primary-light: 15 100% 68%;
+    --primary-foreground: 0 0% 98%;
+    --secondary: 220 14% 52%;
+    --secondary-foreground: 0 0% 100%;
+    --accent: 0 0% 96%;
+    --accent-foreground: 0 0% 9%;
+    --border: 0 0% 90%;
+    --ring: 15 100% 48%;
+    --footer-bg: 15 80% 15%;
+    --gradient-from: 8 100% 50%;
+    --gradient-to: 30 95% 48%;
+    --gradient-accent: 22 85% 60%;
+  }
+
+  /* Teal Classic - Fresh, modern service */
+  .theme-teal-classic {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 20%;
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 20%;
+    --muted: 210 20% 98%;
+    --muted-foreground: 215 19% 45%;
+    --primary: 176 100% 23%;
+    --primary-light: 176 100% 45%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 210 20% 96%;
+    --secondary-foreground: 215 16% 37%;
+    --accent: 214 50% 89%;
+    --accent-foreground: 222 75% 29%;
+    --border: 218 13% 88%;
+    --ring: 176 100% 23%;
+    --footer-bg: 176 100% 10%;
+    --gradient-from: 165 95% 28%;
+    --gradient-to: 190 85% 20%;
+    --gradient-accent: 170 70% 45%;
+  }
+
+  /* Green Classic - Eco, landscaping */
+  .theme-green-classic {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 9%;
+    --card: 0 0% 99%;
+    --card-foreground: 0 0% 9%;
+    --muted: 88 10% 96%;
+    --muted-foreground: 0 0% 32%;
+    --primary: 88 100% 25%;
+    --primary-light: 88 100% 50%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 88 40% 94%;
+    --secondary-foreground: 88 60% 20%;
+    --accent: 88 80% 92%;
+    --accent-foreground: 88 100% 25%;
+    --border: 240 13% 91%;
+    --ring: 88 100% 25%;
+    --footer-bg: 88 100% 10%;
+    --gradient-from: 78 95% 30%;
+    --gradient-to: 105 80% 22%;
+    --gradient-accent: 95 70% 45%;
+  }
+
+  /* Red Classic - Bold, contractor */
+  .theme-red-classic {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 9%;
+    --card: 0 0% 99%;
+    --card-foreground: 0 0% 9%;
+    --muted: 0 10% 96%;
+    --muted-foreground: 0 0% 32%;
+    --primary: 0 85% 40%;
+    --primary-light: 0 85% 65%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 0 40% 95%;
+    --secondary-foreground: 0 60% 30%;
+    --accent: 0 85% 94%;
+    --accent-foreground: 0 85% 40%;
+    --border: 240 13% 91%;
+    --ring: 0 85% 40%;
+    --footer-bg: 0 85% 15%;
+    --gradient-from: 350 80% 45%;
+    --gradient-to: 15 75% 38%;
+    --gradient-accent: 5 65% 58%;
+  }
+
+  /* Yellow Classic - Bright, attention-grabbing */
+  .theme-yellow-classic {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 20%;
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 20%;
+    --muted: 78 24% 98%;
+    --muted-foreground: 88 11% 47%;
+    --primary: 46 100% 50%;
+    --primary-light: 46 100% 70%;
+    --primary-foreground: 26 95% 13%;
+    --secondary: 85 25% 96%;
+    --secondary-foreground: 101 12% 37%;
+    --accent: 85 52% 89%;
+    --accent-foreground: 101 64% 33%;
+    --border: 80 14% 88%;
+    --ring: 46 100% 50%;
+    --footer-bg: 46 100% 18%;
+    --gradient-from: 38 95% 52%;
+    --gradient-to: 55 90% 48%;
+    --gradient-accent: 48 80% 62%;
+  }
+
+  /* Amber Minimal - Clean, modern */
+  .theme-amber-minimal {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 15%;
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 15%;
+    --muted: 204 20% 98%;
+    --muted-foreground: 215 12% 42%;
+    --primary: 42 100% 50%;
+    --primary-light: 42 100% 70%;
+    --primary-foreground: 0 0% 0%;
+    --secondary: 220 14% 96%;
+    --secondary-foreground: 215 13% 34%;
+    --accent: 48 100% 96%;
+    --accent-foreground: 30 100% 25%;
+    --border: 214 13% 90%;
+    --ring: 42 100% 50%;
+    --footer-bg: 42 100% 18%;
+    --gradient-from: 35 95% 52%;
+    --gradient-to: 50 90% 48%;
+    --gradient-accent: 42 80% 62%;
+  }
+
+  /* Green Fall - Earthy, warm */
+  .theme-green-fall {
+    --background: 0 0% 100%;
+    --foreground: 25 30% 15%;
+    --card: 0 0% 100%;
+    --card-foreground: 25 30% 15%;
+    --muted: 36 28% 95%;
+    --muted-foreground: 25 25% 40%;
+    --primary: 25 80% 35%;
+    --primary-light: 25 80% 60%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 85 40% 45%;
+    --secondary-foreground: 0 0% 100%;
+    --accent: 35 85% 50%;
+    --accent-foreground: 25 30% 15%;
+    --border: 36 20% 88%;
+    --ring: 25 80% 35%;
+    --footer-bg: 25 80% 15%;
+    --gradient-from: 18 75% 40%;
+    --gradient-to: 35 70% 32%;
+    --gradient-accent: 90 45% 42%;
+  }
+
+  .dark {
+    --background: 0 0% 7%;
+    --foreground: 0 0% 93%;
+    --card: 0 0% 10%;
+    --card-foreground: 0 0% 93%;
+    --popover: 0 0% 10%;
+    --popover-foreground: 0 0% 93%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 0 0% 15%;
+    --secondary-foreground: 0 0% 93%;
+    --muted: 0 0% 13%;
+    --muted-foreground: 0 0% 60%;
+    --accent: 0 0% 15%;
+    --accent-foreground: 0 0% 93%;
+    --destructive: 0 63% 55%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 0 0% 20%;
+    --input: 0 0% 20%;
+    --footer-bg: 0 0% 5%;
+  }
+}
+
+/* ============================================
+   RADIUS STYLES
+   Set via theme.json "radius" field
+   ============================================ */
+
+.radius-sharp {
+  --radius: 0;
+  --radius-card: 0;
+}
+
+.radius-subtle {
+  --radius: 0.25rem;
+  --radius-card: 0.25rem;
+}
+
+.radius-rounded {
+  --radius: 0.75rem;
+  --radius-card: 0.75rem;
+}
+
+.radius-pill {
+  --radius: 9999px;
+  --radius-card: 1.5rem; /* Cap card radius to avoid fully rounded cards */
+}
+
+/* ============================================
+   PAGE STYLES
+   Set via theme.json "pageStyle" field
+   ============================================ */
+
+/* Standard - Default spacing */
+.page-style-standard {
+  --section-py: 2.5rem;
+  --section-py-md: 3.5rem;
+}
+
+/* Compact - Less padding, denser content */
+.page-style-compact {
+  --section-py: 1.5rem;
+  --section-py-md: 2.5rem;
+}
+
+/* Spacious - More breathing room */
+.page-style-spacious {
+  --section-py: 3.5rem;
+  --section-py-md: 5rem;
+}
+
+/* Alternating - Alternating section backgrounds */
+.page-style-alternating {
+  --section-py: 2.5rem;
+  --section-py-md: 3.5rem;
+}
+
+/* Section padding utility - use these in section components */
+.section-padding {
+  padding-top: var(--section-py, 2.5rem);
+  padding-bottom: var(--section-py, 2.5rem);
+}
+
+@media (min-width: 768px) {
+  .section-padding {
+    padding-top: var(--section-py-md, 3.5rem);
+    padding-bottom: var(--section-py-md, 3.5rem);
+  }
+}
+
+/* Apply section padding as defaults in @layer base — Tailwind utilities can override */
+@layer base {
+  main > section:not(.hero-section):not(.no-auto-padding) {
+    padding-top: var(--section-py, 2.5rem);
+    padding-bottom: var(--section-py, 2.5rem);
+  }
+
+  @media (min-width: 768px) {
+    main > section:not(.hero-section):not(.no-auto-padding) {
+      padding-top: var(--section-py-md, 3.5rem);
+      padding-bottom: var(--section-py-md, 3.5rem);
+    }
+  }
+}
+
+/* Alternating backgrounds for page-style-alternating */
+/* Exclude sections with explicit background classes (bg-primary, bg-secondary, etc.) */
+.page-style-alternating section:nth-of-type(odd):not(.bg-primary):not(.bg-secondary):not(.bg-muted):not(.bg-accent):not([class*="bg-["]),
+.page-style-alternating main section:nth-of-type(odd):not(.bg-primary):not(.bg-secondary):not(.bg-muted):not(.bg-accent):not([class*="bg-["]) {
+  background-color: hsl(var(--background)) !important;
+}
+
+.page-style-alternating section:nth-of-type(even):not(.bg-primary):not(.bg-secondary):not(.bg-muted):not(.bg-accent):not([class*="bg-["]),
+.page-style-alternating main section:nth-of-type(even):not(.bg-primary):not(.bg-secondary):not(.bg-muted):not(.bg-accent):not([class*="bg-["]) {
+  background-color: hsl(var(--muted)) !important;
+}
+
+/* ============================================
+   FONT STYLES
+   Set via theme.json "fonts" field
+   10 font pairs available
+   ============================================ */
+
+/* Modern - Clean, versatile, tech-friendly */
+.fonts-modern {
+  --font-heading: var(--font-inter), system-ui, sans-serif;
+  --font-body: var(--font-inter), system-ui, sans-serif;
+}
+.fonts-modern :is(h1,h2,h3) { letter-spacing: -0.030em; }
+.fonts-modern h1 { zoom: 1.20; }
+
+/* Classic - Elegant serif headings with clean body */
+.fonts-classic {
+  --font-heading: var(--font-playfair), Georgia, serif;
+  --font-body: var(--font-source-sans), system-ui, sans-serif;
+}
+.fonts-classic h1 { zoom: 1.20; }
+.fonts-classic :is(h2,h3) { letter-spacing: 0.005em; }
+
+/* Bold - Strong, impactful for contractors */
+.fonts-bold {
+  --font-heading: var(--font-oswald), system-ui, sans-serif;
+  --font-body: var(--font-roboto), system-ui, sans-serif;
+}
+
+/* Friendly - Warm, approachable for family businesses */
+.fonts-friendly {
+  --font-heading: var(--font-nunito), system-ui, sans-serif;
+  --font-body: var(--font-open-sans), system-ui, sans-serif;
+}
+
+/* Geometric - Modern geometric, Google-inspired (default) */
+.fonts-geometric {
+  --font-heading: var(--font-onest), system-ui, sans-serif;
+  --font-body: var(--font-dm-sans), system-ui, sans-serif;
+}
+
+/* Professional - Corporate, trustworthy */
+.fonts-professional {
+  --font-heading: var(--font-montserrat), system-ui, sans-serif;
+  --font-body: var(--font-lato), system-ui, sans-serif;
+}
+
+/* Elegant - Refined, upscale for premium services */
+.fonts-elegant {
+  --font-heading: var(--font-cormorant), Georgia, serif;
+  --font-body: var(--font-libre-franklin), system-ui, sans-serif;
+}
+.fonts-elegant h1 { zoom: 1.20; }
+
+/* Tech - Technical, innovative */
+.fonts-tech {
+  --font-heading: var(--font-space-grotesk), system-ui, sans-serif;
+  --font-body: var(--font-ibm-plex), system-ui, sans-serif;
+}
+
+/* Readable - Maximum readability with serif headings */
+.fonts-readable {
+  --font-heading: var(--font-merriweather), Georgia, serif;
+  --font-body: var(--font-source-sans), system-ui, sans-serif;
+}
+
+/* Minimal - Clean, sleek, modern */
+.fonts-minimal {
+  --font-heading: var(--font-outfit), system-ui, sans-serif;
+  --font-body: var(--font-jakarta), system-ui, sans-serif;
+}
+.fonts-minimal h1 { zoom: 1.10; }
+
+/* Premium / Luxury */
+.fonts-editorial {
+  --font-heading: var(--font-instrument-serif), Georgia, serif;
+  --font-body: var(--font-instrument-sans), system-ui, sans-serif;
+}
+.fonts-editorial :is(h1,h2,h3) { letter-spacing: 0.020em; }
+.fonts-editorial h1 { zoom: 1.30; }
+.fonts-editorial :is(h2,h3) { zoom: 1.10; }
+
+.fonts-refined {
+  --font-heading: var(--font-dm-serif), Georgia, serif;
+  --font-body: var(--font-dm-sans), system-ui, sans-serif;
+}
+.fonts-refined h1 { zoom: 1.15; letter-spacing: 0.020em; }
+.fonts-refined h2 { letter-spacing: 0.010em; }
+.fonts-refined h3 { letter-spacing: 0.015em; }
+
+.fonts-artisan {
+  --font-heading: var(--font-fraunces), Georgia, serif;
+  --font-body: var(--font-epilogue), system-ui, sans-serif;
+}
+.fonts-artisan h1 { zoom: 1.10; }
+
+.fonts-magazine {
+  --font-heading: var(--font-bodoni), Georgia, serif;
+  --font-body: var(--font-outfit), system-ui, sans-serif;
+}
+.fonts-magazine h1 { zoom: 1.20; }
+
+.fonts-dignified {
+  --font-heading: var(--font-marcellus), Georgia, serif;
+  --font-body: var(--font-figtree), system-ui, sans-serif;
+}
+.fonts-dignified h1 { zoom: 1.20; }
+.fonts-dignified h2 { zoom: 1.05; }
+.fonts-dignified h3 { zoom: 1.05; letter-spacing: 0.005em; }
+
+/* Rugged / Industrial */
+.fonts-utility {
+  --font-heading: var(--font-barlow-condensed), system-ui, sans-serif;
+  --font-body: var(--font-barlow), system-ui, sans-serif;
+}
+.fonts-utility h1 { zoom: 1.30; }
+.fonts-utility h2 { zoom: 1.15; }
+.fonts-utility h3 { zoom: 1.05; letter-spacing: 0.005em; }
+
+.fonts-impact {
+  --font-heading: var(--font-bebas), system-ui, sans-serif;
+  --font-body: var(--font-open-sans), system-ui, sans-serif;
+}
+.fonts-impact h1 { zoom: 1.25; letter-spacing: 0.010em; }
+.fonts-impact h2 { zoom: 1.10; letter-spacing: 0.045em; }
+.fonts-impact h3 { zoom: 1.10; letter-spacing: 0.050em; }
+
+.fonts-industrial {
+  --font-heading: var(--font-big-shoulders), system-ui, sans-serif;
+  --font-body: var(--font-lexend), system-ui, sans-serif;
+}
+.fonts-industrial :is(h1,h2,h3,h4,h5,h6) { letter-spacing: 0.005em; }
+.fonts-industrial h1 { zoom: 1.25; }
+.fonts-industrial h2 { zoom: 1.20; }
+.fonts-industrial h3 { zoom: 1.10; }
+.fonts-industrial :is(p,li,td,th,dd,blockquote,figcaption) { zoom: 1.05; }
+
+.fonts-heritage {
+  --font-heading: var(--font-archivo-black), system-ui, sans-serif;
+  --font-body: var(--font-archivo), system-ui, sans-serif;
+}
+.fonts-heritage h1 { zoom: 1.10; }
+.fonts-heritage :is(h2,h3) { zoom: 0.95; }
+
+.fonts-precision {
+  --font-heading: var(--font-saira-condensed), system-ui, sans-serif;
+  --font-body: var(--font-saira), system-ui, sans-serif;
+}
+.fonts-precision h1 { zoom: 1.20; }
+.fonts-precision :is(h2,h3) { zoom: 1.10; }
+
+.fonts-billboard {
+  --font-heading: var(--font-anton), system-ui, sans-serif;
+  --font-body: var(--font-roboto-slab), 'Roboto Slab', serif;
+}
+.fonts-billboard :is(h1,h2,h3,h4,h5,h6) { letter-spacing: 0.025em; }
+.fonts-billboard h1 { zoom: 1.15; }
+.fonts-billboard h2 { zoom: 1.05; }
+.fonts-billboard h3 { zoom: 1.10; }
+
+/* Trendy / Modern */
+.fonts-expressive {
+  --font-heading: var(--font-bricolage), system-ui, sans-serif;
+  --font-body: var(--font-public-sans), system-ui, sans-serif;
+}
+
+.fonts-avant-garde {
+  --font-heading: var(--font-syne), system-ui, sans-serif;
+  --font-body: var(--font-geist), system-ui, sans-serif;
+}
+
+.fonts-dynamic {
+  --font-heading: var(--font-anybody), system-ui, sans-serif;
+  --font-body: var(--font-figtree), system-ui, sans-serif;
+}
+.fonts-dynamic h1 { zoom: 1.10; }
+.fonts-dynamic :is(h2,h3) { zoom: 0.90; }
+
+.fonts-polished {
+  --font-heading: var(--font-hanken), system-ui, sans-serif;
+  --font-body: var(--font-dm-sans), system-ui, sans-serif;
+}
+.fonts-polished h1 { zoom: 1.20; }
+
+/* Fontshare Self-Hosted */
+.fonts-design-forward {
+  --font-heading: var(--font-clash-display), system-ui, sans-serif;
+  --font-body: var(--font-satoshi), system-ui, sans-serif;
+}
+.fonts-design-forward :is(h1,h2,h3,h4,h5,h6) { letter-spacing: 0.010em; }
+.fonts-design-forward h1 { zoom: 1.15; }
+.fonts-design-forward h3 { zoom: 0.95; }
+.fonts-design-forward :is(p,li,td,th,dd,blockquote,figcaption) { zoom: 1.05; }
+
+.fonts-studio {
+  --font-heading: var(--font-cabinet-grotesk), system-ui, sans-serif;
+  --font-body: var(--font-general-sans), system-ui, sans-serif;
+}
+.fonts-studio h1 { zoom: 1.20; }
+.fonts-studio :is(h2,h3) { zoom: 1.05; }
+
+/* ============================================
+   BASE STYLES
+   ============================================ */
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply antialiased font-body text-base bg-background text-foreground;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading font-bold tracking-tight text-foreground;
+  }
+
+  h1 {
+    @apply text-5xl md:text-6xl lg:text-7xl;
+  }
+
+  h2 {
+    @apply text-4xl md:text-5xl;
+  }
+
+  h3 {
+    @apply text-2xl md:text-3xl;
+  }
+
+  h4 {
+    @apply text-xl md:text-2xl;
+  }
+
+  p {
+    @apply text-muted-foreground leading-relaxed text-lg;
+  }
+
+  a {
+    @apply transition-colors duration-200;
+  }
+}
+
+/* ============================================
+   COMPONENT STYLES
+   ============================================ */
+
+@layer components {
+  /* Note: section-padding is defined outside @layer to use CSS variables */
+
+  .container-custom {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  /* Card Styles - Controlled by theme */
+  .card {
+    @apply bg-card shadow-sm border border-border;
+    border-radius: var(--radius);
+  }
+
+  .card-hover {
+    @apply card transition-all duration-300 hover:shadow-md hover:border-border;
+  }
+
+  /* Card Style Variants */
+  .card-elevated {
+    @apply bg-white shadow-md border-0;
+    border-radius: var(--radius);
+  }
+
+  .card-bordered {
+    @apply bg-white border-2 border-slate-200 shadow-none;
+    border-radius: var(--radius);
+  }
+
+  .card-flat {
+    @apply bg-slate-50 border-0 shadow-none;
+    border-radius: var(--radius);
+  }
+
+  .card-glass {
+    @apply bg-white/70 backdrop-blur-md border border-white/20 shadow-lg;
+    border-radius: var(--radius);
+  }
+
+  /* Buttons */
+  .btn-primary {
+    @apply inline-flex items-center justify-center px-6 py-3 bg-primary text-primary-foreground font-medium
+           hover:bg-primary/90 transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2;
+    border-radius: var(--radius);
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center px-6 py-3 bg-secondary text-secondary-foreground font-medium border border-border
+           hover:bg-secondary/80 transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2;
+    border-radius: var(--radius);
+  }
+
+  .btn-emergency {
+    @apply inline-flex items-center justify-center px-6 py-3 bg-orange-500 text-white font-medium
+           hover:bg-orange-600 transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-orange-500 focus:ring-offset-2;
+    border-radius: var(--radius);
+  }
+
+  .input-field {
+    @apply w-full px-4 py-3 border border-input bg-background text-foreground placeholder-muted-foreground
+           focus:outline-none focus:ring-2 focus:ring-ring focus:border-transparent transition-all duration-200;
+    border-radius: var(--radius);
+  }
+
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-primary to-primary/70;
+  }
+
+  .link-primary {
+    @apply text-primary hover:text-primary/80 font-medium;
+  }
+
+  .badge {
+    @apply inline-flex items-center px-3 py-1 text-sm font-medium;
+    border-radius: var(--radius);
+  }
+
+  .badge-primary {
+    @apply badge bg-primary/10 text-primary;
+  }
+
+  .badge-green {
+    @apply badge bg-green-100 text-green-700;
+  }
+
+  .badge-orange {
+    @apply badge bg-orange-100 text-orange-700;
+  }
+}
+
+/* ============================================
+   FOOTER STYLE VARIANTS
+   ============================================ */
+
+/* Standard Footer - Full multi-column layout */
+.footer-standard {
+  /* Default - no overrides needed */
+}
+
+/* Minimal Footer - Single row, compact */
+.footer-minimal .footer-main {
+  @apply py-6;
+}
+
+.footer-minimal .footer-main > div {
+  @apply flex flex-wrap items-center justify-between gap-4;
+}
+
+.footer-minimal .footer-links-grid {
+  @apply hidden;
+}
+
+.footer-minimal .footer-contact-inline {
+  @apply flex items-center gap-6;
+}
+
+/* Centered Footer - Logo and links centered */
+.footer-centered .footer-main > div {
+  @apply text-center;
+}
+
+.footer-centered .footer-logo-section {
+  @apply flex flex-col items-center;
+}
+
+.footer-centered .footer-links-grid {
+  @apply justify-center;
+}
+
+/* Dark Footer - Extra dark background */
+.footer-dark {
+  --footer-opacity: 0.95;
+}
+
+/* ============================================
+   GRADIENT & GLASS UTILITIES
+   ============================================ */
+
+.text-gradient-theme {
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  background-image: linear-gradient(135deg, hsl(var(--gradient-from)), hsl(var(--gradient-to)));
+}
+
+.bg-gradient-theme {
+  background-image: linear-gradient(135deg, hsl(var(--gradient-from)), hsl(var(--gradient-to)));
+}
+
+.bg-gradient-theme-subtle {
+  background-image: linear-gradient(135deg, hsl(var(--gradient-from) / 0.05), hsl(var(--gradient-to) / 0.08));
+}
+
+.bg-gradient-theme-vibrant {
+  background-image: linear-gradient(135deg, hsl(var(--gradient-from) / 0.1), hsl(var(--gradient-to) / 0.15));
+}
+
+/* ============================================
+   UTILITIES
+   ============================================ */
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* ============================================
+   CUSTOM SCROLLBAR
+   ============================================ */
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-muted;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-muted-foreground/30 rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-muted-foreground/50;
+}
+
+/* Focus visible for accessibility */
+:focus-visible {
+  @apply outline-none ring-2 ring-ring ring-offset-2;
+}

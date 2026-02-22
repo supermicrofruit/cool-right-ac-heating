@@ -1,0 +1,84 @@
+{
+  "categories": [
+    {
+      "name": "General",
+      "slug": "general",
+      "faqs": [
+        {
+          "question": "How quickly can you start a project?",
+          "answer": "For lawn care and maintenance, we can usually start within a week. Design and hardscaping projects are typically scheduled 2-4 weeks out depending on the season. {{city}} spring is our busiest time, so we recommend booking early."
+        },
+        {
+          "question": "Do you offer free estimates?",
+          "answer": "Yes. {{businessName}} provides free, no-obligation estimates for all landscaping projects. For design work, we offer a free initial consultation to discuss your vision, budget, and timeline. Call us at {{phone}} to schedule yours."
+        },
+        {
+          "question": "Are you licensed and insured?",
+          "answer": "Absolutely. {{businessName}} is fully licensed ({{licenseNumber}}), bonded, and insured. Our crews are trained professionals who treat your property with care and follow all local {{city}} regulations."
+        },
+        {
+          "question": "Do you guarantee your work?",
+          "answer": "Yes. We stand behind everything we do. Plants are guaranteed for one full growing season. Hardscaping comes with a {{warrantyYears}}-year workmanship warranty. If something is not right, we will make it right."
+        }
+      ]
+    },
+    {
+      "name": "Lawn Care",
+      "slug": "lawn-care",
+      "faqs": [
+        {
+          "question": "How often should my lawn be mowed?",
+          "answer": "During peak growing season, weekly mowing is recommended to keep your lawn healthy and looking sharp. In slower seasons, biweekly is usually sufficient. {{businessName}} adjusts the schedule based on growth rates and weather conditions in {{city}}."
+        },
+        {
+          "question": "When should I fertilize my lawn?",
+          "answer": "Fertilization timing depends on your grass type. Cool-season grasses benefit from spring and fall applications, while warm-season grasses do best with summer fertilization. We create a custom fertilization schedule tailored to your lawn and {{city}}'s climate."
+        },
+        {
+          "question": "How do I get rid of weeds without killing my lawn?",
+          "answer": "The best approach combines pre-emergent treatments in early spring, targeted post-emergent applications for existing weeds, and proper lawn care practices that promote thick, healthy turf. A dense, well-maintained lawn is your best long-term defense against weeds."
+        },
+        {
+          "question": "Do you offer ongoing maintenance plans?",
+          "answer": "Yes. We offer weekly, biweekly, and monthly maintenance plans that include mowing, edging, trimming, fertilization, and seasonal treatments. Plans are customized to your property's size and needs. Call {{phone}} to discuss options."
+        }
+      ]
+    },
+    {
+      "name": "Design & Installation",
+      "slug": "design-installation",
+      "faqs": [
+        {
+          "question": "How long does a full landscape design project take?",
+          "answer": "The design phase typically takes 1-2 weeks depending on project complexity. Installation ranges from a few days for simple plantings to 2-4 weeks for complete landscape transformations including hardscaping, irrigation, and lighting."
+        },
+        {
+          "question": "Can I do the project in phases to spread out the cost?",
+          "answer": "Absolutely. Phased installation is one of the most popular approaches we offer. We design the complete vision upfront, then prioritize and install in stages that fit your budget. Many {{city}} homeowners spread their project over two or three seasons."
+        },
+        {
+          "question": "What materials do you recommend for patios?",
+          "answer": "For {{city}}'s climate, we typically recommend concrete pavers or natural stone like travertine and flagstone. Both are durable, low-maintenance, and available in many styles and colors. We will help you choose the best option based on your design preferences and budget."
+        }
+      ]
+    },
+    {
+      "name": "Irrigation & Maintenance",
+      "slug": "irrigation-maintenance",
+      "faqs": [
+        {
+          "question": "How much water can I save with a drip irrigation system?",
+          "answer": "Drip irrigation typically reduces water usage by 40-60% compared to traditional sprinkler systems. Combined with a smart controller that adjusts to weather conditions, many {{city}} homeowners see their outdoor water bills cut in half."
+        },
+        {
+          "question": "How often should my irrigation system be serviced?",
+          "answer": "We recommend a full system inspection at least twice per year — once in spring before the growing season and once in fall for winterization. Regular checks catch leaks and broken heads early, preventing water waste and plant damage."
+        },
+        {
+          "question": "What is the best time to water my landscape?",
+          "answer": "Early morning between 4 AM and 6 AM is ideal. Watering at this time minimizes evaporation, reduces disease risk from wet foliage overnight, and ensures plants have moisture available before the heat of the day. {{businessName}} programs all smart controllers for optimal timing."
+        }
+      ]
+    }
+  ]
+}

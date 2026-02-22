@@ -1,0 +1,86 @@
+{
+  "name": "Desert Aire Comfort",
+  "legalName": "Desert Aire Comfort LLC",
+  "phone": "(602) 555-2665",
+  "phoneRaw": "+16025552665",
+  "email": "info@desertairecomfort.com",
+  "website": "https://desertairecomfort.com",
+  "vertical": "hvac",
+  "region": "Arizona",
+  "address": {
+    "street": "4821 N 24th Street",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85016",
+    "full": "4821 N 24th Street, Phoenix, AZ 85016"
+  },
+  "coordinates": {
+    "lat": 33.4942,
+    "lng": -112.0301
+  },
+  "hours": {
+    "weekdays": "7:00 AM - 8:00 PM",
+    "saturday": "7:00 AM - 8:00 PM",
+    "sunday": "Emergency Only",
+    "structured": [
+      { "days": "Monday - Friday", "hours": "7:00 AM - 8:00 PM" },
+      { "days": "Saturday", "hours": "7:00 AM - 8:00 PM" },
+      { "days": "Sunday", "hours": "Emergency Only" }
+    ]
+  },
+  "licenses": [
+    "ROC #298847",
+    "EPA 608 Certified",
+    "NATE Certified Technicians"
+  ],
+  "certifications": [
+    "Carrier Factory Authorized Dealer",
+    "BBB A+ Rating",
+    "Trane Comfort Specialist",
+    "Lennox Premier Dealer"
+  ],
+  "established": 2010,
+  "rating": 4.9,
+  "reviewCount": 847,
+  "description": "Desert Aire Comfort has been providing reliable HVAC services to the Phoenix metro area since 2010. Our team of NATE-certified technicians delivers expert heating and cooling solutions with a commitment to quality workmanship and customer satisfaction.",
+  "tagline": "Your Comfort, Our Priority",
+  "emergencyService": true,
+  "financing": true,
+  "freeEstimates": true,
+  "responseTime": "2 hours",
+  "warrantyYears": 2,
+  "maintenancePointCount": 21,
+  "socialMedia": {
+    "facebook": "https://facebook.com/desertairecomfort",
+    "instagram": "https://instagram.com/desertairecomfort",
+    "google": "https://g.page/desertairecomfort"
+  },
+
+  "theme": {
+    "preset": "bold-orange",
+    "logo": "/images/logo.png",
+    "favicon": "/favicon.ico"
+  },
+
+  "features": {
+    "showTeam": true,
+    "showBlog": true,
+    "showWorks": true,
+    "showFinancing": true,
+    "emergencyBadge": true,
+    "callbackWidget": true,
+    "stickyPhone": true
+  },
+
+  "seo": {
+    "titleTemplate": "%s | Desert Aire Comfort",
+    "defaultDescription": "Professional HVAC services in Phoenix, AZ. AC repair, installation, and maintenance. 24/7 emergency service. Call (602) 555-2665."
+  },
+
+  "forms": {
+    "notifyEmail": "leads@desertairecomfort.com",
+    "webhookUrl": "",
+    "successMessage": "Thanks! We'll contact you within 2 hours.",
+    "errorMessage": "Something went wrong. Please call us directly."
+  }
+}

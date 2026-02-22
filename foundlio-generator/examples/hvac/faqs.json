@@ -1,0 +1,110 @@
+{
+  "categories": [
+    {
+      "name": "General",
+      "slug": "general",
+      "faqs": [
+        {
+          "question": "What areas do you serve?",
+          "answer": "We serve the entire Phoenix metro area including Phoenix, Scottsdale, Mesa, Tempe, Chandler, Gilbert, Glendale, Peoria, Surprise, and Goodyear. Our service radius extends approximately 50 miles from central Phoenix."
+        },
+        {
+          "question": "Are you licensed and insured?",
+          "answer": "Yes, we are fully licensed (ROC #298847), bonded, and insured. All our technicians are NATE-certified and EPA 608 certified for refrigerant handling."
+        },
+        {
+          "question": "Do you offer financing?",
+          "answer": "Yes, we offer flexible financing options for new system installations. We work with multiple lenders to find options that fit your budget, including 0% interest plans for qualified buyers."
+        },
+        {
+          "question": "Do you provide free estimates?",
+          "answer": "Yes, we provide free in-home estimates for new system installations. For repair diagnostics, there is a service call fee that gets waived if you proceed with the repair."
+        }
+      ]
+    },
+    {
+      "name": "AC Repair",
+      "slug": "ac-repair",
+      "faqs": [
+        {
+          "question": "How quickly can you come for an AC repair?",
+          "answer": "We offer same-day service for most AC repairs. For emergencies, we have technicians available 24/7 and typically arrive within 2-4 hours of your call."
+        },
+        {
+          "question": "How much does AC repair cost?",
+          "answer": "Repair costs vary depending on the issue. Simple fixes like capacitor replacement may cost $150-$300, while compressor repairs can range from $400-$1,500. We always provide upfront pricing before any work begins."
+        },
+        {
+          "question": "Should I repair or replace my AC unit?",
+          "answer": "Generally, if your system is over 10-15 years old, requires frequent repairs, or the repair cost exceeds 50% of a new system's price, replacement may be more cost-effective. We'll give you an honest assessment."
+        },
+        {
+          "question": "Do you repair all AC brands?",
+          "answer": "Yes, our technicians are trained to repair all major brands including Carrier, Trane, Lennox, Goodman, Rheem, Ruud, American Standard, and more."
+        }
+      ]
+    },
+    {
+      "name": "AC Installation",
+      "slug": "ac-installation",
+      "faqs": [
+        {
+          "question": "How long does AC installation take?",
+          "answer": "A standard AC replacement typically takes 4-8 hours and is completed in one day. Complete system replacements including ductwork may take 1-2 days."
+        },
+        {
+          "question": "What size AC do I need?",
+          "answer": "Proper sizing requires a load calculation that considers your home's square footage, insulation, windows, and other factors. We perform this calculation during our free estimate to ensure you get the right size."
+        },
+        {
+          "question": "What brands do you install?",
+          "answer": "We're a Carrier Factory Authorized Dealer and also install Trane, Lennox, and other premium brands. We'll recommend the best option based on your needs and budget."
+        },
+        {
+          "question": "What warranty comes with a new AC?",
+          "answer": "New systems typically include manufacturer warranties of 5-10 years on parts and compressor. We also provide our own 1-year labor warranty on all installations."
+        }
+      ]
+    },
+    {
+      "name": "Maintenance",
+      "slug": "maintenance",
+      "faqs": [
+        {
+          "question": "How often should I have my AC serviced?",
+          "answer": "We recommend having your AC serviced at least once a year, ideally in spring before the summer heat arrives. Heating systems should be serviced in fall. Twice-yearly service is best for optimal performance."
+        },
+        {
+          "question": "What's included in an AC tune-up?",
+          "answer": "Our 21-point tune-up includes cleaning coils, checking refrigerant levels, inspecting electrical connections, lubricating moving parts, testing thermostat calibration, and replacing filters."
+        },
+        {
+          "question": "How often should I change my air filter?",
+          "answer": "Standard 1-inch filters should be changed monthly during heavy use. Higher-quality 4-inch filters can last 3-6 months. Homes with pets or allergies may need more frequent changes."
+        },
+        {
+          "question": "Do you offer maintenance plans?",
+          "answer": "Yes, our maintenance plans include annual tune-ups, priority scheduling, discounts on repairs, and no overtime charges for emergency service. Plans start at just $15/month."
+        }
+      ]
+    },
+    {
+      "name": "Emergency Service",
+      "slug": "emergency",
+      "faqs": [
+        {
+          "question": "What qualifies as an HVAC emergency?",
+          "answer": "An HVAC emergency includes complete system failure during extreme temperatures, gas leaks, burning smells, carbon monoxide alarms, or any situation that threatens health or safety."
+        },
+        {
+          "question": "Do you charge extra for nights and weekends?",
+          "answer": "We do have a modest emergency service fee for after-hours calls, but we don't charge excessive overtime rates like some companies. Our pricing is always transparent and upfront."
+        },
+        {
+          "question": "What should I do while waiting for emergency service?",
+          "answer": "For AC emergencies, close blinds to block sun, turn off heat-generating appliances, and stay hydrated. For heating emergencies, use space heaters safely and dress in layers. For gas smells, leave the house immediately."
+        }
+      ]
+    }
+  ]
+}

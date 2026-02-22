@@ -1,0 +1,563 @@
+{
+  "hvac": {
+    "services": [
+      {
+        "slug": "ac-repair",
+        "name": "AC Repair",
+        "shortTemplate": "Fast, reliable air conditioning repair services to restore your comfort quickly.",
+        "icon": "Wrench",
+        "category": "cooling",
+        "emergency": true,
+        "featureTemplates": [
+          "Same-day service available",
+          "All major brands serviced",
+          "Upfront, transparent pricing",
+          "90-day repair warranty",
+          "EPA-certified refrigerant handling",
+          "24/7 emergency availability"
+        ],
+        "benefitTemplates": [
+          "Restore comfort quickly",
+          "Prevent costly breakdowns",
+          "Extend system lifespan",
+          "Improve energy efficiency"
+        ]
+      },
+      {
+        "slug": "ac-installation",
+        "name": "AC Installation",
+        "shortTemplate": "Professional air conditioning installation with top-rated equipment and expert craftsmanship.",
+        "icon": "AirVent",
+        "category": "cooling",
+        "emergency": false,
+        "featureTemplates": [
+          "Free in-home consultations",
+          "Load calculation for proper sizing",
+          "Premium equipment options",
+          "Manufacturer warranties up to 10 years",
+          "Financing options available",
+          "Professional disposal of old units"
+        ],
+        "benefitTemplates": [
+          "Lower energy bills",
+          "Improved indoor comfort",
+          "Quieter operation",
+          "Better humidity control"
+        ]
+      },
+      {
+        "slug": "ac-maintenance",
+        "name": "AC Maintenance",
+        "shortTemplate": "Preventive AC maintenance to keep your system running efficiently all season long.",
+        "icon": "Settings",
+        "category": "cooling",
+        "emergency": false,
+        "featureTemplates": [
+          "{{maintenancePointCount}}-point inspection",
+          "Coil cleaning included",
+          "Refrigerant level check",
+          "Filter replacement",
+          "Thermostat calibration",
+          "Priority scheduling for members"
+        ],
+        "benefitTemplates": [
+          "Prevent breakdowns",
+          "Lower energy costs",
+          "Extend equipment life",
+          "Maintain warranty coverage"
+        ]
+      },
+      {
+        "slug": "heating-repair",
+        "name": "Heating Repair",
+        "shortTemplate": "Expert heating system repair to keep your home warm during cool nights.",
+        "icon": "Flame",
+        "category": "heating",
+        "emergency": true,
+        "featureTemplates": [
+          "All heating system types",
+          "Gas and electric systems",
+          "Safety inspections included",
+          "Same-day service available",
+          "Carbon monoxide testing",
+          "Honest repair recommendations"
+        ],
+        "benefitTemplates": [
+          "Restore home warmth",
+          "Ensure safe operation",
+          "Prevent heat loss",
+          "Lower heating bills"
+        ]
+      },
+      {
+        "slug": "heating-installation",
+        "name": "Heating Installation",
+        "shortTemplate": "Quality heating system installation for reliable winter comfort.",
+        "icon": "Home",
+        "category": "heating",
+        "emergency": false,
+        "featureTemplates": [
+          "High-efficiency options",
+          "Heat pump specialists",
+          "Dual-fuel systems",
+          "Proper sizing guaranteed",
+          "Full system warranties",
+          "Flexible financing"
+        ],
+        "benefitTemplates": [
+          "Energy savings",
+          "Reliable warmth",
+          "Quiet operation",
+          "Long-term value"
+        ]
+      },
+      {
+        "slug": "duct-cleaning",
+        "name": "Duct Cleaning",
+        "shortTemplate": "Professional duct cleaning to improve air quality and system efficiency.",
+        "icon": "Wind",
+        "category": "air-quality",
+        "emergency": false,
+        "featureTemplates": [
+          "NADCA-certified process",
+          "Before and after photos",
+          "All vents included",
+          "Sanitizing treatment available",
+          "Dryer vent cleaning add-on",
+          "No hidden fees"
+        ],
+        "benefitTemplates": [
+          "Cleaner indoor air",
+          "Reduced allergens",
+          "Better airflow",
+          "Lower energy bills"
+        ]
+      },
+      {
+        "slug": "indoor-air-quality",
+        "name": "Indoor Air Quality",
+        "shortTemplate": "Complete indoor air quality solutions for a healthier home environment.",
+        "icon": "Sparkles",
+        "category": "air-quality",
+        "emergency": false,
+        "featureTemplates": [
+          "Air quality testing",
+          "HEPA filtration systems",
+          "UV germicidal lights",
+          "Whole-home humidifiers",
+          "Air purifier installation",
+          "Custom solutions"
+        ],
+        "benefitTemplates": [
+          "Healthier breathing",
+          "Reduced allergies",
+          "Eliminate odors",
+          "Protect family health"
+        ]
+      },
+      {
+        "slug": "emergency-hvac",
+        "name": "Emergency HVAC Service",
+        "shortTemplate": "24/7 emergency HVAC repair when you need it most.",
+        "icon": "AlertCircle",
+        "category": "emergency",
+        "emergency": true,
+        "featureTemplates": [
+          "24/7 availability",
+          "Fast response times",
+          "Fully-stocked trucks",
+          "All systems serviced",
+          "No overtime charges nights/weekends",
+          "Licensed and insured"
+        ],
+        "benefitTemplates": [
+          "Peace of mind",
+          "Rapid restoration",
+          "Expert diagnosis",
+          "Safety assurance"
+        ]
+      }
+    ],
+    "categories": [
+      { "slug": "cooling", "name": "Cooling Services", "icon": "Snowflake" },
+      { "slug": "heating", "name": "Heating Services", "icon": "Flame" },
+      { "slug": "air-quality", "name": "Air Quality", "icon": "Wind" },
+      { "slug": "emergency", "name": "Emergency Services", "icon": "AlertCircle" }
+    ]
+  },
+  "plumbing": {
+    "services": [
+      {
+        "slug": "drain-cleaning",
+        "name": "Drain Cleaning",
+        "shortTemplate": "Professional drain cleaning services to clear clogs and restore proper flow.",
+        "icon": "Droplet",
+        "category": "drains",
+        "emergency": true,
+        "featureTemplates": [
+          "Hydro jetting available",
+          "Camera inspection",
+          "All drain types",
+          "Same-day service",
+          "Preventive maintenance",
+          "Recurring clog solutions"
+        ],
+        "benefitTemplates": [
+          "Restore proper drainage",
+          "Prevent backups",
+          "Eliminate odors",
+          "Long-term solutions"
+        ]
+      },
+      {
+        "slug": "water-heater-repair",
+        "name": "Water Heater Repair",
+        "shortTemplate": "Expert water heater repair to restore your hot water quickly.",
+        "icon": "Flame",
+        "category": "water-heaters",
+        "emergency": true,
+        "featureTemplates": [
+          "Tank and tankless",
+          "Gas and electric",
+          "Same-day service",
+          "All major brands",
+          "Diagnostic included",
+          "Repair warranties"
+        ],
+        "benefitTemplates": [
+          "Restore hot water fast",
+          "Extend equipment life",
+          "Improve efficiency",
+          "Prevent water damage"
+        ]
+      },
+      {
+        "slug": "water-heater-installation",
+        "name": "Water Heater Installation",
+        "shortTemplate": "Professional water heater installation for reliable hot water.",
+        "icon": "Home",
+        "category": "water-heaters",
+        "emergency": false,
+        "featureTemplates": [
+          "Tank and tankless options",
+          "Energy-efficient models",
+          "Proper sizing",
+          "Code compliant installation",
+          "Manufacturer warranties",
+          "Old unit disposal"
+        ],
+        "benefitTemplates": [
+          "Reliable hot water",
+          "Lower energy bills",
+          "More capacity",
+          "Modern features"
+        ]
+      },
+      {
+        "slug": "leak-repair",
+        "name": "Leak Detection & Repair",
+        "shortTemplate": "Fast leak detection and repair to protect your home from water damage.",
+        "icon": "AlertCircle",
+        "category": "repairs",
+        "emergency": true,
+        "featureTemplates": [
+          "Electronic leak detection",
+          "Slab leak specialists",
+          "Non-invasive methods",
+          "24/7 emergency service",
+          "Insurance documentation",
+          "Complete repairs"
+        ],
+        "benefitTemplates": [
+          "Stop water damage",
+          "Protect your home",
+          "Save on water bills",
+          "Peace of mind"
+        ]
+      },
+      {
+        "slug": "sewer-service",
+        "name": "Sewer Line Service",
+        "shortTemplate": "Complete sewer line repair, replacement, and cleaning services.",
+        "icon": "Wrench",
+        "category": "drains",
+        "emergency": false,
+        "featureTemplates": [
+          "Camera inspection",
+          "Trenchless repair options",
+          "Root removal",
+          "Complete replacement",
+          "Permit handling",
+          "Video documentation"
+        ],
+        "benefitTemplates": [
+          "Restore proper function",
+          "Prevent backups",
+          "Protect property",
+          "Long-term solution"
+        ]
+      },
+      {
+        "slug": "repiping",
+        "name": "Whole House Repiping",
+        "shortTemplate": "Complete repiping services to upgrade your home's plumbing system.",
+        "icon": "Home",
+        "category": "repairs",
+        "emergency": false,
+        "featureTemplates": [
+          "Copper and PEX options",
+          "Polybutylene replacement",
+          "Minimal wall damage",
+          "Full system upgrade",
+          "Permits included",
+          "Lifetime warranty available"
+        ],
+        "benefitTemplates": [
+          "Better water pressure",
+          "Improved water quality",
+          "Prevent leaks",
+          "Increase home value"
+        ]
+      },
+      {
+        "slug": "fixture-installation",
+        "name": "Fixture Installation",
+        "shortTemplate": "Expert installation of faucets, toilets, sinks, and more.",
+        "icon": "Settings",
+        "category": "installation",
+        "emergency": false,
+        "featureTemplates": [
+          "All fixture types",
+          "All major brands",
+          "Code compliant",
+          "Clean installation",
+          "Disposal of old fixtures",
+          "Satisfaction guaranteed"
+        ],
+        "benefitTemplates": [
+          "Modern updates",
+          "Proper function",
+          "Water efficiency",
+          "Professional finish"
+        ]
+      },
+      {
+        "slug": "emergency-plumbing",
+        "name": "Emergency Plumbing",
+        "shortTemplate": "24/7 emergency plumbing service when you need it most.",
+        "icon": "AlertCircle",
+        "category": "emergency",
+        "emergency": true,
+        "featureTemplates": [
+          "24/7 availability",
+          "Fast response",
+          "Fully-equipped trucks",
+          "All plumbing emergencies",
+          "Water shutoff assistance",
+          "Licensed and insured"
+        ],
+        "benefitTemplates": [
+          "Stop the damage",
+          "Fast resolution",
+          "Expert help anytime",
+          "Peace of mind"
+        ]
+      }
+    ],
+    "categories": [
+      { "slug": "drains", "name": "Drain Services", "icon": "Droplet" },
+      { "slug": "water-heaters", "name": "Water Heaters", "icon": "Flame" },
+      { "slug": "repairs", "name": "Repairs", "icon": "Wrench" },
+      { "slug": "installation", "name": "Installation", "icon": "Settings" },
+      { "slug": "emergency", "name": "Emergency", "icon": "AlertCircle" }
+    ]
+  },
+  "electrical": {
+    "services": [
+      {
+        "slug": "panel-upgrade",
+        "name": "Panel Upgrades",
+        "shortTemplate": "Electrical panel upgrades to meet your home's modern power needs.",
+        "icon": "Zap",
+        "category": "upgrades",
+        "emergency": false,
+        "featureTemplates": [
+          "100A to 200A+ upgrades",
+          "Code compliant installation",
+          "Permit handling",
+          "Whole-home assessment",
+          "Surge protection options",
+          "Future capacity planning"
+        ],
+        "benefitTemplates": [
+          "Handle modern loads",
+          "Improve safety",
+          "Enable EV charging",
+          "Add home value"
+        ]
+      },
+      {
+        "slug": "rewiring",
+        "name": "Whole Home Rewiring",
+        "shortTemplate": "Complete electrical rewiring for older homes and upgrades.",
+        "icon": "Home",
+        "category": "upgrades",
+        "emergency": false,
+        "featureTemplates": [
+          "Aluminum wire replacement",
+          "Older home specialists",
+          "Minimal wall impact",
+          "Code compliance",
+          "All permits included",
+          "Warranty on work"
+        ],
+        "benefitTemplates": [
+          "Modern safe wiring",
+          "Prevent fire hazards",
+          "Insurance compliance",
+          "Support modern loads"
+        ]
+      },
+      {
+        "slug": "outlets-switches",
+        "name": "Outlet & Switch Installation",
+        "shortTemplate": "Professional installation of outlets, switches, and USB charging ports.",
+        "icon": "Settings",
+        "category": "installation",
+        "emergency": false,
+        "featureTemplates": [
+          "GFCI outlets",
+          "USB outlets",
+          "Smart switches",
+          "Outdoor outlets",
+          "Code compliant",
+          "Clean installation"
+        ],
+        "benefitTemplates": [
+          "More power access",
+          "Modern convenience",
+          "Improved safety",
+          "Smart home ready"
+        ]
+      },
+      {
+        "slug": "lighting",
+        "name": "Lighting Installation",
+        "shortTemplate": "Indoor and outdoor lighting installation and upgrades.",
+        "icon": "Sun",
+        "category": "installation",
+        "emergency": false,
+        "featureTemplates": [
+          "Recessed lighting",
+          "Landscape lighting",
+          "LED upgrades",
+          "Dimmer installation",
+          "Smart lighting",
+          "Design consultation"
+        ],
+        "benefitTemplates": [
+          "Better ambiance",
+          "Energy savings",
+          "Curb appeal",
+          "Smart control"
+        ]
+      },
+      {
+        "slug": "generator-installation",
+        "name": "Generator Installation",
+        "shortTemplate": "Standby and portable generator installation for backup power.",
+        "icon": "Battery",
+        "category": "backup",
+        "emergency": false,
+        "featureTemplates": [
+          "Whole-house generators",
+          "Automatic transfer switches",
+          "Proper sizing",
+          "All permits",
+          "Fuel options",
+          "Maintenance plans"
+        ],
+        "benefitTemplates": [
+          "Never lose power",
+          "Protect family",
+          "Preserve food/medicine",
+          "Work from home"
+        ]
+      },
+      {
+        "slug": "ev-charger",
+        "name": "EV Charger Installation",
+        "shortTemplate": "Home electric vehicle charger installation for convenient charging.",
+        "icon": "Car",
+        "category": "modern",
+        "emergency": false,
+        "featureTemplates": [
+          "Level 2 chargers",
+          "Tesla certified",
+          "Universal chargers",
+          "Panel assessment",
+          "Permit handling",
+          "Rebate assistance"
+        ],
+        "benefitTemplates": [
+          "Charge at home",
+          "Faster charging",
+          "Save money",
+          "Convenient"
+        ]
+      },
+      {
+        "slug": "troubleshooting",
+        "name": "Electrical Troubleshooting",
+        "shortTemplate": "Expert diagnosis and repair of electrical problems.",
+        "icon": "Search",
+        "category": "repairs",
+        "emergency": true,
+        "featureTemplates": [
+          "Circuit tracing",
+          "Outlet testing",
+          "Panel diagnosis",
+          "24/7 emergency service",
+          "All electrical issues",
+          "Upfront pricing"
+        ],
+        "benefitTemplates": [
+          "Find the problem",
+          "Restore power",
+          "Prevent hazards",
+          "Peace of mind"
+        ]
+      },
+      {
+        "slug": "safety-inspection",
+        "name": "Electrical Safety Inspection",
+        "shortTemplate": "Comprehensive electrical inspection for safety and code compliance.",
+        "icon": "Shield",
+        "category": "safety",
+        "emergency": false,
+        "featureTemplates": [
+          "Full home inspection",
+          "Written report",
+          "Code compliance check",
+          "Insurance documentation",
+          "Real estate inspections",
+          "Upgrade recommendations"
+        ],
+        "benefitTemplates": [
+          "Know your home is safe",
+          "Insurance compliance",
+          "Identify issues",
+          "Plan upgrades"
+        ]
+      }
+    ],
+    "categories": [
+      { "slug": "upgrades", "name": "Upgrades", "icon": "Zap" },
+      { "slug": "installation", "name": "Installation", "icon": "Settings" },
+      { "slug": "modern", "name": "Modern Living", "icon": "Smartphone" },
+      { "slug": "backup", "name": "Backup Power", "icon": "Battery" },
+      { "slug": "repairs", "name": "Repairs", "icon": "Wrench" },
+      { "slug": "safety", "name": "Safety", "icon": "Shield" }
+    ]
+  }
+}

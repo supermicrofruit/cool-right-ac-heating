@@ -1,0 +1,221 @@
+{
+  "badges": {
+    "universal": [
+      {
+        "text": "Licensed & Insured",
+        "icon": "Shield",
+        "description": "Fully licensed, bonded, and insured for your protection"
+      },
+      {
+        "text": "{{rating}} Rating",
+        "icon": "Star",
+        "description": "{{reviewCount}}+ verified customer reviews"
+      },
+      {
+        "text": "{{yearsInBusiness}}+ Years",
+        "icon": "Clock",
+        "description": "Serving {{city}} since {{establishedYear}}"
+      },
+      {
+        "text": "Same-Day Service",
+        "icon": "Zap",
+        "description": "Available for most repairs and emergencies"
+      },
+      {
+        "text": "Free Estimates",
+        "icon": "FileText",
+        "description": "No-obligation quotes for your project"
+      },
+      {
+        "text": "Satisfaction Guaranteed",
+        "icon": "ThumbsUp",
+        "description": "Not happy? We'll make it right"
+      }
+    ],
+    "emergency": [
+      {
+        "text": "24/7 Emergency Service",
+        "icon": "AlertCircle",
+        "description": "Available around the clock for emergencies"
+      },
+      {
+        "text": "{{responseTime}} Response",
+        "icon": "Timer",
+        "description": "Fast arrival when you need us most"
+      }
+    ],
+    "quality": [
+      {
+        "text": "{{warrantyYears}}-Year Warranty",
+        "icon": "Shield",
+        "description": "All work backed by our guarantee"
+      },
+      {
+        "text": "Upfront Pricing",
+        "icon": "DollarSign",
+        "description": "Know the cost before we start"
+      },
+      {
+        "text": "Background Checked",
+        "icon": "UserCheck",
+        "description": "All technicians fully vetted"
+      }
+    ]
+  },
+  "stats": {
+    "templates": [
+      {
+        "value": "{{reviewCount}}+",
+        "label": "Happy Customers",
+        "icon": "Users"
+      },
+      {
+        "value": "{{yearsInBusiness}}",
+        "label": "Years in Business",
+        "icon": "Calendar"
+      },
+      {
+        "value": "{{rating}}",
+        "label": "Star Rating",
+        "icon": "Star"
+      },
+      {
+        "value": "24/7",
+        "label": "Availability",
+        "icon": "Clock"
+      },
+      {
+        "value": "{{responseTime}}",
+        "label": "Response Time",
+        "icon": "Zap"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee",
+        "icon": "ThumbsUp"
+      }
+    ]
+  },
+  "urgency": {
+    "availability": [
+      {
+        "type": "available-now",
+        "text": "Technician available now",
+        "subtext": "2 technicians in your area"
+      },
+      {
+        "type": "same-day",
+        "text": "Same-day service available",
+        "subtext": "Book now for today's appointment"
+      },
+      {
+        "type": "next-available",
+        "text": "Next available: Tomorrow 8am",
+        "subtext": "Limited slots remaining"
+      }
+    ],
+    "seasonal": {
+      "hvac": {
+        "summer": {
+          "text": "Peak season - schedule now",
+          "subtext": "Summer slots filling fast"
+        },
+        "winter": {
+          "text": "Heating season starting",
+          "subtext": "Pre-season tune-ups available"
+        }
+      },
+      "plumbing": {
+        "winter": {
+          "text": "Frozen pipe season",
+          "subtext": "24/7 emergency service available"
+        }
+      }
+    }
+  },
+  "ctas": {
+    "primary": {
+      "hvac": [
+        "Get Cool Now",
+        "Schedule Service",
+        "Beat the Heat",
+        "Restore Comfort",
+        "Book Today"
+      ],
+      "plumbing": [
+        "Fix It Now",
+        "Stop the Leak",
+        "Get Help Now",
+        "Schedule Service",
+        "Book Today"
+      ],
+      "electrical": [
+        "Power Up",
+        "Get Safe Today",
+        "Schedule Service",
+        "Request Estimate",
+        "Book Today"
+      ]
+    },
+    "secondary": [
+      "Call Now",
+      "Get Free Quote",
+      "Learn More",
+      "View Services",
+      "Read Reviews"
+    ],
+    "emergency": [
+      "Emergency? Call Now",
+      "24/7 Help Available",
+      "Get Emergency Service"
+    ]
+  },
+  "reviews": {
+    "platforms": [
+      {
+        "name": "Google",
+        "icon": "google",
+        "ratingRange": [4.7, 5.0],
+        "reviewPercentage": 0.6
+      },
+      {
+        "name": "Yelp",
+        "icon": "yelp",
+        "ratingRange": [4.5, 4.9],
+        "reviewPercentage": 0.2
+      },
+      {
+        "name": "BBB",
+        "icon": "bbb",
+        "ratingRange": [4.8, 5.0],
+        "reviewPercentage": 0.1
+      },
+      {
+        "name": "HomeAdvisor",
+        "icon": "homeadvisor",
+        "ratingRange": [4.6, 4.9],
+        "reviewPercentage": 0.1
+      }
+    ],
+    "snippets": {
+      "hvac": [
+        "\"Saved us during a 110° day!\"",
+        "\"Best HVAC company in {{city}}\"",
+        "\"Fast, professional, honest\"",
+        "\"Been using them for years\""
+      ],
+      "plumbing": [
+        "\"Fixed the leak others couldn't find\"",
+        "\"Best plumber in {{city}}\"",
+        "\"Fast emergency response\"",
+        "\"Fair prices, great work\""
+      ],
+      "electrical": [
+        "\"Made our old home safe\"",
+        "\"Best electrician in {{city}}\"",
+        "\"Professional and thorough\"",
+        "\"Highly recommend!\""
+      ]
+    }
+  }
+}

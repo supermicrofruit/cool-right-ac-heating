@@ -1,0 +1,121 @@
+{
+  "hero": {
+    "headline": "Plumbing Done",
+    "headlineAccent": "Right",
+    "description": "Licensed plumbers serving {{city}} with fast, reliable service. From leaky faucets to full repiping, {{businessName}} gets the job done with no mess and no stress."
+  },
+  "trustSection": {
+    "items": [
+      {
+        "icon": "Shield",
+        "label": "Licensed & Insured",
+        "value": "Fully licensed plumbers with comprehensive insurance coverage."
+      },
+      {
+        "icon": "Droplets",
+        "label": "No-Mess Guarantee",
+        "value": "We leave your home as clean as we found it — every time."
+      },
+      {
+        "icon": "DollarSign",
+        "label": "Upfront Pricing",
+        "value": "Honest quotes before work begins. No hidden fees, ever."
+      },
+      {
+        "icon": "Clock",
+        "label": "24/7 Emergency",
+        "value": "Water emergencies don't wait — neither do we."
+      }
+    ]
+  },
+  "mediaBar": {
+    "tagline": "Serving {{city}} since {{establishedYear}} — {{rating}}★ rated with {{reviewCount}}+ reviews"
+  },
+  "processSection": {
+    "headline": "How It Works",
+    "description": "Getting professional plumbing service in {{city}} is simple.",
+    "steps": [
+      {
+        "title": "Call or Book Online",
+        "description": "Describe your plumbing issue and we'll schedule a convenient time.",
+        "icon": "PhoneCall"
+      },
+      {
+        "title": "On-Site Diagnosis",
+        "description": "Our licensed plumber inspects the problem and provides an upfront quote.",
+        "icon": "ClipboardCheck"
+      },
+      {
+        "title": "Professional Repair",
+        "description": "We fix the issue right the first time using quality parts and proven methods.",
+        "icon": "Wrench"
+      },
+      {
+        "title": "Problem Solved",
+        "description": "Enjoy peace of mind with our {{warrantyYears}}-year warranty on all work.",
+        "icon": "ThumbsUp"
+      }
+    ]
+  },
+  "aboutSection": {
+    "description": "{{businessName}} has been serving {{city}} and the {{region}} since {{establishedYear}}. With {{reviewCount}}+ five-star reviews and a team of licensed, experienced plumbers, we handle everything from routine repairs to complex installations. Our reputation for honest pricing, clean workmanship, and dependable service has made us one of {{city}}'s most trusted plumbing companies.",
+    "mission": "To provide {{city}} homeowners with honest, dependable plumbing services they can count on — day or night.",
+    "values": [
+      {
+        "title": "Quality Workmanship",
+        "description": "Every repair and installation is done to code and built to last.",
+        "icon": "Award"
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "You'll know the exact cost before we turn a single wrench.",
+        "icon": "ShieldCheck"
+      },
+      {
+        "title": "Respect for Your Home",
+        "description": "Drop cloths, boot covers, and a thorough cleanup after every job.",
+        "icon": "Heart"
+      }
+    ]
+  },
+  "ctaBanner": {
+    "headline": "Ready to Get Started?",
+    "description": "Contact {{businessName}} today for a free plumbing estimate.",
+    "buttonText": "Call Now",
+    "buttonHref": "tel:{{phoneRaw}}"
+  },
+  "pages": {
+    "services": {
+      "headline": "Our Services",
+      "description": "Complete plumbing services for {{city}} homes and businesses — drains, pipes, water heaters, and more."
+    },
+    "about": {
+      "headline": "About {{businessName}}",
+      "description": "Meet {{city}}'s trusted plumbing team — {{yearsInBusiness}} years of reliable service."
+    },
+    "contact": {
+      "headline": "Contact Us",
+      "description": "Reach {{businessName}} for fast, professional plumbing help in {{city}}."
+    },
+    "areas": {
+      "headline": "Service Areas",
+      "description": "{{businessName}} serves {{city}} and surrounding {{region}} communities."
+    },
+    "blog": {
+      "headline": "Plumbing Tips & Advice",
+      "description": "Helpful plumbing insights from the pros at {{businessName}}."
+    },
+    "works": {
+      "headline": "Our Work",
+      "description": "Browse recent plumbing projects completed across {{city}}."
+    },
+    "financing": {
+      "headline": "Financing Options",
+      "description": "Flexible payment plans for water heaters, repiping, and major plumbing work."
+    },
+    "emergencyTips": {
+      "headline": "Emergency Tips",
+      "description": "What to do during a plumbing emergency — burst pipes, flooding, and more."
+    }
+  }
+}

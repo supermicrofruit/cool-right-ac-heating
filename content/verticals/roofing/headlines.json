@@ -1,0 +1,112 @@
+{
+  "vertical": "roofing",
+  "displayName": "Roofing",
+  "heroImage": "https://images.pexels.com/photos/8293699/pexels-photo-8293699.jpeg?auto=compress&cs=tinysrgb&w=800",
+  "heroBackgroundImage": "https://images.pexels.com/photos/1546168/pexels-photo-1546168.jpeg?auto=compress&cs=tinysrgb&w=800",
+  "hero": {
+    "variations": [
+      {
+        "id": "roof-built-last",
+        "headline": "A Roof Built to Last",
+        "subheadline": "Expert roofing from {{businessName}}. Trusted by {{reviewCount}}+ {{city}} homeowners for quality materials and lasting craftsmanship.",
+        "tone": "bold",
+        "region": "universal"
+      },
+      {
+        "id": "protect-home",
+        "headline": "Protecting What Matters Most",
+        "subheadline": "Your roof is your home's first line of defense. We make sure it's up to the job — every time.",
+        "tone": "warm",
+        "region": "universal"
+      },
+      {
+        "id": "most-trusted",
+        "headline": "{{city}}'s Most Trusted Roofers",
+        "subheadline": "{{yearsInBusiness}} years of roofing excellence. Licensed, insured, and committed to doing it right the first time.",
+        "tone": "professional",
+        "region": "universal"
+      },
+      {
+        "id": "storm-damage",
+        "headline": "Storm Damage? We've Got You Covered.",
+        "subheadline": "Fast emergency roof repairs and insurance claim assistance. {{businessName}} responds when you need us most.",
+        "tone": "urgent",
+        "region": "universal"
+      },
+      {
+        "id": "curb-appeal",
+        "headline": "Boost Your Curb Appeal from the Top Down",
+        "subheadline": "A new roof transforms your home's look and value. Free estimates and financing available.",
+        "tone": "calm",
+        "region": "universal"
+      },
+      {
+        "id": "fast-reliable",
+        "headline": "Quality Roofing. Fair Prices.",
+        "subheadline": "Professional roofing in {{city}}. {{rating}}★ rated with {{reviewCount}}+ reviews. Call now for a free inspection.",
+        "tone": "direct",
+        "region": "universal"
+      }
+    ]
+  },
+  "servicePages": {
+    "roof-repair": {
+      "headline": "Roof Repair You Can Trust",
+      "subheadline": "Stop leaks fast with reliable, warrantied roof repairs."
+    },
+    "roof-replacement": {
+      "headline": "Complete Roof Replacement",
+      "subheadline": "A brand-new roof installed right, with materials that last."
+    },
+    "roof-inspection": {
+      "headline": "Professional Roof Inspections",
+      "subheadline": "Know the true condition of your roof before it becomes a problem."
+    },
+    "storm-damage": {
+      "headline": "Storm Damage Roof Repair",
+      "subheadline": "Fast response and insurance claim assistance when storms hit."
+    },
+    "gutter-installation": {
+      "headline": "Gutter Installation & Repair",
+      "subheadline": "Protect your foundation with properly installed gutters."
+    },
+    "commercial-roofing": {
+      "headline": "Commercial Roofing Solutions",
+      "subheadline": "Flat roofs, metal roofs, and maintenance plans for businesses."
+    }
+  },
+  "valueProps": {
+    "variations": [
+      {
+        "title": "Free Inspections",
+        "description": "No-obligation roof inspections to assess your roof's condition.",
+        "icon": "Search"
+      },
+      {
+        "title": "Licensed & Insured",
+        "description": "Fully licensed, bonded, and insured for your protection.",
+        "icon": "Shield"
+      },
+      {
+        "title": "Written Warranties",
+        "description": "Manufacturer and workmanship warranties on every job.",
+        "icon": "FileText"
+      },
+      {
+        "title": "Insurance Claim Help",
+        "description": "We work directly with your insurance company to simplify claims.",
+        "icon": "ClipboardCheck"
+      },
+      {
+        "title": "Quality Materials",
+        "description": "Only top-grade shingles, underlayment, and flashing used.",
+        "icon": "Award"
+      },
+      {
+        "title": "Financing Available",
+        "description": "Flexible payment options make a new roof affordable.",
+        "icon": "CreditCard"
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Sarah M.",
+      "location": "{{city}}, {{state}}",
+      "rating": 5,
+      "text": "{{businessName}} found a slab leak that two other plumbing companies completely missed. Their technician used electronic detection equipment and pinpointed it within 20 minutes. The repair was clean, efficient, and saved us from what could have been thousands in foundation damage. I tell everyone in {{city}} to call them first.",
+      "service": "Leak Detection",
+      "date": "2024-11-12",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "name": "Mike D.",
+      "location": "{{city}}, {{state}}",
+      "rating": 5,
+      "text": "Our kitchen drain was completely backed up and starting to smell terrible. {{businessName}} came out the same day, ran a camera down the line, and had the whole thing cleared with hydro jetting in about 30 minutes. Very professional crew — they wore shoe covers inside and left the area cleaner than they found it. Fair price too.",
+      "service": "Drain Cleaning",
+      "date": "2024-10-08",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "name": "Patricia L.",
+      "location": "{{city}}, {{state}}",
+      "rating": 5,
+      "text": "We replaced our 15-year-old tank water heater with a tankless unit and the difference is night and day. The team from {{businessName}} walked us through every option, helped us pick the right size for our family of five, and completed the installation in one day. Our energy bill dropped noticeably the very first month.",
+      "service": "Water Heater",
+      "date": "2024-09-25",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "name": "Chris B.",
+      "location": "{{city}}, {{state}}",
+      "rating": 5,
+      "text": "A pipe burst in our laundry room at midnight on a Saturday. I called {{businessName}} expecting to leave a voicemail, but a real person answered and had a plumber at our door within 45 minutes. He shut everything down, repaired the pipe, and helped us start drying out the area. They absolutely saved us from serious water damage to our floors and walls.",
+      "service": "Emergency Plumbing",
+      "date": "2024-08-14",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "name": "Nancy K.",
+      "location": "{{city}}, {{state}}",
+      "rating": 5,
+      "text": "We hired {{businessName}} for all the plumbing in our complete bathroom remodel — relocating the shower drain, new supply lines, moving the toilet, everything. They coordinated perfectly with our general contractor, stayed on schedule for the full three weeks, and came in right at the quoted price. No surprises and the finished result looks fantastic.",
+      "service": "Remodel Plumbing",
+      "date": "2024-07-03",
+      "verified": true
+    }
+  ],
+  "summary": {
+    "averageRating": "4.9",
+    "totalReviews": "623"
+  }
+}

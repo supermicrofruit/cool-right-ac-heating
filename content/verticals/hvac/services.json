@@ -1,0 +1,263 @@
+{
+  "vertical": "hvac",
+  "services": [
+    {
+      "slug": "ac-repair",
+      "name": "AC Repair",
+      "shortDescription": "Fast, reliable air conditioning repair to get your home cool again.",
+      "longDescription": "When your AC breaks down in {{city}}'s extreme heat, {{businessName}} responds fast. Our certified technicians diagnose and fix most issues same-day, from refrigerant leaks to compressor failures. We service all major brands and back our work with a {{warrantyYears}}-year labor warranty.",
+      "icon": "Snowflake",
+      "category": "cooling",
+      "emergency": true,
+      "features": [
+        "Same-day emergency service",
+        "All major brands serviced",
+        "Upfront pricing before repairs",
+        "{{warrantyYears}}-year labor warranty",
+        "EPA-certified technicians",
+        "Fully stocked service vehicles"
+      ],
+      "benefits": [
+        "Get cool fast with same-day service",
+        "No surprises with upfront pricing",
+        "Peace of mind with licensed pros",
+        "Extended equipment life"
+      ],
+      "commonIssues": [
+        "AC not cooling",
+        "Strange noises or smells",
+        "AC won't turn on",
+        "Refrigerant leaks",
+        "Frozen evaporator coil",
+        "Thermostat problems"
+      ],
+      "meta": {
+        "title": "AC Repair {{city}} | Same-Day Air Conditioning Repair | {{businessName}}",
+        "description": "Fast, reliable AC repair in {{city}}. {{businessName}} offers same-day service, upfront pricing, and {{warrantyYears}}-year warranty. {{rating}}★ rated. Call {{phone}}."
+      }
+    },
+    {
+      "slug": "ac-installation",
+      "name": "AC Installation",
+      "shortDescription": "Expert air conditioning installation with the right system for your home.",
+      "longDescription": "Ready for a new AC system? {{businessName}} helps you choose the right size and efficiency for your {{city}} home. We're factory authorized dealers for top brands like Carrier, Trane, and Lennox. Every installation includes proper sizing calculations, quality materials, and a thorough walkthrough of your new system.",
+      "icon": "AirVent",
+      "category": "cooling",
+      "emergency": false,
+      "features": [
+        "Free in-home estimates",
+        "Load calculation for proper sizing",
+        "Factory authorized dealer",
+        "Flexible financing options",
+        "Manufacturer warranty registration",
+        "Post-installation follow-up"
+      ],
+      "benefits": [
+        "Lower energy bills",
+        "Improved home comfort",
+        "Quieter operation",
+        "Better air quality",
+        "Increased home value"
+      ],
+      "brands": ["Carrier", "Trane", "Lennox", "Rheem", "Goodman", "Daikin"],
+      "meta": {
+        "title": "AC Installation {{city}} | New Air Conditioner Installation | {{businessName}}",
+        "description": "Professional AC installation in {{city}}. Free estimates, factory authorized dealers, financing available. {{businessName}} - {{rating}}★ rated. Call {{phone}}."
+      }
+    },
+    {
+      "slug": "ac-maintenance",
+      "name": "AC Maintenance",
+      "shortDescription": "Preventive maintenance to keep your AC running efficiently all season.",
+      "longDescription": "Don't wait for a breakdown. Regular AC maintenance extends equipment life, improves efficiency, and catches small problems before they become expensive repairs. {{businessName}}'s comprehensive tune-up includes a {{maintenancePointCount}}-point inspection, cleaning, and performance optimization.",
+      "icon": "Settings",
+      "category": "cooling",
+      "emergency": false,
+      "features": [
+        "{{maintenancePointCount}}-point inspection",
+        "Coil cleaning",
+        "Refrigerant level check",
+        "Electrical connection tightening",
+        "Thermostat calibration",
+        "Filter replacement"
+      ],
+      "benefits": [
+        "Prevent costly breakdowns",
+        "Lower energy bills",
+        "Extended equipment life",
+        "Improved air quality",
+        "Maintain warranty coverage"
+      ],
+      "meta": {
+        "title": "AC Maintenance {{city}} | Air Conditioning Tune-Up | {{businessName}}",
+        "description": "Keep your AC running efficiently with professional maintenance from {{businessName}}. Comprehensive tune-ups in {{city}}. Call {{phone}} to schedule."
+      }
+    },
+    {
+      "slug": "heating-repair",
+      "name": "Heating Repair",
+      "shortDescription": "Fast heating repair to keep your home warm and comfortable.",
+      "longDescription": "When your heater stops working, {{businessName}} is here to help. Our technicians are trained to repair all types of heating systems including furnaces, heat pumps, and ductless mini-splits. We diagnose accurately, explain your options clearly, and get your heat restored quickly.",
+      "icon": "Flame",
+      "category": "heating",
+      "emergency": true,
+      "features": [
+        "All heating system types",
+        "Same-day emergency service",
+        "Upfront pricing",
+        "Safety inspections included",
+        "{{warrantyYears}}-year labor warranty"
+      ],
+      "benefits": [
+        "Restore warmth quickly",
+        "Ensure safe operation",
+        "Prevent carbon monoxide risks",
+        "Extend equipment life"
+      ],
+      "commonIssues": [
+        "No heat",
+        "Weak airflow",
+        "Strange noises",
+        "Pilot light won't stay lit",
+        "Short cycling",
+        "High energy bills"
+      ],
+      "meta": {
+        "title": "Heating Repair {{city}} | Furnace & Heater Repair | {{businessName}}",
+        "description": "Expert heating repair in {{city}}. Furnaces, heat pumps, all brands. Same-day service from {{businessName}}. {{rating}}★ rated. Call {{phone}}."
+      }
+    },
+    {
+      "slug": "heating-installation",
+      "name": "Heating Installation",
+      "shortDescription": "Professional heating system installation for year-round comfort.",
+      "longDescription": "Whether you're replacing an old furnace or installing a new heat pump, {{businessName}} ensures you get the right system for your home. We evaluate your heating needs, recommend efficient options, and install everything to manufacturer specifications.",
+      "icon": "Home",
+      "category": "heating",
+      "emergency": false,
+      "features": [
+        "Free in-home estimates",
+        "Heat load calculations",
+        "High-efficiency options",
+        "Flexible financing",
+        "Full manufacturer warranty",
+        "Removal of old equipment"
+      ],
+      "benefits": [
+        "Lower heating costs",
+        "Consistent comfort",
+        "Quieter operation",
+        "Improved safety",
+        "Smart thermostat compatible"
+      ],
+      "meta": {
+        "title": "Heating Installation {{city}} | Furnace & Heat Pump Installation | {{businessName}}",
+        "description": "New heating system installation in {{city}}. Free estimates, financing available. {{businessName}} - trusted by {{reviewCount}}+ customers. Call {{phone}}."
+      }
+    },
+    {
+      "slug": "duct-cleaning",
+      "name": "Duct Cleaning",
+      "shortDescription": "Professional air duct cleaning for healthier indoor air.",
+      "longDescription": "Over time, dust, allergens, and debris accumulate in your ductwork, affecting air quality and system efficiency. {{businessName}}'s professional duct cleaning removes contaminants, improves airflow, and helps your HVAC system run more efficiently.",
+      "icon": "Wind",
+      "category": "air-quality",
+      "emergency": false,
+      "features": [
+        "Complete system cleaning",
+        "HEPA-filtered equipment",
+        "Before & after photos",
+        "Sanitization available",
+        "Dryer vent cleaning",
+        "Video inspection option"
+      ],
+      "benefits": [
+        "Cleaner indoor air",
+        "Reduced allergens",
+        "Better airflow",
+        "Lower energy bills",
+        "Less dust in home"
+      ],
+      "meta": {
+        "title": "Duct Cleaning {{city}} | Professional Air Duct Cleaning | {{businessName}}",
+        "description": "Professional duct cleaning in {{city}}. Improve air quality, reduce allergens. {{businessName}} - before & after photos provided. Call {{phone}}."
+      }
+    },
+    {
+      "slug": "indoor-air-quality",
+      "name": "Indoor Air Quality",
+      "shortDescription": "Solutions for cleaner, healthier air in your home.",
+      "longDescription": "Indoor air can be 2-5 times more polluted than outdoor air. {{businessName}} offers comprehensive air quality solutions including air purifiers, humidifiers, UV germicidal lights, and advanced filtration systems to protect your family's health.",
+      "icon": "Sparkles",
+      "category": "air-quality",
+      "emergency": false,
+      "features": [
+        "Air quality assessment",
+        "HEPA filtration systems",
+        "UV germicidal lights",
+        "Whole-home humidifiers",
+        "Dehumidifiers",
+        "Air purification systems"
+      ],
+      "benefits": [
+        "Healthier breathing",
+        "Reduced allergies",
+        "Better sleep",
+        "Less illness",
+        "Odor elimination"
+      ],
+      "meta": {
+        "title": "Indoor Air Quality {{city}} | Air Purification Systems | {{businessName}}",
+        "description": "Improve your indoor air quality with {{businessName}}. Air purifiers, filtration, UV lights in {{city}}. Free consultation. Call {{phone}}."
+      }
+    },
+    {
+      "slug": "emergency-hvac",
+      "name": "Emergency HVAC",
+      "shortDescription": "24/7 emergency HVAC service when you need it most.",
+      "longDescription": "HVAC emergencies don't wait for business hours, and neither do we. {{businessName}} offers 24/7 emergency service for urgent heating and cooling problems. Our technicians are always on call, with fully stocked trucks ready to respond.",
+      "icon": "AlertCircle",
+      "category": "emergency",
+      "emergency": true,
+      "features": [
+        "24/7 availability",
+        "Fast response times",
+        "No after-hours upcharge",
+        "Fully stocked trucks",
+        "All repairs guaranteed"
+      ],
+      "benefits": [
+        "Help when you need it",
+        "No waiting until Monday",
+        "Same great service",
+        "Peace of mind"
+      ],
+      "meta": {
+        "title": "24/7 Emergency HVAC {{city}} | After-Hours AC & Heating Repair | {{businessName}}",
+        "description": "24/7 emergency HVAC service in {{city}}. Day or night, {{businessName}} responds fast. No after-hours upcharge. Call {{phone}} now."
+      }
+    }
+  ],
+  "categories": [
+    {
+      "slug": "cooling",
+      "name": "Cooling Services",
+      "description": "Stay cool with our professional air conditioning services."
+    },
+    {
+      "slug": "heating",
+      "name": "Heating Services",
+      "description": "Keep warm with reliable heating solutions."
+    },
+    {
+      "slug": "air-quality",
+      "name": "Air Quality",
+      "description": "Breathe easier with improved indoor air quality."
+    },
+    {
+      "slug": "emergency",
+      "name": "Emergency Services",
+      "description": "24/7 help when you need it most."
+    }
+  ]
+}

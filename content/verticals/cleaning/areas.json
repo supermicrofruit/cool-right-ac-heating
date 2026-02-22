@@ -1,0 +1,102 @@
+{
+  "primaryServiceArea": "San Diego Area",
+  "serviceRadius": "We serve San Diego and surrounding coastal communities within 25 miles",
+  "areas": [
+    {
+      "slug": "san-diego",
+      "name": "San Diego",
+      "state": "CA",
+      "population": "1.4M+",
+      "coordinates": { "lat": 32.7157, "lng": -117.1611 },
+      "description": "Our home base! {{businessName}} serves all of {{city}} from Mission Hills to Mira Mesa, covering condos, single-family homes, and vacation rentals throughout the metro.",
+      "neighborhoods": ["North Park", "Hillcrest", "Mission Hills", "Mira Mesa", "Kensington", "South Park"],
+      "landmarks": ["Balboa Park", "San Diego Zoo", "Gaslamp Quarter", "Mission Bay"],
+      "localChallenges": "{{city}}'s coastal air brings salt residue that settles on windows, fixtures, and outdoor furniture year-round. Sand tracked in from beaches and ocean breezes carrying fine dust require more frequent cleaning cycles than inland homes.",
+      "serviceHighlights": [
+        "Vacation rental turnover specialists",
+        "Salt air and coastal residue removal",
+        "Eco-friendly, pet-safe products standard"
+      ]
+    },
+    {
+      "slug": "la-jolla",
+      "name": "La Jolla",
+      "state": "CA",
+      "population": "46,000+",
+      "coordinates": { "lat": 32.8328, "lng": -117.2713 },
+      "description": "{{businessName}} serves La Jolla's luxury oceanfront homes, cliffside estates, and upscale condos with white-glove cleaning tailored to high-end coastal properties.",
+      "neighborhoods": ["The Village", "Bird Rock", "WindanSea", "La Jolla Shores", "Hidden Valley"],
+      "landmarks": ["La Jolla Cove", "Torrey Pines State Reserve", "Scripps Institution of Oceanography", "La Jolla Playhouse"],
+      "localChallenges": "Oceanfront and cliff-side properties in La Jolla face relentless salt spray that corrodes surfaces and leaves chalky film on glass. Vacation rental demand is exceptionally high, requiring fast, reliable turnover cleaning between guests.",
+      "serviceHighlights": [
+        "Luxury oceanfront property specialists",
+        "Rapid vacation rental turnovers",
+        "Salt spray and mineral deposit treatment"
+      ]
+    },
+    {
+      "slug": "coronado",
+      "name": "Coronado",
+      "state": "CA",
+      "population": "24,000+",
+      "coordinates": { "lat": 32.6859, "lng": -117.1831 },
+      "description": "Serving Coronado's historic homes, beachfront cottages, and short-term rentals with professional cleaning that keeps up with the island's high hospitality standards.",
+      "neighborhoods": ["Coronado Village", "Coronado Cays", "Coronado Shores", "Naval Station Area"],
+      "landmarks": ["Hotel del Coronado", "Coronado Beach", "Coronado Bridge", "Ferry Landing Marketplace"],
+      "localChallenges": "As a near-island community, Coronado properties are surrounded by water on three sides, intensifying salt air exposure and humidity. The silver sand from Coronado Beach is notoriously fine and gets tracked throughout homes, requiring thorough cleaning after every beach day.",
+      "serviceHighlights": [
+        "Fine beach sand deep removal",
+        "High-humidity mold prevention cleaning",
+        "Vacation rental and Airbnb turnovers"
+      ]
+    },
+    {
+      "slug": "encinitas",
+      "name": "Encinitas",
+      "state": "CA",
+      "population": "62,000+",
+      "coordinates": { "lat": 33.0369, "lng": -117.2919 },
+      "description": "{{businessName}} brings reliable, eco-conscious cleaning to Encinitas homes, surf cottages, and vacation rentals along the North County coast.",
+      "neighborhoods": ["Old Encinitas", "Leucadia", "New Encinitas", "Cardiff-by-the-Sea", "Olivenhain"],
+      "landmarks": ["Moonlight Beach", "Self-Realization Fellowship Temple", "San Elijo Lagoon", "Swamis Beach"],
+      "localChallenges": "Encinitas's surf culture means homes regularly deal with sand, salt water, and wetsuit residue. The strong coastal winds push salt air and pollen inland, coating surfaces and windows with fine grime faster than most homeowners expect.",
+      "serviceHighlights": [
+        "Surf home and beach cottage specialists",
+        "Green and biodegradable cleaning products",
+        "Flexible scheduling for vacation rental hosts"
+      ]
+    },
+    {
+      "slug": "del-mar",
+      "name": "Del Mar",
+      "state": "CA",
+      "population": "4,200+",
+      "coordinates": { "lat": 32.9595, "lng": -117.2653 },
+      "description": "Serving Del Mar's exclusive beachfront estates, bluff-top homes, and short-term vacation properties with meticulous cleaning services.",
+      "neighborhoods": ["Del Mar Heights", "Stratford Court", "Olde Del Mar", "Del Mar Beach Colony"],
+      "landmarks": ["Del Mar Racetrack", "Del Mar City Beach", "L'Auberge Del Mar", "21st Street Overlook"],
+      "localChallenges": "Del Mar's clifftop and beachfront estates are exposed to constant ocean wind and salt mist. The high concentration of short-term vacation rentals means properties turn over frequently and must meet exacting cleanliness standards between high-paying guests.",
+      "serviceHighlights": [
+        "Estate-level deep cleaning",
+        "Same-day vacation rental turnover available",
+        "Window and exterior surface salt removal"
+      ]
+    },
+    {
+      "slug": "carlsbad",
+      "name": "Carlsbad",
+      "state": "CA",
+      "population": "115,000+",
+      "coordinates": { "lat": 33.1581, "lng": -117.3506 },
+      "description": "From Carlsbad Village to La Costa, {{businessName}} serves the full range of {{city}} area homes, from family residences to vacation properties near the beach.",
+      "neighborhoods": ["Carlsbad Village", "La Costa", "Aviara", "Calavera Hills", "Bressi Ranch"],
+      "landmarks": ["LEGOLAND California", "Carlsbad State Beach", "The Crossings Golf Course", "Carlsbad Flower Fields"],
+      "localChallenges": "Carlsbad's combination of coastal and inland neighborhoods means varied cleaning challenges — salt air and sand near the coast, and fine dust and pollen further inland. The area's growing vacation rental market demands quick, thorough turnovers that meet guest expectations.",
+      "serviceHighlights": [
+        "Vacation rental and Airbnb turnover cleaning",
+        "Eco-friendly cleaning products",
+        "Recurring weekly and bi-weekly service plans"
+      ]
+    }
+  ]
+}

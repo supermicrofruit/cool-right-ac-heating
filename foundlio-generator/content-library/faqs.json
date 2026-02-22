@@ -1,0 +1,178 @@
+{
+  "common": {
+    "general": [
+      {
+        "question": "What areas do you serve?",
+        "answerTemplate": "We serve the entire {{city}} metro area including {{nearbyAreas}}. Our service radius extends approximately {{serviceRadius}} from {{city}}."
+      },
+      {
+        "question": "Are you licensed and insured?",
+        "answerTemplate": "Yes, we are fully licensed ({{licenseNumber}}), bonded, and insured. All our technicians are certified and background-checked for your peace of mind."
+      },
+      {
+        "question": "Do you offer financing?",
+        "answerTemplate": "Yes, we offer flexible financing options for larger jobs. We work with multiple lenders to find options that fit your budget, including 0% interest plans for qualified buyers."
+      },
+      {
+        "question": "Do you provide free estimates?",
+        "answerTemplate": "Yes, we provide free estimates for most services. For diagnostic services, there may be a service call fee that's waived if you proceed with the repair."
+      },
+      {
+        "question": "What payment methods do you accept?",
+        "answerTemplate": "We accept all major credit cards, cash, checks, and financing options. Payment is due upon completion of work."
+      }
+    ],
+    "pricing": [
+      {
+        "question": "How do you determine pricing?",
+        "answerTemplate": "We provide upfront, transparent pricing before any work begins. You'll know exactly what the job costs before we start—no surprises, no hidden fees."
+      },
+      {
+        "question": "Do you charge for estimates?",
+        "answerTemplate": "Most estimates are free. For diagnostic work where we need to troubleshoot the problem, there may be a diagnostic fee that's credited toward the repair if you choose to proceed."
+      }
+    ],
+    "emergency": [
+      {
+        "question": "What qualifies as an emergency?",
+        "answerTemplate": "An emergency includes any situation that threatens health, safety, or could cause significant property damage. This includes complete system failures, water leaks, electrical hazards, and similar urgent issues."
+      },
+      {
+        "question": "Do you charge extra for nights and weekends?",
+        "answerTemplate": "We have a modest emergency service fee for after-hours calls, but we don't charge excessive overtime rates. Our pricing is always transparent and shared upfront before any work begins."
+      }
+    ]
+  },
+  "hvac": {
+    "repair": [
+      {
+        "question": "How quickly can you come for an AC repair?",
+        "answerTemplate": "We offer same-day service for most AC repairs. For emergencies, we have technicians available 24/7 and typically arrive within {{responseTime}} of your call."
+      },
+      {
+        "question": "How much does AC repair cost?",
+        "answerTemplate": "Repair costs vary depending on the issue. Simple fixes like capacitor replacement may cost $150-$300, while compressor repairs can range from $400-$1,500. We always provide upfront pricing before any work begins."
+      },
+      {
+        "question": "Should I repair or replace my AC unit?",
+        "answerTemplate": "Generally, if your system is over 10-15 years old, requires frequent repairs, or the repair cost exceeds 50% of a new system's price, replacement may be more cost-effective. We'll give you an honest assessment."
+      },
+      {
+        "question": "Do you repair all AC brands?",
+        "answerTemplate": "Yes, our technicians are trained to repair all major brands including Carrier, Trane, Lennox, Goodman, Rheem, Ruud, American Standard, and more."
+      }
+    ],
+    "installation": [
+      {
+        "question": "How long does AC installation take?",
+        "answerTemplate": "A standard AC replacement typically takes 4-8 hours and is completed in one day. Complete system replacements including ductwork may take 1-2 days."
+      },
+      {
+        "question": "What size AC do I need?",
+        "answerTemplate": "Proper sizing requires a load calculation that considers your home's square footage, insulation, windows, and other factors. We perform this calculation during our free estimate to ensure you get the right size."
+      },
+      {
+        "question": "What warranty comes with a new AC?",
+        "answerTemplate": "New systems typically include manufacturer warranties of 5-10 years on parts and compressor. We also provide our own {{warrantyYears}}-year labor warranty on all installations."
+      }
+    ],
+    "maintenance": [
+      {
+        "question": "How often should I have my AC serviced?",
+        "answerTemplate": "We recommend having your AC serviced at least once a year, ideally in spring before the summer heat arrives. Twice-yearly service (spring and fall) is best for optimal performance."
+      },
+      {
+        "question": "What's included in an AC tune-up?",
+        "answerTemplate": "Our {{maintenancePointCount}}-point tune-up includes cleaning coils, checking refrigerant levels, inspecting electrical connections, lubricating moving parts, testing thermostat calibration, and replacing filters."
+      },
+      {
+        "question": "How often should I change my air filter?",
+        "answerTemplate": "Standard 1-inch filters should be changed monthly during heavy use. Higher-quality 4-inch filters can last 3-6 months. Homes with pets or allergies may need more frequent changes."
+      }
+    ]
+  },
+  "plumbing": {
+    "drains": [
+      {
+        "question": "How often should drains be cleaned?",
+        "answerTemplate": "We recommend professional drain cleaning once a year as preventive maintenance. If you notice slow drains, recurring clogs, or odors, schedule service right away."
+      },
+      {
+        "question": "What causes clogged drains?",
+        "answerTemplate": "Common causes include hair, soap scum, grease, food particles, and tree root intrusion. In older homes, pipe corrosion and buildup can also cause recurring clogs."
+      },
+      {
+        "question": "Is chemical drain cleaner safe?",
+        "answerTemplate": "Chemical drain cleaners can damage pipes over time and are often ineffective on serious clogs. We recommend professional cleaning for lasting results without risking pipe damage."
+      }
+    ],
+    "waterHeaters": [
+      {
+        "question": "How long do water heaters last?",
+        "answerTemplate": "Tank water heaters typically last 8-12 years, while tankless units can last 15-20 years with proper maintenance. If your water heater is over 10 years old, consider replacement before it fails."
+      },
+      {
+        "question": "Tank vs tankless - which is better?",
+        "answerTemplate": "Both have advantages. Tank heaters cost less upfront, while tankless units are more efficient and last longer. We'll help you choose based on your hot water needs, budget, and home setup."
+      },
+      {
+        "question": "Why is my water heater making noise?",
+        "answerTemplate": "Popping or rumbling sounds usually indicate sediment buildup. Whining may indicate a failing element. Strange noises warrant a professional inspection to prevent bigger problems."
+      }
+    ],
+    "emergency": [
+      {
+        "question": "What is a plumbing emergency?",
+        "answerTemplate": "A plumbing emergency includes burst pipes, sewage backups, major leaks, no water, water heater failures, and any situation causing or threatening water damage. Call us 24/7 for emergencies."
+      },
+      {
+        "question": "Where is my water shutoff valve?",
+        "answerTemplate": "Your main shutoff is typically near the water meter (often in the garage, basement, or outside). Individual fixtures have shutoff valves underneath or behind them. Knowing these locations can prevent water damage in an emergency."
+      }
+    ]
+  },
+  "electrical": {
+    "panels": [
+      {
+        "question": "Why upgrade my electrical panel?",
+        "answerTemplate": "Older panels may not handle modern electrical loads (EVs, appliances, HVAC). Upgrading improves safety, prevents tripped breakers, and adds capacity for future needs."
+      },
+      {
+        "question": "How long does a panel upgrade take?",
+        "answerTemplate": "Most panel upgrades are completed in 4-8 hours. Power will be off during the upgrade but restored the same day. We'll coordinate with you on timing."
+      },
+      {
+        "question": "What size panel do I need?",
+        "answerTemplate": "Most modern homes need 200-amp service. Homes with EVs, shops, or high electrical demands may need 400 amps. We'll assess your needs and recommend the right size."
+      }
+    ],
+    "evChargers": [
+      {
+        "question": "Can my home support an EV charger?",
+        "answerTemplate": "Most homes can support an EV charger with proper installation. We'll assess your electrical panel and wiring to determine if upgrades are needed."
+      },
+      {
+        "question": "What level charger should I get?",
+        "answerTemplate": "Level 2 chargers (240V) are recommended for home use—they charge most EVs overnight. Level 1 (120V) works but is very slow. We install Level 2 chargers from all major brands."
+      },
+      {
+        "question": "Do I need a panel upgrade for EV charging?",
+        "answerTemplate": "It depends on your current electrical capacity. Many homes can add an EV charger without upgrades. If your panel is full or undersized, we may recommend an upgrade."
+      }
+    ],
+    "safety": [
+      {
+        "question": "When should I call an electrician?",
+        "answerTemplate": "Call an electrician for: flickering lights, frequent breaker trips, buzzing sounds, burning smells, outlets/switches that are warm, sparks, or any electrical work beyond simple bulb replacement."
+      },
+      {
+        "question": "What are signs of electrical problems?",
+        "answerTemplate": "Warning signs include: frequent breaker trips, flickering/dimming lights, buzzing outlets, burning smells, discolored outlets, shocks when touching appliances, and outlets that don't work."
+      },
+      {
+        "question": "Is aluminum wiring dangerous?",
+        "answerTemplate": "Aluminum wiring (common in 1960s-70s homes) can be a fire hazard at connections. It's not inherently dangerous but requires proper connections and may need updating. We can assess your home."
+      }
+    ]
+  }
+}

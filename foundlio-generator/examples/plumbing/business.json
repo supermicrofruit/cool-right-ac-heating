@@ -1,0 +1,79 @@
+{
+  "name": "Valley Plumbing Pros",
+  "legalName": "Valley Plumbing Pros LLC",
+  "phone": "(480) 555-7890",
+  "phoneRaw": "+14805557890",
+  "email": "service@valleyplumbingpros.com",
+  "website": "https://valleyplumbingpros.com",
+  "vertical": "plumbing",
+  "region": "Arizona",
+  "address": {
+    "street": "2145 E Broadway Rd",
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "85204",
+    "full": "2145 E Broadway Rd, Mesa, AZ 85204"
+  },
+  "coordinates": {
+    "lat": 33.4084,
+    "lng": -111.7890
+  },
+  "hours": {
+    "weekdays": "7:00 AM - 7:00 PM",
+    "saturday": "8:00 AM - 5:00 PM",
+    "sunday": "Emergency Only",
+    "structured": [
+      { "days": "Monday - Friday", "hours": "7:00 AM - 7:00 PM" },
+      { "days": "Saturday", "hours": "8:00 AM - 5:00 PM" },
+      { "days": "Sunday", "hours": "Emergency Only" }
+    ]
+  },
+  "licenses": [
+    "ROC #312456",
+    "Master Plumber License"
+  ],
+  "certifications": [
+    "BBB A+ Rating",
+    "HomeAdvisor Elite Service",
+    "Angi Super Service Award"
+  ],
+  "established": 2015,
+  "rating": 4.8,
+  "reviewCount": 523,
+  "description": "Valley Plumbing Pros has been serving the East Valley since 2015. Our licensed plumbers handle everything from drain cleaning to complete repiping, with 24/7 emergency service when you need it most.",
+  "tagline": "Your Local Plumbing Experts",
+  "emergencyService": true,
+  "financing": true,
+  "freeEstimates": true,
+  "responseTime": "1 hour",
+  "warrantyYears": 1,
+  "maintenancePointCount": 15,
+  "socialMedia": {
+    "facebook": "https://facebook.com/valleyplumbingpros",
+    "google": "https://g.page/valleyplumbingpros"
+  },
+  "theme": {
+    "preset": "professional-blue",
+    "logo": "/images/logo.png",
+    "favicon": "/favicon.ico"
+  },
+  "features": {
+    "showTeam": false,
+    "showBlog": true,
+    "showWorks": true,
+    "showFinancing": true,
+    "emergencyBadge": true,
+    "callbackWidget": true,
+    "stickyPhone": true
+  },
+  "seo": {
+    "titleTemplate": "%s | Valley Plumbing Pros",
+    "defaultDescription": "Professional plumbing services in Mesa, AZ. 24/7 emergency service, drain cleaning, water heater repair. Call (480) 555-7890."
+  },
+  "forms": {
+    "notifyEmail": "leads@valleyplumbingpros.com",
+    "webhookUrl": "",
+    "successMessage": "Thanks! We'll contact you within 1 hour.",
+    "errorMessage": "Something went wrong. Please call us directly."
+  }
+}

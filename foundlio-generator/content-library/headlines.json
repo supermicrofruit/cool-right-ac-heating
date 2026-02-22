@@ -1,0 +1,240 @@
+{
+  "hvac": {
+    "headlines": [
+      {
+        "text": "Cool Comfort. Desert Tough.",
+        "tone": "bold",
+        "region": "southwest"
+      },
+      {
+        "text": "Your Comfort Is Our Mission",
+        "tone": "warm",
+        "region": "universal"
+      },
+      {
+        "text": "{{city}}'s Most Trusted HVAC Team",
+        "tone": "professional",
+        "region": "universal"
+      },
+      {
+        "text": "Beat the Heat. Call {{businessName}}.",
+        "tone": "urgent",
+        "region": "hot-climate"
+      },
+      {
+        "text": "Breathe Easy. Live Comfortably.",
+        "tone": "calm",
+        "region": "universal"
+      },
+      {
+        "text": "Fast. Reliable. Affordable.",
+        "tone": "direct",
+        "region": "universal"
+      },
+      {
+        "text": "Keeping {{city}} Cool Since {{establishedYear}}",
+        "tone": "established",
+        "region": "universal"
+      },
+      {
+        "text": "24/7 AC Repair When You Need It Most",
+        "tone": "emergency",
+        "region": "hot-climate"
+      }
+    ],
+    "subheadlines": [
+      "Built to handle the extremes of {{region}} living. We deliver reliable heating and cooling solutions that stand up to the desert and stand behind our work.",
+      "Trusted by {{reviewCount}}+ {{city}} families for reliable HVAC service. Fast response, fair prices, satisfaction guaranteed.",
+      "{{yearsInBusiness}} years of keeping homes comfortable. Licensed, insured, and committed to excellence.",
+      "24/7 emergency AC service when you need it most. Same-day repairs, upfront pricing, no surprises.",
+      "Expert heating, cooling, and air quality solutions for your home. Because comfort shouldn't be complicated.",
+      "Professional HVAC service in {{city}}. {{rating}} rated with {{reviewCount}}+ reviews. Call now for same-day service."
+    ]
+  },
+  "plumbing": {
+    "headlines": [
+      {
+        "text": "Stop the Leak. Fix It Fast.",
+        "tone": "urgent",
+        "region": "universal"
+      },
+      {
+        "text": "{{city}}'s Trusted Plumbing Experts",
+        "tone": "professional",
+        "region": "universal"
+      },
+      {
+        "text": "24/7 Emergency Plumbing Service",
+        "tone": "emergency",
+        "region": "universal"
+      },
+      {
+        "text": "Protect Your Home from Water Damage",
+        "tone": "protective",
+        "region": "universal"
+      },
+      {
+        "text": "Fast Plumbing Solutions You Can Trust",
+        "tone": "reliable",
+        "region": "universal"
+      },
+      {
+        "text": "Licensed Plumbers, Quality Results",
+        "tone": "professional",
+        "region": "universal"
+      },
+      {
+        "text": "Serving {{city}} Families Since {{establishedYear}}",
+        "tone": "established",
+        "region": "universal"
+      },
+      {
+        "text": "We Fix It Right the First Time",
+        "tone": "confident",
+        "region": "universal"
+      }
+    ],
+    "subheadlines": [
+      "When plumbing problems strike, {{businessName}} responds fast. Available 24/7 for emergencies across {{city}}.",
+      "{{yearsInBusiness}} years of solving plumbing problems for {{city}} homeowners. Licensed, bonded, and ready to help.",
+      "From leaky faucets to major repairs, our expert plumbers handle it all. Upfront pricing, no surprises.",
+      "Don't let water damage ruin your home. Fast, professional plumbing service from {{businessName}}.",
+      "Trusted by {{reviewCount}}+ customers. {{rating}} rating. Your satisfaction guaranteed.",
+      "Expert plumbers on call 24/7. Same-day service available. Call {{phone}} now."
+    ]
+  },
+  "electrical": {
+    "headlines": [
+      {
+        "text": "Power Up Your Home Safely",
+        "tone": "safe",
+        "region": "universal"
+      },
+      {
+        "text": "{{city}}'s Trusted Electrical Experts",
+        "tone": "professional",
+        "region": "universal"
+      },
+      {
+        "text": "Licensed Electricians, Quality Work",
+        "tone": "professional",
+        "region": "universal"
+      },
+      {
+        "text": "Upgrade to Modern, Safe Electrical",
+        "tone": "modern",
+        "region": "universal"
+      },
+      {
+        "text": "Keep the Lights On with {{businessName}}",
+        "tone": "reliable",
+        "region": "universal"
+      },
+      {
+        "text": "Smart Home Ready. Safety First.",
+        "tone": "modern",
+        "region": "universal"
+      },
+      {
+        "text": "Electrical Service You Can Trust",
+        "tone": "trustworthy",
+        "region": "universal"
+      },
+      {
+        "text": "Professional Electricians Since {{establishedYear}}",
+        "tone": "established",
+        "region": "universal"
+      }
+    ],
+    "subheadlines": [
+      "Expert electrical service for {{city}} homes and businesses. Licensed, insured, and committed to safety.",
+      "From panel upgrades to EV chargers, our master electricians handle it all. Code compliant, guaranteed.",
+      "{{yearsInBusiness}} years of safe, reliable electrical work. Trusted by {{reviewCount}}+ customers.",
+      "Don't risk DIY electrical work. Our licensed electricians ensure your home is safe and up to code.",
+      "Modern electrical solutions for today's homes. Smart upgrades, expert installation.",
+      "{{rating}} rated electrical contractor serving {{city}}. Call {{phone}} for your free estimate."
+    ]
+  },
+  "roofing": {
+    "headlines": [
+      {
+        "text": "Protect Your Home from the Top Down",
+        "tone": "protective",
+        "region": "universal"
+      },
+      {
+        "text": "{{city}}'s Trusted Roofing Experts",
+        "tone": "professional",
+        "region": "universal"
+      },
+      {
+        "text": "Quality Roofing That Lasts",
+        "tone": "durable",
+        "region": "universal"
+      },
+      {
+        "text": "Storm Damage? We're Here to Help.",
+        "tone": "emergency",
+        "region": "storm-prone"
+      },
+      {
+        "text": "Roofing Done Right, Guaranteed",
+        "tone": "confident",
+        "region": "universal"
+      },
+      {
+        "text": "Your Roof, Our Reputation",
+        "tone": "trustworthy",
+        "region": "universal"
+      }
+    ],
+    "subheadlines": [
+      "Expert roof repair and replacement for {{city}} homeowners. Licensed, insured, and standing behind our work.",
+      "From minor repairs to complete replacements, we deliver quality roofing that stands the test of time.",
+      "{{yearsInBusiness}} years protecting {{city}} homes. Free inspections, honest assessments.",
+      "Don't wait until a small leak becomes a big problem. Call {{businessName}} for reliable roofing service.",
+      "Trusted by {{reviewCount}}+ homeowners. {{rating}} rated. Quality workmanship guaranteed."
+    ]
+  },
+  "landscaping": {
+    "headlines": [
+      {
+        "text": "Transform Your Outdoor Space",
+        "tone": "creative",
+        "region": "universal"
+      },
+      {
+        "text": "{{city}}'s Premier Landscaping Team",
+        "tone": "professional",
+        "region": "universal"
+      },
+      {
+        "text": "Beautiful Landscapes, Expert Care",
+        "tone": "quality",
+        "region": "universal"
+      },
+      {
+        "text": "Your Dream Yard Starts Here",
+        "tone": "aspirational",
+        "region": "universal"
+      },
+      {
+        "text": "Curb Appeal That Lasts",
+        "tone": "lasting",
+        "region": "universal"
+      },
+      {
+        "text": "Love Your Outdoors",
+        "tone": "lifestyle",
+        "region": "universal"
+      }
+    ],
+    "subheadlines": [
+      "From design to installation to maintenance, we create outdoor spaces you'll love to live in.",
+      "Professional landscaping services for {{city}} homes. Enhance your property's beauty and value.",
+      "{{yearsInBusiness}} years creating beautiful landscapes. Free consultations, expert craftsmanship.",
+      "Transform your yard into an outdoor oasis. Custom designs tailored to your lifestyle and budget.",
+      "Trusted by {{reviewCount}}+ homeowners. {{rating}} rated landscaping service in {{city}}."
+    ]
+  }
+}

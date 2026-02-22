@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+      "aiphone": {
+        "command": "node",
+        "args": ["/Users/mikhaillazarev/Desktop/aiPhone/dist/index.js"]
+      }
+    }
+  }

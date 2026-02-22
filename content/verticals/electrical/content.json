@@ -1,0 +1,121 @@
+{
+  "hero": {
+    "headline": "Power You Can",
+    "headlineAccent": "Trust",
+    "description": "Licensed electricians serving {{city}} with safe, reliable electrical work. From panel upgrades to full rewiring, {{businessName}} does it right — every time."
+  },
+  "trustSection": {
+    "items": [
+      {
+        "icon": "Shield",
+        "label": "Safety First",
+        "value": "Code-compliant work that protects your family and property."
+      },
+      {
+        "icon": "Award",
+        "label": "Licensed Electricians",
+        "value": "Every job performed by qualified, state-licensed professionals."
+      },
+      {
+        "icon": "DollarSign",
+        "label": "Upfront Pricing",
+        "value": "Know the cost before work begins — no surprises."
+      },
+      {
+        "icon": "Sparkles",
+        "label": "Clean Workmanship",
+        "value": "Neat, professional work you'll be proud of."
+      }
+    ]
+  },
+  "mediaBar": {
+    "tagline": "Serving {{city}} since {{establishedYear}} — {{rating}}★ rated with {{reviewCount}}+ reviews"
+  },
+  "processSection": {
+    "headline": "How It Works",
+    "description": "Getting professional electrical service in {{city}} is easy.",
+    "steps": [
+      {
+        "title": "Call or Book Online",
+        "description": "Reach out and tell us what you need. We respond fast.",
+        "icon": "PhoneCall"
+      },
+      {
+        "title": "Free Assessment",
+        "description": "Our licensed electrician evaluates your situation on-site.",
+        "icon": "ClipboardCheck"
+      },
+      {
+        "title": "Expert Service",
+        "description": "We complete the job safely and to code, with upfront pricing and no surprises.",
+        "icon": "Wrench"
+      },
+      {
+        "title": "Your Satisfaction",
+        "description": "We follow up to make sure everything works perfectly, backed by our {{warrantyYears}}-year warranty.",
+        "icon": "ThumbsUp"
+      }
+    ]
+  },
+  "aboutSection": {
+    "description": "{{businessName}} has been serving {{city}} and the {{region}} since {{establishedYear}}. With {{reviewCount}}+ five-star reviews and a team of licensed, certified electricians, we deliver electrical services you can count on. Our commitment to safety, quality workmanship, and honest pricing has made us one of {{city}}'s most trusted electrical companies.",
+    "mission": "To provide {{city}} homeowners with safe, reliable, and professional electrical services.",
+    "values": [
+      {
+        "title": "Quality Work",
+        "description": "We never cut corners. Every job is done right the first time and to code.",
+        "icon": "Award"
+      },
+      {
+        "title": "Honest Pricing",
+        "description": "Upfront quotes with no hidden fees or surprise charges.",
+        "icon": "ShieldCheck"
+      },
+      {
+        "title": "Customer First",
+        "description": "Your safety and satisfaction are our top priority, backed by our guarantee.",
+        "icon": "Heart"
+      }
+    ]
+  },
+  "ctaBanner": {
+    "headline": "Ready to Get Started?",
+    "description": "Contact {{businessName}} today for a free electrical estimate.",
+    "buttonText": "Call Now",
+    "buttonHref": "tel:{{phoneRaw}}"
+  },
+  "pages": {
+    "services": {
+      "headline": "Our Services",
+      "description": "Professional electrical services for {{city}} homes and businesses."
+    },
+    "about": {
+      "headline": "About {{businessName}}",
+      "description": "Learn about {{city}}'s trusted electrical team — {{yearsInBusiness}} years of safe, reliable service."
+    },
+    "contact": {
+      "headline": "Contact Us",
+      "description": "Get in touch with {{businessName}}. We're here to help with all your electrical needs."
+    },
+    "areas": {
+      "headline": "Service Areas",
+      "description": "{{businessName}} serves {{city}} and surrounding {{region}} communities."
+    },
+    "blog": {
+      "headline": "Electrical Tips & Insights",
+      "description": "Expert electrical advice from the {{businessName}} team."
+    },
+    "works": {
+      "headline": "Our Work",
+      "description": "See our recent electrical projects across {{city}}."
+    },
+    "financing": {
+      "headline": "Financing Options",
+      "description": "Flexible payment plans for panel upgrades, rewiring, and major electrical work."
+    },
+    "emergencyTips": {
+      "headline": "Emergency Tips",
+      "description": "What to do in an electrical emergency before help arrives."
+    }
+  }
+}

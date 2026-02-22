@@ -1,0 +1,58 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "David R.",
+      "location": "{{city}}, {{state}}",
+      "rating": 5,
+      "text": "{{businessName}} saved us during a brutal summer heatwave. Our AC went out at 2am on a Saturday night and they had a technician at our door by 7am. He diagnosed the issue quickly, had the part on his truck, and we were cool again before noon. Professional, fast, and the pricing was exactly what they quoted on the phone. No surprises.",
+      "service": "AC Repair",
+      "date": "2024-11-15",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "name": "Karen W.",
+      "location": "{{city}}, {{state}}",
+      "rating": 5,
+      "text": "Best HVAC company we have ever worked with. They installed a new Trane system and took the time to do a proper load calculation for our home instead of just guessing at the size. Our energy bills dropped about 30% the first month. The installation crew was clean, professional, and even walked us through how to use the new thermostat before they left.",
+      "service": "AC Installation",
+      "date": "2024-10-20",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "name": "James P.",
+      "location": "{{city}}, {{state}}",
+      "rating": 5,
+      "text": "We have been using {{businessName}} for annual maintenance for three years now and would not trust anyone else with our system. Every visit, they catch small issues before they turn into expensive problems. Last spring they found a worn capacitor that would have failed mid-summer. Their maintenance plan has already paid for itself several times over.",
+      "service": "AC Maintenance",
+      "date": "2024-09-10",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "name": "Maria G.",
+      "location": "{{city}}, {{state}}",
+      "rating": 5,
+      "text": "Our furnace stopped working right before a cold snap and I was worried about our pipes freezing. {{businessName}} came out same day, even though it was their busiest week. The technician found a faulty ignitor and had it replaced in under an hour. He also checked our carbon monoxide levels and made sure everything was safe. Fair price and outstanding service.",
+      "service": "Heating Repair",
+      "date": "2024-08-05",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "name": "Tom H.",
+      "location": "{{city}}, {{state}}",
+      "rating": 5,
+      "text": "The team at {{businessName}} went above and beyond what I expected. During a routine maintenance visit, they discovered a major duct leak in our attic that was costing us hundreds in wasted energy every month. They showed me the problem on camera, explained my options clearly, and fixed it on the spot. Our utility bill dropped noticeably the very next month.",
+      "service": "Duct Service",
+      "date": "2024-07-18",
+      "verified": true
+    }
+  ],
+  "summary": {
+    "averageRating": "4.9",
+    "totalReviews": "847"
+  }
+}

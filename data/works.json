@@ -1,0 +1,113 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "slug": "scottsdale-estate-deep-clean",
+      "title": "Luxury Estate Deep Clean",
+      "location": "Scottsdale, AZ",
+      "category": "Deep Cleaning",
+      "description": "Complete deep cleaning of a 6,500 sq ft luxury estate in North Scottsdale. Tackled years of buildup in a recently purchased home, transforming every room from dusty to dazzling.",
+      "beforeImage": "https://images.pexels.com/photos/4570110/pexels-photo-4570110.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "afterImage": "https://images.pexels.com/photos/19689230/pexels-photo-19689230.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "featuredImage": "https://images.pexels.com/photos/2227832/pexels-photo-2227832.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "stats": {
+        "sqFt": "6,500",
+        "duration": "2 Days",
+        "team": "4 cleaners"
+      },
+      "services": ["Deep Cleaning"],
+      "featured": true
+    },
+    {
+      "id": 2,
+      "slug": "paradise-valley-move-out",
+      "title": "Move-Out Transformation",
+      "location": "Paradise Valley, AZ",
+      "category": "Move-In/Move-Out",
+      "description": "Complete move-out cleaning for a luxury rental property. The tenants left significant mess, but we restored it to better-than-new condition for the homeowner.",
+      "beforeImage": "https://images.pexels.com/photos/938045/pexels-photo-938045.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "afterImage": "https://images.pexels.com/photos/7865621/pexels-photo-7865621.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "featuredImage": "https://images.pexels.com/photos/7031603/pexels-photo-7031603.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "stats": {
+        "sqFt": "3,200",
+        "duration": "1 Day",
+        "result": "Full deposit"
+      },
+      "services": ["Move-In/Move-Out Cleaning"],
+      "featured": true
+    },
+    {
+      "id": 3,
+      "slug": "tempe-airbnb-turnover",
+      "title": "Airbnb Quick Turnover",
+      "location": "Tempe, AZ",
+      "category": "Vacation Rental",
+      "description": "Same-day turnover for a busy Airbnb property near ASU. Guest checkout at 11am, new guests arriving at 3pm. Complete clean, fresh linens, and restocking done with time to spare.",
+      "beforeImage": "https://images.pexels.com/photos/7507776/pexels-photo-7507776.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "afterImage": "https://images.pexels.com/photos/14580368/pexels-photo-14580368.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "featuredImage": "https://images.pexels.com/photos/5461582/pexels-photo-5461582.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "stats": {
+        "turnoverTime": "3 hours",
+        "bedrooms": "3",
+        "guestRating": "5 stars"
+      },
+      "services": ["Airbnb & Vacation Rental"],
+      "featured": true
+    },
+    {
+      "id": 4,
+      "slug": "phoenix-post-renovation",
+      "title": "Post-Renovation Cleanup",
+      "location": "Phoenix, AZ",
+      "category": "Post-Construction",
+      "description": "Kitchen and bathroom renovation left construction dust everywhere. Our team removed drywall dust from every surface, cleaned all new fixtures, and made the space move-in ready.",
+      "beforeImage": "https://images.pexels.com/photos/3990359/pexels-photo-3990359.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "afterImage": "https://images.pexels.com/photos/6301183/pexels-photo-6301183.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "featuredImage": "https://images.pexels.com/photos/6301168/pexels-photo-6301168.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "stats": {
+        "area": "Kitchen + 2 baths",
+        "duration": "6 hours",
+        "dustRemoved": "Complete"
+      },
+      "services": ["Post-Construction Cleaning"],
+      "featured": true
+    },
+    {
+      "id": 5,
+      "slug": "fountain-hills-weekly-client",
+      "title": "Weekly Home Maintenance",
+      "location": "Fountain Hills, AZ",
+      "category": "Regular Cleaning",
+      "description": "One year of weekly cleaning for a busy family of five. The same cleaner visits every Thursday, keeping their 4-bedroom home consistently spotless despite active kids and pets.",
+      "beforeImage": "https://images.pexels.com/photos/20374786/pexels-photo-20374786.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "afterImage": "https://images.pexels.com/photos/5570222/pexels-photo-5570222.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "featuredImage": "https://images.pexels.com/photos/7018389/pexels-photo-7018389.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "stats": {
+        "frequency": "Weekly",
+        "clientSince": "2023",
+        "bedrooms": "4"
+      },
+      "services": ["Regular House Cleaning"],
+      "featured": true
+    },
+    {
+      "id": 6,
+      "slug": "cave-creek-office-clean",
+      "title": "Medical Office Deep Clean",
+      "location": "Cave Creek, AZ",
+      "category": "Commercial",
+      "description": "After-hours deep cleaning for a dental office. Sanitized all patient areas, waiting room, and break room. Special attention to high-touch surfaces and medical-grade cleanliness standards.",
+      "beforeImage": "https://images.pexels.com/photos/4756489/pexels-photo-4756489.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "afterImage": "https://images.pexels.com/photos/305568/pexels-photo-305568.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "featuredImage": "https://images.pexels.com/photos/35438269/pexels-photo-35438269.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "stats": {
+        "sqFt": "2,400",
+        "duration": "4 hours",
+        "standard": "Medical grade"
+      },
+      "services": ["Office Cleaning"],
+      "featured": false
+    }
+  ],
+  "categories": ["All", "Deep Cleaning", "Move-In/Move-Out", "Vacation Rental", "Post-Construction", "Regular Cleaning", "Commercial"]
+}
