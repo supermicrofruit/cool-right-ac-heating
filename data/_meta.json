@@ -1,11 +1,11 @@
 {
-  "businessName": "Bright Spark Electric",
-  "slug": "bright-spark-electric-denver",
-  "vertical": "electrical",
-  "generatedAt": "2026-02-20T13:34:44.186Z",
-  "generatedBy": "clonerator",
+  "businessName": "Cool Right AC & Heating",
+  "slug": "cool-right-ac-heating",
+  "vertical": "hvac",
+  "generatedAt": "2026-02-22T20:00:00.000Z",
+  "generatedBy": "claude-code",
   "version": "1.0.0",
-  "status": "generating",
+  "status": "generated",
   "files": [
     "business.json",
     "content.json",

@@ -1,57 +1,57 @@
 {
   "summary": {
-    "averageRating": 4.7,
-    "totalReviews": 312
+    "averageRating": 4.8,
+    "totalReviews": 203
   },
   "testimonials": [
     {
-      "id": 1,
-      "name": "Angela R.",
+      "id": "t1",
+      "name": "Rachel Dominguez",
       "rating": 5,
-      "text": "Bright Spark Electric rewired our entire 1960s home. They were meticulous about everything — clean work, labeled breakers, and passed inspection first try.",
-      "service": "Whole Home Rewiring",
-      "location": "Denver, CO",
-      "date": "2024-11-18",
+      "text": "Our AC died on a Saturday afternoon in August — worst timing possible. Called Cool Right and they had a tech at our house in Stone Oak within two hours. Turned out to be a bad capacitor, and he had the part on his truck. Fixed in under an hour and didn't charge us extra for the weekend call. We've been using them for our twice-a-year maintenance ever since.",
+      "service": "AC Repair",
+      "location": "Stone Oak, San Antonio",
+      "date": "2025-08-14",
       "verified": true
     },
     {
-      "id": 2,
-      "name": "Steven C.",
+      "id": "t2",
+      "name": "James Whitfield",
       "rating": 5,
-      "text": "Had a circuit breaker that kept tripping. Bright Spark Electric found the root cause — an overloaded circuit from a bad renovation. Fixed it properly and explained everything.",
-      "service": "Panel Upgrade",
-      "location": "Denver, CO",
-      "date": "2024-10-22",
+      "text": "Had Cool Right install a new Trane system in our 1960s Terrell Hills home. They did a full load calculation and recommended a smaller unit than the other company quoted — saved us about $2,000 and the house has never been more comfortable. The crew was respectful, cleaned up everything, and the install was done in one day. Highly recommend.",
+      "service": "AC Installation",
+      "location": "Terrell Hills, San Antonio",
+      "date": "2025-06-22",
       "verified": true
     },
     {
-      "id": 3,
-      "name": "Diana F.",
+      "id": "t3",
+      "name": "Maria Estrada",
       "rating": 5,
-      "text": "Installed landscape lighting and outdoor outlets for our patio remodel. The design was beautiful and everything works perfectly. Very detail-oriented team.",
-      "service": "Outdoor Lighting",
-      "location": "Denver, CO",
-      "date": "2024-09-15",
+      "text": "We moved to New Braunfels last year and needed someone to service our heat pump before summer hit. Cool Right was thorough, on time, and the technician explained everything he found — including a duct that had come disconnected in the attic. He fixed it on the spot. Fair prices and genuinely nice people.",
+      "service": "Maintenance Plans",
+      "location": "New Braunfels, TX",
+      "date": "2025-04-10",
       "verified": true
     },
     {
-      "id": 4,
-      "name": "Ray T.",
-      "rating": 5,
-      "text": "Power went out in half the house during a monsoon. Bright Spark Electric came out same day, found a damaged breaker, and had us back up in no time.",
-      "service": "Emergency Service",
-      "location": "Denver, CO",
-      "date": "2024-08-20",
+      "id": "t4",
+      "name": "Kevin Tran",
+      "rating": 4,
+      "text": "Called for emergency service when our furnace stopped working during that cold snap in January. Tech arrived about three hours after I called, which was longer than I hoped, but he explained they were slammed with calls. The repair itself was fast and professional. He found a cracked igniter and replaced it. Been working great since. Would use again.",
+      "service": "Heating Repair",
+      "location": "Schertz, TX",
+      "date": "2026-01-18",
       "verified": true
     },
     {
-      "id": 5,
-      "name": "Linda S.",
+      "id": "t5",
+      "name": "Amanda Brooks",
       "rating": 5,
-      "text": "Installed a Tesla Wall Connector and upgraded our panel to handle it. Bright Spark Electric handled the permit, install, and inspection. Seamless experience.",
-      "service": "EV Charger Install",
-      "location": "Denver, CO",
-      "date": "2024-07-10",
+      "text": "Best HVAC experience I've had in 20 years of homeownership. We got quotes from four companies for a new system and Cool Right was the most transparent about what we actually needed. No scare tactics, no upselling. The Ecobee thermostat they installed is amazing — our CPS Energy bill dropped by about $40 a month. These are good, honest people.",
+      "service": "AC Installation",
+      "location": "Alamo Heights, San Antonio",
+      "date": "2025-10-05",
       "verified": true
     }
   ]

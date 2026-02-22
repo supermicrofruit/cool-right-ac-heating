@@ -1,23 +1,23 @@
 {
-  "name": "Bright Spark Electric",
-  "phone": "(303) 555-0176",
-  "phoneRaw": "+13035550176",
+  "name": "Cool Right AC & Heating",
+  "phone": "(210) 555-6543",
+  "phoneRaw": "+12105556543",
   "address": {
-    "street": "1550 Larimer St",
-    "city": "Denver",
-    "state": "CO",
-    "zip": "80202",
-    "full": "1550 Larimer St, Denver, CO 80202"
+    "street": "5900 Broadway St",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78209",
+    "full": "5900 Broadway St, San Antonio, TX 78209"
   },
   "coordinates": {
-    "lat": 39.7392,
-    "lng": -104.9903
+    "lat": 29.4684,
+    "lng": -98.4657
   },
-  "vertical": "electrical",
-  "region": "Denver Metro",
-  "rating": 4.7,
-  "reviewCount": 312,
-  "established": 2015,
+  "vertical": "hvac",
+  "region": "San Antonio Metro",
+  "rating": 4.8,
+  "reviewCount": 203,
+  "established": 2016,
   "licenses": [],
   "certifications": [],
   "socialMedia": {},
@@ -25,22 +25,13 @@
   "financing": true,
   "freeEstimates": true,
   "hours": {
-    "weekdays": "7:00 AM - 6:00 PM",
-    "saturday": "8:00 AM - 4:00 PM",
-    "sunday": "Closed",
+    "weekdays": "7:00 AM - 7:00 PM",
+    "saturday": "8:00 AM - 5:00 PM",
+    "sunday": "Emergency Only",
     "structured": [
-      {
-        "days": "Monday - Friday",
-        "hours": "7:00 AM - 6:00 PM"
-      },
-      {
-        "days": "Saturday",
-        "hours": "8:00 AM - 4:00 PM"
-      },
-      {
-        "days": "Sunday",
-        "hours": "Closed"
-      }
+      { "days": "Monday - Friday", "hours": "7:00 AM - 7:00 PM" },
+      { "days": "Saturday", "hours": "8:00 AM - 5:00 PM" },
+      { "days": "Sunday", "hours": "Emergency Only" }
     ]
   },
   "features": {
@@ -48,16 +39,16 @@
     "showBlog": true,
     "showWorks": true,
     "showFinancing": true,
-    "emergencyBadge": false,
+    "emergencyBadge": true,
     "callbackWidget": true,
     "stickyPhone": true
   },
   "seo": {
-    "titleTemplate": "%s | Bright Spark Electric",
-    "defaultDescription": "Professional electrical services in Denver, CO. 4.7-star rated with 312+ reviews."
+    "titleTemplate": "%s | Cool Right AC & Heating",
+    "defaultDescription": "San Antonio's trusted HVAC service. 4.8-star rated. AC repair, installation, and 24/7 emergency service."
   },
   "forms": {
-    "successMessage": "Thanks! We'll be in touch within 1 business hour.",
+    "successMessage": "Thanks! We'll be in touch within 1 hour.",
     "errorMessage": "Something went wrong. Please call us directly."
   }
 }

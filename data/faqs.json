@@ -5,82 +5,82 @@
       "slug": "general",
       "faqs": [
         {
-          "question": "How fast can you get here?",
-          "answer": "For Denver and surrounding areas, we typically arrive within 2-4 hours. Electrical emergencies like sparking, burning smells, or complete power loss are prioritized for immediate response."
-        },
-        {
-          "question": "Are your electricians licensed?",
-          "answer": "Yes, Bright Spark Electric is fully licensed (LIC-ELECTRICAL-27017) and insured. Every electrician on our team is licensed, background-checked, and continuously trained on current codes."
-        },
-        {
-          "question": "Do you pull permits?",
-          "answer": "Yes, we pull all necessary permits and schedule inspections for work that requires them. This ensures your work is code-compliant and won't cause issues when selling your home."
+          "question": "What areas do you serve?",
+          "answer": "Cool Right AC & Heating serves the entire San Antonio metro area including Alamo Heights, Stone Oak, Helotes, Schertz, Universal City, New Braunfels, Boerne, and surrounding communities in Bexar, Comal, Guadalupe, and Kendall counties."
         },
         {
           "question": "Do you offer free estimates?",
-          "answer": "Yes, estimates for larger projects like panel upgrades, rewiring, and EV charger installation are free. For service calls, we charge a diagnostic fee that's applied to the repair if you proceed."
+          "answer": "Yes. We provide free in-home estimates for all new installations and system replacements. For repairs, we charge a standard diagnostic fee that is waived if you proceed with the repair."
         },
         {
-          "question": "Do you guarantee your work?",
-          "answer": "Absolutely. All electrical work comes with a 2-year warranty. If anything we installed or repaired fails, we'll fix it at no charge."
+          "question": "Are you licensed and insured?",
+          "answer": "Yes. Cool Right AC & Heating is fully licensed by the Texas Department of Licensing and Regulation (TDLR) and carries full liability insurance. All of our technicians are background-checked and NATE-certified."
         },
         {
-          "question": "Do you work on commercial properties?",
-          "answer": "We primarily serve residential customers, but we can handle light commercial work. Contact us to discuss your project."
+          "question": "Do you offer financing?",
+          "answer": "Yes. We offer flexible financing options including 0% APR plans for qualified buyers. We work with multiple lenders to find an option that fits your budget. Ask about our financing when you schedule your free estimate."
         }
       ]
     },
     {
-      "name": "Repairs",
-      "slug": "repairs",
+      "name": "AC Repair",
+      "slug": "ac-repair",
       "faqs": [
         {
-          "question": "Why do my lights flicker?",
-          "answer": "Flickering lights can indicate loose connections, overloaded circuits, or problems at the panel. While sometimes minor, persistent flickering should be checked—it can indicate fire hazards."
+          "question": "How quickly can you get to my home for an AC repair?",
+          "answer": "In most cases, we offer same-day service for AC repairs across the San Antonio metro. During peak summer months (June-August), demand is high, but we prioritize emergency repairs and maintenance plan members always receive priority scheduling."
         },
         {
-          "question": "Why does my breaker keep tripping?",
-          "answer": "Breakers trip when circuits are overloaded or there's a short circuit. If one breaker trips repeatedly, it may need to be replaced or the circuit may need to be split. This shouldn't be ignored."
+          "question": "My AC is running but not cooling. What could be wrong?",
+          "answer": "Several things can cause this: low refrigerant from a leak, a dirty or frozen evaporator coil, a faulty compressor, or a malfunctioning thermostat. Our technicians will diagnose the exact cause and provide an upfront quote before starting any work."
         },
         {
-          "question": "Is a burning smell from an outlet dangerous?",
-          "answer": "Yes! A burning smell indicates an electrical problem that could cause a fire. Turn off the circuit at the panel and call us immediately. Don't use the outlet until it's been inspected."
+          "question": "Is it worth repairing my old AC or should I replace it?",
+          "answer": "As a general rule, if your system is over 12-15 years old and the repair costs more than half the price of a new unit, replacement is usually the smarter investment. Newer systems are significantly more efficient — many San Antonio homeowners see their CPS Energy bills drop 30-40% after upgrading."
+        },
+        {
+          "question": "Do you charge extra for weekend or evening repairs?",
+          "answer": "Maintenance plan members never pay overtime charges. For non-members, we offer competitive rates for after-hours service. We always provide the price upfront before beginning any work, so there are no surprises."
         }
       ]
     },
     {
-      "name": "Panels",
-      "slug": "panels",
+      "name": "Heating",
+      "slug": "heating",
       "faqs": [
         {
-          "question": "When should I upgrade my electrical panel?",
-          "answer": "Consider upgrading if you have a 100-amp panel (most modern homes need 200), frequently trip breakers, are adding major appliances, or plan to add an EV charger or home addition."
+          "question": "Do I really need heating service in San Antonio?",
+          "answer": "Absolutely. While our winters are mild compared to northern states, San Antonio regularly sees cold fronts that drop temperatures into the 20s and 30s. A functioning heating system is essential for those stretches, especially for families with young children or elderly members."
         },
         {
-          "question": "How much does a panel upgrade cost?",
-          "answer": "Panel upgrades typically range from $1,500-$3,500 depending on scope. Factors include current amperage, new amperage needed, and any additional work required. We provide free detailed estimates."
+          "question": "What type of heating system is best for San Antonio?",
+          "answer": "For most San Antonio homes, a heat pump is the most efficient option because it provides both heating and cooling. However, homes with existing gas lines may benefit from a high-efficiency gas furnace. We'll evaluate your home and help you choose the best option for your situation and budget."
         },
         {
-          "question": "How long does a panel upgrade take?",
-          "answer": "Most panel upgrades are completed in one day. The power will be off for 4-8 hours during the upgrade. We'll coordinate with your utility company for temporary disconnection."
+          "question": "How do I know if my furnace is safe?",
+          "answer": "Warning signs include a yellow or flickering pilot light (should be blue), unusual odors when the system runs, excessive soot around the unit, or frequent headaches when the heater is on. We perform carbon monoxide testing on every gas furnace repair and recommend annual safety inspections."
         }
       ]
     },
     {
-      "name": "Ev Chargers",
-      "slug": "ev-chargers",
+      "name": "Maintenance",
+      "slug": "maintenance",
       "faqs": [
         {
-          "question": "What's the difference between Level 1 and Level 2 charging?",
-          "answer": "Level 1 uses a standard 120V outlet and adds about 4-5 miles of range per hour. Level 2 uses a 240V circuit and adds 25-30 miles per hour. Most EV owners prefer Level 2 for overnight charging."
+          "question": "How often should I have my HVAC system serviced?",
+          "answer": "We recommend twice a year: once in spring before AC season and once in fall before heating season. In San Antonio, the spring tune-up is especially important — our long, hot summers put serious demand on your AC system, and catching issues early prevents breakdowns during peak heat."
         },
         {
-          "question": "Does my panel support an EV charger?",
-          "answer": "EV chargers typically need a 50-amp dedicated circuit. We'll assess your panel's capacity and recommend any needed upgrades. Many homes can add a charger without panel upgrades."
+          "question": "What does a maintenance visit include?",
+          "answer": "Our comprehensive tune-up includes checking refrigerant levels, cleaning condenser and evaporator coils, inspecting and tightening electrical connections, lubricating moving parts, checking the condensate drain, testing thermostat calibration, and inspecting ductwork for leaks."
         },
         {
-          "question": "Can I get rebates for EV charger installation?",
-          "answer": "Many utilities and states offer rebates for EV charger installation. We can help you identify available rebates and provide documentation needed to claim them."
+          "question": "How often should I change my air filter?",
+          "answer": "In San Antonio, we recommend changing standard 1-inch filters every 30-60 days, especially during heavy-use months (May-September). Homes with pets, allergies, or near construction should change them monthly. If you use a 4-inch media filter, every 3-6 months is usually sufficient."
+        },
+        {
+          "question": "What are the benefits of a maintenance plan?",
+          "answer": "Plan members receive two annual tune-ups, priority scheduling during peak season, 15% off all repairs, no overtime charges, and extended equipment life. Most members save more on their first repair than the annual plan costs. It also keeps your manufacturer warranty valid."
         }
       ]
     }

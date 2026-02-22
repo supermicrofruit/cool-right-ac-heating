@@ -1,63 +1,45 @@
 {
   "categories": [
-    {
-      "name": "Electrical Safety",
-      "slug": "electrical-safety"
-    },
-    {
-      "name": "EV Charging",
-      "slug": "ev-charging"
-    },
-    {
-      "name": "Seasonal Tips",
-      "slug": "seasonal-tips"
-    }
+    { "name": "AC Tips", "slug": "ac-tips" },
+    { "name": "Energy Savings", "slug": "energy-savings" },
+    { "name": "Seasonal Maintenance", "slug": "seasonal-maintenance" }
   ],
   "posts": [
     {
-      "slug": "signs-you-need-panel-upgrade",
-      "title": "5 Signs Your Electrical Panel Needs an Upgrade",
-      "excerpt": "An outdated electrical panel can be a safety hazard. Learn when it's time for an upgrade.",
-      "content": "Your electrical panel is the heart of your home's electrical system. Here are signs it needs attention:\n\n## 1. Frequent Breaker Trips\nIf breakers trip regularly, your panel may be overloaded.\n\n## 2. Flickering Lights\nLights dimming when appliances turn on indicates insufficient capacity.\n\n## 3. Burning Smell or Scorch Marks\nThis is an emergency — call an electrician immediately.\n\n## 4. You Still Have a Fuse Box\nFuse boxes should be upgraded to modern breaker panels for safety.\n\n## 5. Planning Home Additions\nNew rooms, EV chargers, or hot tubs require additional capacity.\n\nBright Spark Electric offers free panel inspections for Denver homeowners.",
-      "authorId": "electrical-team",
-      "date": "2024-03-15",
-      "category": {
-        "name": "Electrical Safety",
-        "slug": "electrical-safety"
-      },
-      "metaTitle": "5 Signs Your Electrical Panel Needs an Upgrade",
-      "metaDescription": "An outdated electrical panel can be a safety hazard. Learn when it's time for an upgrade.",
-      "readTime": "4 min read"
+      "slug": "surviving-san-antonio-summer-ac-tips",
+      "title": "7 Ways to Keep Your AC Running Strong Through a San Antonio Summer",
+      "excerpt": "San Antonio summers push AC systems to their limits. Here are seven practical tips from our technicians to keep your system running efficiently when it matters most.",
+      "content": "## Why San Antonio Summers Are Brutal on AC Systems\n\nSan Antonio regularly sees 30+ consecutive days above 100°F between June and August. Your air conditioner runs nearly nonstop during these stretches, and that sustained demand exposes every weakness in your system. A unit that seemed fine in April can break down in July when it's been running 18 hours a day.\n\nHere are seven things you can do right now to reduce the strain on your system and avoid an emergency repair call during peak heat.\n\n## 1. Change Your Filter Every 30 Days in Summer\n\nDuring heavy-use months, a standard 1-inch filter clogs faster than you'd expect — especially in San Antonio where dust, pollen, and construction debris are constant. A clogged filter forces your system to work harder, drives up your CPS Energy bill, and can cause your evaporator coil to freeze.\n\nSet a monthly reminder on your phone. It takes two minutes and costs a few dollars. It's the single easiest thing you can do for your AC.\n\n## 2. Keep Your Outdoor Unit Clear\n\nYour condenser unit (the big box outside) needs at least two feet of clearance on all sides to breathe properly. Trim back bushes, move patio furniture, and clear away any debris. Rinse the condenser coils with a garden hose every few weeks to remove dirt and cottonwood buildup.\n\n## 3. Don't Set Your Thermostat Too Low\n\nWe get it — it's tempting to crank the thermostat down to 68°F when it's 105 outside. But most residential AC systems are designed to cool about 20 degrees below the outdoor temperature. Setting it lower than that just makes the system run continuously without ever reaching the target, wasting energy and accelerating wear.\n\nA setting of 76-78°F is the sweet spot for most San Antonio homes. Use ceiling fans to make it feel cooler.\n\n## 4. Check Your Ductwork for Leaks\n\nIn many San Antonio homes — especially those built in the 1970s-90s — the ductwork runs through a scorching attic. Leaky ducts in a 140°F attic mean you're paying to cool your attic instead of your living space. We find duct leaks in about 60% of the homes we service. A professional duct inspection can identify and seal these leaks.\n\n## 5. Use a Programmable or Smart Thermostat\n\nIf you're still using a manual thermostat, upgrading to a Nest or Ecobee can save you 10-15% on cooling costs. Program it to raise the temperature 5-7 degrees while you're at work, and cool down 30 minutes before you get home. You'll barely notice the difference but your energy bill will.\n\n## 6. Schedule Your Tune-Up Before Summer\n\nThe best time to find out your AC has an issue is April — not July. A professional spring tune-up catches refrigerant leaks, worn capacitors, dirty coils, and other problems before they cause a breakdown during the hottest week of the year. Cool Right's maintenance plans include this spring visit.\n\n## 7. Know When It's Time to Replace\n\nIf your system is over 12 years old, uses R-22 refrigerant (which is no longer manufactured), or needs frequent repairs, it may be time to consider a replacement. Modern systems are dramatically more efficient. Many of our customers see their summer electric bills drop by $80-120/month after upgrading to a new high-efficiency unit.\n\n## Stay Cool, San Antonio\n\nA little prevention goes a long way. If you want help getting your system ready for summer, call Cool Right at (210) 555-6543 or schedule online. We offer free estimates on new installations and affordable maintenance plans that keep your AC running strong all season.",
+      "authorId": "hvac-team",
+      "date": "2026-02-10",
+      "category": { "name": "AC Tips", "slug": "ac-tips" },
+      "metaTitle": "7 AC Tips for San Antonio Summers | Cool Right AC & Heating",
+      "metaDescription": "Keep your AC running through triple-digit San Antonio heat with these 7 practical tips from Cool Right's certified HVAC technicians.",
+      "readTime": "6 min read"
     },
     {
-      "slug": "ev-charger-home-guide",
-      "title": "The Complete Guide to Home EV Charger Installation",
-      "excerpt": "Everything you need to know about installing an electric vehicle charger at your Denver home.",
-      "content": "Thinking about a home EV charger? Here's what to know:\n\n## Level 1 vs Level 2\n- Level 1: Standard outlet, 3-5 miles/hour charge\n- Level 2: 240V dedicated circuit, 25-30 miles/hour charge\n\n## What You'll Need\n- 240V dedicated circuit (40-60 amps)\n- Possible panel upgrade if capacity is limited\n- Permit and inspection (we handle this)\n\n## Popular Chargers\n- Tesla Wall Connector\n- ChargePoint Home Flex\n- Emporia Level 2\n\n## Cost Factors\n- Distance from panel to garage\n- Panel upgrade needed?\n- Conduit routing\n\nContact Bright Spark Electric for a free EV charger installation estimate.",
-      "authorId": "electrical-team",
-      "date": "2024-02-20",
-      "category": {
-        "name": "EV Charging",
-        "slug": "ev-charging"
-      },
-      "metaTitle": "The Complete Guide to Home EV Charger Installation",
-      "metaDescription": "Everything you need to know about installing an electric vehicle charger at your Denver home.",
+      "slug": "smart-thermostat-guide-san-antonio",
+      "title": "Smart Thermostats in San Antonio: Which One Is Right for Your Home?",
+      "excerpt": "A smart thermostat can cut your energy bill by 10-15%. Here's a straightforward comparison of the top options and what works best for San Antonio's climate.",
+      "content": "## Why San Antonio Homeowners Love Smart Thermostats\n\nSan Antonio's climate is uniquely demanding on HVAC systems. Long, extreme summers followed by unpredictable winter cold fronts mean your thermostat is constantly adjusting. A smart thermostat handles these swings automatically, learning your schedule and optimizing for both comfort and energy savings.\n\nAfter installing thousands of smart thermostats across the San Antonio metro, here's what we recommend.\n\n## The Top Three Options\n\n### Google Nest Learning Thermostat\n\n**Best for:** Set-it-and-forget-it homeowners\n\nThe Nest learns your schedule automatically. After about a week, it starts adjusting temperatures based on when you're home, away, and asleep. It also uses your phone's location to detect when you leave and automatically enters energy-saving mode.\n\n**Pros:** Beautiful design, truly automatic learning, great app, works with most systems\n**Cons:** Premium price (~$250), learning period can be inconsistent in homes with irregular schedules\n**CPS Energy rebate eligible:** Yes\n\n### Ecobee Smart Thermostat Premium\n\n**Best for:** Homes with hot/cold spots\n\nEcobee comes with a room sensor that you place in a different room. Instead of only reading the temperature at the thermostat location (usually a hallway), it averages the temperatures across rooms. This is great for San Antonio two-story homes where the upstairs is always hotter.\n\n**Pros:** Room sensors included, built-in Alexa, excellent app, air quality monitoring\n**Cons:** Slightly complex setup, sensors require batteries\n**CPS Energy rebate eligible:** Yes\n\n### Honeywell Home T6 Pro\n\n**Best for:** Budget-conscious homeowners who want smart features\n\nThe T6 Pro doesn't have the flashy features of Nest or Ecobee, but it's reliable, compatible with virtually every HVAC system, and significantly cheaper (~$120-150). It offers basic scheduling, geofencing, and app control.\n\n**Pros:** Affordable, extremely reliable, wide compatibility, simple setup\n**Cons:** No learning features, no room sensors, basic interface\n**CPS Energy rebate eligible:** Yes\n\n## Real Savings in San Antonio\n\nBased on what we see from our customers, a smart thermostat typically saves $25-50/month during summer on CPS Energy bills. That means most units pay for themselves within one cooling season. The biggest savings come from the away-from-home detection — no more cooling an empty house all day.\n\n## Installation Considerations\n\nMost smart thermostats require a \"C-wire\" (common wire) for continuous power. Many older San Antonio homes don't have one at their thermostat location. This isn't a dealbreaker — we can run a C-wire or install an adapter — but it does add to the installation time and cost.\n\nWe also check your HVAC system compatibility before installation. Some older systems with proprietary controls may not work with all smart thermostats.\n\n## Our Recommendation\n\nFor most San Antonio homes, we recommend the **Ecobee Smart Thermostat Premium** with an extra room sensor for two-story homes, and the **Nest Learning Thermostat** for single-story homes with predictable schedules. Both are eligible for CPS Energy rebates.\n\nWant help choosing or need professional installation? Call Cool Right at (210) 555-6543. We install all major brands and make sure your new thermostat is optimized for your home and your HVAC system.",
+      "authorId": "hvac-team",
+      "date": "2026-01-28",
+      "category": { "name": "Energy Savings", "slug": "energy-savings" },
+      "metaTitle": "Best Smart Thermostats for San Antonio Homes | Cool Right AC & Heating",
+      "metaDescription": "Compare Nest, Ecobee, and Honeywell smart thermostats for San Antonio homes. Real savings data and expert recommendations from Cool Right.",
       "readTime": "5 min read"
     },
     {
-      "slug": "monsoon-electrical-safety",
-      "title": "Monsoon Season Electrical Safety Tips for Denver Homes",
-      "excerpt": "Protect your home and family during Arizona's monsoon season with these electrical safety tips.",
-      "content": "Denver's monsoon season brings lightning, wind, and flooding — all threats to your electrical system:\n\n## Before Monsoon Season\n- Install whole-home surge protection\n- Trim trees near power lines\n- Check outdoor outlets have GFCI protection\n- Test backup generators\n\n## During Storms\n- Unplug sensitive electronics\n- Stay away from downed power lines\n- Don't use electrical appliances during active lightning\n\n## After Storms\n- Check for water intrusion near electrical panels\n- Test GFCI outlets\n- Look for damage to outdoor wiring\n\nBright Spark Electric offers pre-monsoon electrical inspections to keep your home safe.",
-      "authorId": "electrical-team",
-      "date": "2024-01-10",
-      "category": {
-        "name": "Seasonal Tips",
-        "slug": "seasonal-tips"
-      },
-      "metaTitle": "Monsoon Season Electrical Safety Tips for Denver Homes",
-      "metaDescription": "Protect your home and family during Arizona's monsoon season with these electrical safety tips.",
-      "readTime": "4 min read"
+      "slug": "spring-hvac-checklist-san-antonio",
+      "title": "San Antonio Spring HVAC Checklist: Get Ready Before the Heat Hits",
+      "excerpt": "Don't wait until June to find out your AC has a problem. Here's our complete spring preparation checklist for San Antonio homeowners.",
+      "content": "## Why Spring Maintenance Matters in San Antonio\n\nEvery year, the same thing happens: the first 95-degree day in May hits, everyone turns on their AC for the first time, and our phones ring nonstop. Half of those calls are for problems that could have been caught and fixed during a spring tune-up.\n\nSan Antonio's transition from mild winter to extreme summer is fast. One week it's 75°F, the next it's 98°F. Your AC goes from sitting idle to running 12+ hours a day with almost no transition period. That sudden demand is when weak components fail.\n\nHere's your complete spring checklist.\n\n## DIY Checklist (Do These Yourself)\n\n### 1. Replace Your Air Filter\nStart the season with a fresh filter. If you haven't changed it since fall, it's overdue. In San Antonio, especially during spring pollen season (mountain cedar wraps up, oak pollen begins), your filter is working overtime.\n\n### 2. Clear the Outdoor Unit\nWinter storms blow leaves, branches, and debris around your condenser. Clear everything within two feet. Use a garden hose to gently rinse the condenser fins from top to bottom. Don't use a pressure washer — it bends the fins.\n\n### 3. Check Your Thermostat\nSwitch from heat to cool mode and set the temperature a few degrees below room temperature. Listen for the system to kick on. If it doesn't start within a few minutes or blows warm air, it's time to call a professional.\n\n### 4. Open All Vents\nWalk through your home and make sure all supply and return vents are open and unblocked. Furniture, rugs, and curtains covering vents restrict airflow and create pressure imbalances that stress your system.\n\n### 5. Test Your Drain Line\nThe condensate drain line (usually a white PVC pipe near your indoor unit) should drip steadily when the AC runs. If it's clogged, water backs up and can cause damage or trigger the safety switch that shuts your system down. Pour a cup of white vinegar down the drain line to keep it clear.\n\n## Professional Checklist (What Our Technicians Do)\n\nDuring a Cool Right spring tune-up, we cover everything a homeowner can't:\n\n- **Check refrigerant levels** — Low refrigerant means a leak somewhere, and it gets worse over time\n- **Clean evaporator coil** — A dirty coil reduces cooling capacity by up to 30%\n- **Test capacitors** — The #1 cause of AC failure in San Antonio summers. They weaken with age and heat\n- **Inspect electrical connections** — Loose connections cause intermittent failures and are a fire risk\n- **Measure airflow** — We check that your system is moving the right volume of air for your home's size\n- **Calibrate thermostat** — A thermostat that reads 2 degrees off means your system works harder than it should\n- **Inspect ductwork** — Especially in attics, where San Antonio heat can reach 140°F and degrade duct tape and sealant\n\n## When to Schedule\n\nThe best time for spring maintenance in San Antonio is **March or April** — before the rush. By mid-May, our schedule fills up fast and wait times increase. Maintenance plan members get priority scheduling, so they always get their preferred time slot.\n\n## The Bottom Line\n\nA $150 tune-up in April can prevent a $1,500 compressor failure in July. It's the best return on investment in home maintenance.\n\nReady to schedule your spring tune-up? Call Cool Right at (210) 555-6543 or book online. Maintenance plan members, your appointment is already on our schedule — we'll call you to confirm.",
+      "authorId": "hvac-team",
+      "date": "2026-02-18",
+      "category": { "name": "Seasonal Maintenance", "slug": "seasonal-maintenance" },
+      "metaTitle": "Spring HVAC Checklist for San Antonio | Cool Right AC & Heating",
+      "metaDescription": "Complete spring AC maintenance checklist for San Antonio homeowners. DIY steps plus what the pros check. Schedule early before summer hits.",
+      "readTime": "7 min read"
     }
   ]
 }

@@ -1,132 +1,101 @@
 {
   "hero": {
-    "headline": "Spotless Spaces.",
-    "headlineAccent": "Happy Faces.",
-    "description": "Professional cleaning services that transform your home into a sanctuary. Eco-friendly products, trusted cleaners, and attention to every detail.",
-    "imageAlt": "Professional cleaner wiping kitchen counter"
-  },
-  "trustSection": {
-    "title": "Why Choose Sparkle Home Cleaning?",
-    "subtitle": "Trusted by hundreds of Scottsdale families for impeccable cleaning",
-    "factoryAuthorized": "Eco-Friendly Products",
-    "factoryDescription": "Green Seal Certified"
-  },
-  "mediaBar": {
-    "tagline": "Trusted By Scottsdale Families"
-  },
-  "servicesSection": {
-    "title": "Our Cleaning Services",
-    "subtitle": "Comprehensive cleaning solutions for homes and businesses"
-  },
-  "processSection": {
-    "title": "How We Work",
-    "subtitle": "Simple booking, exceptional results",
-    "steps": [
+    "headline": "Beat the Heat",
+    "headlineAccent": "Stay Cool.",
+    "subheading": "San Antonio's most trusted AC repair — fast response, honest pricing.",
+    "description": "Family-owned since 2016. Licensed technicians available 7 days a week with same-day service across the San Antonio metro.",
+    "ctaPrimary": "Get a Free Estimate",
+    "ctaSecondary": "Call (210) 555-6543",
+    "variations": [
       {
-        "title": "Book Online or Call",
-        "description": "Schedule your cleaning in minutes through our website or give us a call."
+        "headline": "Your Comfort",
+        "headlineAccent": "Our Priority.",
+        "subheading": "Expert AC and heating service for San Antonio homes and businesses."
       },
       {
-        "title": "Customize Your Clean",
-        "description": "Tell us your priorities and any special requests for your space."
+        "headline": "Texas Heat",
+        "headlineAccent": "Texas Tough Service.",
+        "subheading": "4.8 stars from 203 reviews. San Antonio trusts Cool Right."
       },
       {
-        "title": "We Clean, You Relax",
-        "description": "Our trained professionals arrive on time and clean with care."
-      },
-      {
-        "title": "Enjoy Your Space",
-        "description": "Come home to a spotless, fresh-smelling space. 100% satisfaction guaranteed."
+        "headline": "AC Down?",
+        "headlineAccent": "We're On It.",
+        "subheading": "Same-day emergency repairs. No overtime charges on weekends."
       }
     ]
   },
-  "worksSection": {
-    "badgeText": "Before & After",
-    "title": "Our Transformations",
-    "subtitle": "See the Sparkle difference in Scottsdale homes"
-  },
-  "testimonialsSection": {
-    "title": "What Our Clients Say",
-    "subtitle": "Trusted by hundreds of Scottsdale homeowners"
-  },
-  "aboutSection": {
-    "title": "About Sparkle Home Cleaning",
-    "subtitle": "Your trusted cleaning partner in Scottsdale",
-    "description": "Sparkle Home Cleaning was founded in 2018 with a simple mission: provide honest, thorough cleaning services that Scottsdale families can count on.\nWhat started as a one-person operation has grown into a team of 15+ professional cleaners. But even as we've grown, we've never lost sight of what matters most—treating every home with care and respect.",
-    "mission": "To make every Scottsdale home a healthier, happier place to live.",
-    "values": [
-      { "title": "Customer First", "description": "Every decision starts with what's best for our customers and their families." },
-      { "title": "Quality Work", "description": "We never cut corners. Every job done right, guaranteed." },
-      { "title": "Eco-Friendly", "description": "Green Seal Certified products that are safe for kids, pets, and the planet." }
+  "trust": {
+    "items": [
+      { "icon": "Star", "label": "4.8-Star Rated", "sublabel": "203 verified reviews" },
+      { "icon": "Clock", "label": "Same-Day Service", "sublabel": "Fast response guaranteed" },
+      { "icon": "Shield", "label": "Licensed & Insured", "sublabel": "TDLR certified technicians" },
+      { "icon": "DollarSign", "label": "Free Estimates", "sublabel": "No surprise charges" },
+      { "icon": "Zap", "label": "24/7 Emergency", "sublabel": "After-hours available" }
     ]
   },
-  "blogSection": {
-    "title": "Tips & Insights",
-    "subtitle": "Expert cleaning advice and home care tips from our team"
+  "process": {
+    "title": "How It Works",
+    "subtitle": "Getting your HVAC fixed shouldn't be complicated. Here's our simple process.",
+    "steps": [
+      {
+        "title": "Call or Book Online",
+        "description": "Reach us at (210) 555-6543 or fill out our form. We'll schedule a time that works for you — often same day."
+      },
+      {
+        "title": "Diagnosis & Quote",
+        "description": "Our technician arrives on time, diagnoses the issue, and gives you an upfront price before any work begins."
+      },
+      {
+        "title": "Expert Repair",
+        "description": "We fix it right the first time using quality parts. Most repairs are completed in a single visit."
+      },
+      {
+        "title": "Comfort Guaranteed",
+        "description": "Every job backed by our satisfaction guarantee. We follow up to make sure you're still comfortable."
+      }
+    ]
   },
-  "ctaBanner": {
-    "title": "Ready for a Spotless Home?",
-    "description": "Book your cleaning today and enjoy a fresh, healthy living space."
+  "about": {
+    "title": "San Antonio's HVAC Team",
+    "subtitle": "Keeping Bexar County comfortable since 2016.",
+    "description": "Cool Right AC & Heating was founded right here in San Antonio with a simple idea: HVAC service should be honest, affordable, and done right. What started as a two-person operation has grown into one of the most trusted names in San Antonio HVAC — not by cutting corners, but by treating every home like our own.\n\nOur technicians are NATE-certified and trained on all major brands including Trane, Carrier, Lennox, and Goodman. We serve homeowners, property managers, and small businesses across the San Antonio metro from Alamo Heights to Helotes.",
+    "highlights": [
+      { "label": "Years in Business", "value": "10+" },
+      { "label": "Homes Served", "value": "5,000+" },
+      { "label": "Google Rating", "value": "4.8" },
+      { "label": "Satisfaction Rate", "value": "99%" }
+    ]
+  },
+  "cta": {
+    "title": "Don't Sweat It — Call Cool Right",
+    "description": "Whether it's a broken AC in July or a heater that won't kick on in January, we've got you covered. Free estimates, financing available.",
+    "primaryButton": "Schedule Service",
+    "secondaryButton": "Call (210) 555-6543"
   },
   "pages": {
     "services": {
-      "heroTitle": "Our Cleaning Services",
-      "heroSubtitle": "From weekly maintenance to deep cleans, we've got you covered",
-      "ctaTitle": "Ready to Book Your Cleaning?",
-      "ctaDescription": "Contact us today for a free estimate on your home or office."
-    },
-    "about": {
-      "heroTitle": "Your Trusted Cleaning Partner Since 2018",
-      "heroSubtitle": "For 8 years, Sparkle Home Cleaning has been making Scottsdale homes shine. We treat every home like our own.",
-      "storyTitle": "Our Story",
-      "storyParagraphs": [
-        "Sparkle Home Cleaning was founded in 2018 with a simple mission: provide honest, thorough cleaning services that Scottsdale families can count on.",
-        "What started as a one-person operation has grown into a team of 15+ professional cleaners. But even as we've grown, we've never lost sight of what matters most—treating every home with care and respect.",
-        "Today, we're proud to serve hundreds of Scottsdale families with eco-friendly cleaning that's safe for kids, pets, and the planet."
-      ]
-    },
-    "contact": {
-      "heroTitle": "Get in Touch",
-      "heroSubtitle": "Ready to book a cleaning or have questions? We're here to help. Call us or fill out the form below.",
-      "formTitle": "Request a Free Estimate",
-      "formSubtitle": "Tell us about your space and we'll provide a customized quote.",
-      "emergencyTitle": "Need Same-Day Service?",
-      "emergencyText": "For urgent cleaning needs, please call us directly and we'll do our best to accommodate you."
+      "title": "Our HVAC Services",
+      "description": "From emergency AC repair to full system installations, Cool Right handles it all. Every service includes upfront pricing and a satisfaction guarantee."
     },
     "areas": {
-      "heroTitle": "Serving the Scottsdale Area",
-      "heroSubtitle": "Professional cleaning services throughout the Valley. We proudly serve Scottsdale and surrounding communities.",
-      "serviceRadiusText": "Don't see your city listed? We likely serve your area too! Give us a call to confirm.",
-      "ctaTitle": "Need Cleaning Service in Your Area?",
-      "ctaDescription": "Contact us today for a free estimate on your home or office cleaning."
+      "title": "Areas We Serve",
+      "description": "Cool Right AC & Heating proudly serves San Antonio and surrounding communities in Bexar, Comal, and Guadalupe counties."
     },
     "blog": {
-      "heroTitle": "Cleaning Tips & Insights",
-      "heroSubtitle": "Expert advice, cleaning hacks, and home care tips to help you maintain a healthy, happy home.",
-      "ctaTitle": "Ready for Professional Help?",
-      "ctaDescription": "Let us handle the deep cleaning while you enjoy your free time."
+      "title": "HVAC Tips & News",
+      "description": "Practical advice for keeping your San Antonio home comfortable year-round — from our certified technicians."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "description": "Ready to schedule service or have a question? Reach out and we'll get back to you within the hour."
     },
     "works": {
-      "heroTitle": "Our Transformations",
-      "heroSubtitle": "Browse through our before & after gallery. From messy to spotless, see the Sparkle difference.",
-      "ctaTitle": "Ready for Your Transformation?",
-      "ctaDescription": "Contact us for a free estimate on your cleaning project."
+      "title": "Our Work",
+      "description": "See recent installations, repairs, and projects completed across the San Antonio metro area."
     },
-    "financing": {
-      "heroTitle": "Affordable Cleaning Plans",
-      "heroSubtitle": "We offer flexible scheduling and competitive pricing to fit every budget.",
-      "whyFinanceTitle": "Why Choose Regular Cleaning?",
-      "ctaTitle": "Ready to Get Started?",
-      "ctaDescription": "Contact us today to discuss a cleaning schedule that works for you."
-    },
-    "emergencyTips": {
-      "heroTitle": "Quick Cleaning Tips",
-      "heroSubtitle": "Use these tips for common cleaning emergencies between professional visits.",
-      "commonTitle": "Common Cleaning Challenges",
-      "preventionTitle": "Maintain a Clean Home",
-      "preventionSubtitle": "Simple habits that keep your home fresh between professional cleanings.",
-      "contactTitle": "Need Professional Help?",
-      "contactSubtitle": "Our cleaning team is ready to tackle any mess, big or small."
+    "about": {
+      "title": "About Cool Right",
+      "description": "Family-owned, locally operated, and committed to honest HVAC service in San Antonio since 2016."
     }
   }
 }

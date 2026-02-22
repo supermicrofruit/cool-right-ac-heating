@@ -1,160 +1,146 @@
 {
+  "categories": [
+    { "name": "Cooling", "slug": "cooling" },
+    { "name": "Heating", "slug": "heating" },
+    { "name": "Maintenance", "slug": "maintenance" },
+    { "name": "Indoor Air Quality", "slug": "air-quality" }
+  ],
   "services": [
     {
-      "slug": "electrical-repair",
-      "name": "Electrical Repair",
-      "shortDescription": "Expert diagnosis and repair for all electrical issues.",
-      "longDescription": "Flickering lights? Tripping breakers? Dead outlets? Bright Spark Electric diagnoses and repairs all electrical problems safely and correctly. Our licensed electricians identify the root cause and fix it right the first time, ensuring your home's electrical system is safe and reliable.",
-      "icon": "Zap",
+      "slug": "ac-repair",
+      "name": "AC Repair",
+      "shortDescription": "Fast, reliable air conditioning repair for all makes and models. Same-day service available across San Antonio.",
+      "longDescription": "When your AC goes out in a San Antonio summer, every minute counts. Cool Right AC & Heating provides fast, dependable air conditioning repair for all major brands including Trane, Carrier, Lennox, Goodman, and Rheem. Our NATE-certified technicians diagnose the problem quickly and give you an honest, upfront quote before any work begins.\n\nCommon issues we fix include refrigerant leaks, compressor failures, frozen evaporator coils, faulty capacitors, and thermostat malfunctions. We stock common parts on our trucks so most repairs are completed in a single visit. No overtime charges on evenings or weekends — because AC emergencies don't follow a schedule.\n\nEvery repair is backed by our parts and labor warranty. We'll also inspect your full system and let you know if there are any issues that could cause problems down the road — no pressure, just honest advice.",
+      "icon": "Snowflake",
       "features": [
-        "All electrical issues",
-        "Same-day service available",
-        "Thorough troubleshooting",
-        "Code-compliant repairs",
-        "Safety inspection included",
-        "2-year warranty"
+        "Same-day emergency service",
+        "All major brands serviced",
+        "Upfront pricing — no surprises",
+        "Parts and labor warranty",
+        "Evening and weekend availability",
+        "NATE-certified technicians"
       ],
-      "category": "repairs",
+      "category": "cooling",
       "emergency": true
     },
     {
-      "slug": "panel-upgrade",
-      "name": "Panel Upgrade",
-      "shortDescription": "Upgrade your electrical panel for more power and safety.",
-      "longDescription": "Older homes often have electrical panels that can't handle modern demands. Bright Spark Electric upgrades panels from 100 to 200 amps or more, adding capacity for modern appliances, EV chargers, and home additions. All work is permitted and inspected.",
-      "icon": "Server",
-      "features": [
-        "100 to 200 amp upgrades",
-        "Permit included",
-        "Utility coordination",
-        "Code compliance",
-        "Arc-fault protection",
-        "Surge protection options"
-      ],
-      "category": "upgrades"
-    },
-    {
-      "slug": "outlet-installation",
-      "name": "Outlet & Switch Installation",
-      "shortDescription": "Install, repair, or upgrade outlets and switches.",
-      "longDescription": "Need more outlets? Want USB charging ports? Upgrading to smart switches? Bright Spark Electric installs all types of outlets and switches, from standard to GFCI, AFCI, and smart devices. We ensure proper placement, secure connections, and code compliance.",
-      "icon": "Plug",
-      "features": [
-        "Standard outlets",
-        "GFCI outlets",
-        "USB charging outlets",
-        "Smart switches",
-        "Dimmer switches",
-        "220V outlets"
-      ],
-      "category": "installation"
-    },
-    {
-      "slug": "lighting",
-      "name": "Lighting Installation",
-      "shortDescription": "Indoor, outdoor, and specialty lighting solutions.",
-      "longDescription": "Transform your space with professional lighting installation from Bright Spark Electric. We install recessed lighting, chandeliers, under-cabinet lights, landscape lighting, and more. Our electricians ensure safe installation and help you choose the right fixtures for your needs.",
-      "icon": "Lightbulb",
-      "features": [
-        "Recessed lighting",
-        "Chandeliers & pendants",
-        "Under-cabinet lighting",
-        "Landscape lighting",
-        "Security lighting",
-        "LED upgrades"
-      ],
-      "category": "installation"
-    },
-    {
-      "slug": "ceiling-fan",
-      "name": "Ceiling Fan Installation",
-      "shortDescription": "Professional ceiling fan installation and repair.",
-      "longDescription": "A properly installed ceiling fan improves comfort and saves energy. Bright Spark Electric installs all types of ceiling fans, from simple to smart-enabled. We ensure secure mounting, proper wiring, and balanced operation.",
+      "slug": "ac-installation",
+      "name": "AC Installation",
+      "shortDescription": "Professional air conditioning installation with top-rated brands. Free in-home estimates and financing available.",
+      "longDescription": "Whether you're replacing an aging unit or installing AC in a new construction, Cool Right delivers expert air conditioning installation sized and configured for San Antonio's extreme heat. We carry high-efficiency systems from Trane, Carrier, and Goodman that are built to handle 100-degree Texas summers without driving your electric bill through the roof.\n\nEvery installation starts with a thorough load calculation to make sure your new system is properly sized for your home. An oversized unit short-cycles and wastes energy. An undersized unit runs nonstop and can't keep up. We get it right.\n\nOur installation crews are factory-trained and follow manufacturer specifications to the letter — which protects your warranty and ensures peak performance from day one. We also offer flexible financing options so you can get the comfort you need without the financial stress.",
       "icon": "Fan",
       "features": [
-        "All fan types",
-        "Secure mounting",
-        "Remote controls",
-        "Smart fan setup",
-        "Old fan removal",
-        "Proper balancing"
+        "Free in-home estimates",
+        "Manual J load calculations",
+        "Top-rated brands: Trane, Carrier, Goodman",
+        "Financing available (0% APR options)",
+        "10-year manufacturer warranty",
+        "Professional permit handling"
       ],
-      "category": "installation"
+      "category": "cooling",
+      "emergency": false
     },
     {
-      "slug": "ev-charger",
-      "name": "EV Charger Installation",
-      "shortDescription": "Install a Level 2 EV charger at your home.",
-      "longDescription": "Charge your electric vehicle at home with a Level 2 charger installation from Bright Spark Electric. We install all major brands including Tesla, ChargePoint, and JuiceBox. Our licensed electricians ensure proper circuit sizing, permitting, and safe installation.",
-      "icon": "Battery",
+      "slug": "heating-repair",
+      "name": "Heating Repair",
+      "shortDescription": "Furnace and heat pump repair to keep your family warm through San Antonio's cold snaps.",
+      "longDescription": "San Antonio winters may be mild by northern standards, but when a cold front drops temperatures into the 20s and 30s, a working heater is essential. Cool Right AC & Heating repairs all types of heating systems including gas furnaces, electric furnaces, heat pumps, and dual-fuel systems.\n\nCommon heating issues we resolve include pilot light and ignition problems, blower motor failures, cracked heat exchangers, thermostat malfunctions, and heat pumps stuck in cooling mode. Our technicians carry diagnostic equipment to pinpoint issues quickly and common replacement parts to complete most repairs the same day.\n\nSafety is our top priority with heating repairs. We perform carbon monoxide testing on every gas furnace repair and will alert you immediately if we detect any safety concerns. Your family's comfort and safety come first.",
+      "icon": "Flame",
       "features": [
-        "All EV charger brands",
-        "Level 2 charging",
-        "Panel capacity check",
-        "Permit included",
-        "Utility rebate assistance",
-        "NEMA 14-50 outlets"
+        "Gas and electric furnace repair",
+        "Heat pump diagnostics",
+        "Carbon monoxide safety testing",
+        "Same-day service available",
+        "All major brands serviced",
+        "Upfront repair quotes"
       ],
-      "category": "upgrades"
-    },
-    {
-      "slug": "rewiring",
-      "name": "Whole-Home Rewiring",
-      "shortDescription": "Replace outdated wiring with safe, modern electrical.",
-      "longDescription": "Older homes with knob-and-tube or aluminum wiring pose serious safety risks. Bright Spark Electric replaces outdated wiring with modern copper wiring that meets current codes. We minimize disruption while ensuring your home is safe for decades to come.",
-      "icon": "Home",
-      "features": [
-        "Complete rewiring",
-        "Minimal wall damage",
-        "Panel upgrade included",
-        "All permits handled",
-        "Code compliance",
-        "Grounded outlets throughout"
-      ],
-      "category": "upgrades"
-    },
-    {
-      "slug": "emergency-electrical",
-      "name": "Emergency Electrical",
-      "shortDescription": "24/7 emergency electrical service.",
-      "longDescription": "Electrical emergencies can be dangerous. Power outages, sparking outlets, burning smells—don't wait. Bright Spark Electric offers 24/7 emergency electrical service in Denver. Our licensed electricians respond quickly to keep your family safe.",
-      "icon": "AlertCircle",
-      "features": [
-        "24/7 availability",
-        "Fast response",
-        "Safety first approach",
-        "All emergencies handled",
-        "Licensed electricians",
-        "Permanent solutions"
-      ],
-      "category": "emergency",
+      "category": "heating",
       "emergency": true
-    }
-  ],
-  "categories": [
-    {
-      "slug": "repairs",
-      "name": "Electrical Repairs",
-      "icon": "Wrench",
-      "description": "Fix electrical problems safely."
     },
     {
-      "slug": "installation",
-      "name": "Installation",
-      "icon": "Wrench",
-      "description": "Outlets, lighting, fans, and more."
+      "slug": "furnace-installation",
+      "name": "Furnace Installation",
+      "shortDescription": "New furnace and heating system installation with expert sizing and professional setup.",
+      "longDescription": "When repair costs start adding up or your furnace is past its 15-year lifespan, a new installation makes financial sense. Cool Right installs high-efficiency gas furnaces, electric furnaces, and heat pump systems designed for the San Antonio climate.\n\nSan Antonio's mild winters mean a heat pump is often the most efficient choice — providing both heating and cooling from a single system. For homes with existing gas lines, a high-efficiency gas furnace paired with your AC can be the most cost-effective option. We'll walk you through the pros and cons of each so you can make an informed decision.\n\nEvery installation includes removal and disposal of your old equipment, new thermostat setup, and a post-installation inspection to verify everything is running at peak efficiency. We handle all city permits and inspections.",
+      "icon": "Thermometer",
+      "features": [
+        "Free replacement estimates",
+        "Energy-efficient options",
+        "Heat pump and gas furnace options",
+        "Old equipment removal included",
+        "City permits handled",
+        "Financing with low monthly payments"
+      ],
+      "category": "heating",
+      "emergency": false
     },
     {
-      "slug": "upgrades",
-      "name": "Upgrades",
-      "icon": "Wrench",
-      "description": "Panel upgrades, rewiring, EV chargers."
+      "slug": "duct-cleaning",
+      "name": "Duct Cleaning",
+      "shortDescription": "Professional air duct cleaning to improve indoor air quality and system efficiency in your San Antonio home.",
+      "longDescription": "San Antonio's dusty climate, oak pollen, and cedar fever season mean your air ducts collect contaminants faster than you might think. Over time, dust, pet dander, mold spores, and allergens build up in your ductwork and circulate through your home every time the system runs.\n\nCool Right uses professional-grade HEPA-filtered vacuum equipment and rotary brush systems to thoroughly clean your entire duct system — supply lines, return lines, and registers. We also inspect for duct leaks, disconnected sections, and insulation damage that could be costing you money.\n\nMost San Antonio homes benefit from duct cleaning every 3-5 years, or sooner if you have pets, allergies, or have recently completed a renovation. Our technicians will show you before-and-after photos so you can see the difference.",
+      "icon": "Wind",
+      "features": [
+        "HEPA-filtered equipment",
+        "Before and after documentation",
+        "Duct leak inspection included",
+        "Reduces allergens and dust",
+        "Improves system efficiency",
+        "Great for allergy sufferers"
+      ],
+      "category": "air-quality",
+      "emergency": false
     },
     {
-      "slug": "emergency",
-      "name": "Emergency",
-      "icon": "Wrench",
-      "description": "24/7 urgent electrical service."
+      "slug": "maintenance-plans",
+      "name": "Maintenance Plans",
+      "shortDescription": "Preventive HVAC maintenance plans that catch problems early and keep your system running efficiently.",
+      "longDescription": "The best way to avoid expensive breakdowns — especially during a San Antonio July — is regular preventive maintenance. Cool Right's maintenance plans include two visits per year: one before summer to tune up your AC and one before winter to check your heating system.\n\nDuring each visit, our technicians perform a comprehensive inspection: checking refrigerant levels, cleaning coils, testing electrical connections, lubricating moving parts, inspecting the condensate drain, and verifying thermostat calibration. We catch small problems before they turn into big repair bills.\n\nMaintenance plan members also receive priority scheduling during peak season (no more waiting days for service when everyone's AC breaks down at once), discounts on repairs and parts, and no overtime charges. It's the smartest investment you can make in your HVAC system.",
+      "icon": "ClipboardCheck",
+      "features": [
+        "Two tune-ups per year (spring & fall)",
+        "Priority scheduling during peak season",
+        "15% discount on all repairs",
+        "No overtime charges — ever",
+        "Extends equipment lifespan",
+        "Transferable to new homeowner"
+      ],
+      "category": "maintenance",
+      "emergency": false
+    },
+    {
+      "slug": "emergency-hvac",
+      "name": "Emergency HVAC Service",
+      "shortDescription": "24/7 emergency HVAC repair when you need it most. No overtime charges for Cool Right customers.",
+      "longDescription": "AC failures in San Antonio don't wait for business hours. When your system goes down at midnight during a heat wave or your furnace stops working during a winter cold front, Cool Right's emergency team is ready.\n\nOur emergency technicians are dispatched with fully stocked trucks so we can resolve most issues on the spot — no waiting for parts to be ordered. We handle everything from compressor failures and refrigerant leaks to electrical issues and complete system shutdowns.\n\nWe understand that an HVAC emergency is stressful. That's why we provide clear communication from the moment you call: estimated arrival time, upfront diagnosis, and honest pricing before we start any work. Maintenance plan members receive priority emergency response and no overtime surcharges.",
+      "icon": "Siren",
+      "features": [
+        "Available 24 hours, 7 days a week",
+        "Rapid response times across San Antonio",
+        "Fully stocked service trucks",
+        "Upfront pricing before work begins",
+        "No overtime charges for plan members",
+        "All major brands and systems"
+      ],
+      "category": "cooling",
+      "emergency": true
+    },
+    {
+      "slug": "thermostat-installation",
+      "name": "Thermostat Installation",
+      "shortDescription": "Smart thermostat installation and programming to maximize comfort and cut energy costs.",
+      "longDescription": "Upgrading to a smart thermostat is one of the easiest ways to cut your energy bills and improve comfort in your San Antonio home. Cool Right installs and configures all major smart thermostat brands including Nest, Ecobee, Honeywell Home, and Emerson Sensi.\n\nA properly installed and programmed smart thermostat can save you 10-15% on heating and cooling costs by learning your schedule, adjusting for San Antonio's temperature swings, and allowing remote control from your phone. Our technicians ensure compatibility with your existing HVAC system, handle all wiring, and walk you through setup and programming before we leave.\n\nWe also offer basic thermostat upgrades for homes that don't need smart features. Whether you want Wi-Fi control or just a reliable programmable thermostat, we'll help you choose the right option for your home and budget.",
+      "icon": "Gauge",
+      "features": [
+        "Nest, Ecobee, Honeywell compatible",
+        "System compatibility check included",
+        "Professional wiring and setup",
+        "Programming walkthrough provided",
+        "Save 10-15% on energy bills",
+        "Wi-Fi and app control setup"
+      ],
+      "category": "maintenance",
+      "emergency": false
     }
   ]
 }
