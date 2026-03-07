@@ -1,5 +1,6 @@
 import { Metadata } from 'next'
 import businessData from '@/data/business.json'
+import metaData from '@/data/_meta.json'
 
 /**
  * SEO Helper Functions
@@ -38,6 +39,8 @@ export function generateMetadata({
 } & Partial<Omit<Metadata, 'title' | 'description' | 'openGraph'>>): Metadata {
   const pageDescription = description || seo.defaultDescription
 
+  const ogImage = (metaData as any).ogImage;
+
   return {
     title,
     description: pageDescription,
@@ -47,12 +50,14 @@ export function generateMetadata({
       type: 'website',
       locale: 'en_US',
       siteName: businessName,
+      ...(ogImage ? { images: [{ url: ogImage }] } : {}),
       ...openGraph,
     },
     twitter: {
       card: 'summary_large_image',
       title: formatTitle(title),
       description: pageDescription,
+      ...(ogImage ? { images: [ogImage] } : {}),
     },
     ...rest,
   }
@@ -96,24 +101,28 @@ export function getRootMetadata(): Metadata {
       siteName: businessName,
       title: defaultTitle,
       description: seo.defaultDescription,
+      ...((metaData as any).ogImage ? { images: [{ url: (metaData as any).ogImage }] } : {}),
     },
     twitter: {
       card: 'summary_large_image',
       title: defaultTitle,
       description: seo.defaultDescription,
+      ...((metaData as any).ogImage ? { images: [(metaData as any).ogImage] } : {}),
     },
     // Favicon and apple-touch-icon are generated dynamically by app/icon.tsx and app/apple-icon.tsx
-    robots: {
-      index: true,
-      follow: true,
-      googleBot: {
-        index: true,
-        follow: true,
-        'max-video-preview': -1,
-        'max-image-preview': 'large',
-        'max-snippet': -1,
-      },
-    },
+    robots: process.env.NEXT_PUBLIC_NOINDEX !== 'false'
+      ? { index: false, follow: false }
+      : {
+          index: true,
+          follow: true,
+          googleBot: {
+            index: true,
+            follow: true,
+            'max-video-preview': -1,
+            'max-image-preview': 'large',
+            'max-snippet': -1,
+          },
+        },
     ...(process.env.GOOGLE_SITE_VERIFICATION ? {
       verification: {
         google: process.env.GOOGLE_SITE_VERIFICATION,
@@ -183,7 +192,7 @@ export function generateDynamicMetadata({
   openGraph?: Partial<Metadata['openGraph']>
 }): Metadata {
   const fullTitle = title
-  const url = path ? `${businessData.website}${path}` : undefined
+  const url = path ? `${businessData.website || ''}${path}` : undefined
 
   return {
     title: fullTitle,
